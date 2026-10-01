@@ -1,0 +1,19 @@
+Salida real de src/Analisis_sentimientos.py con data/raw/capitulo_prueba.txt
+Modelo: pysentimiento, create_analyzer(task="emotion", lang="es")
+Formato: [id] (emoción principal % + emoción secundaria %) | oración
+
+Procesando 8 oraciones del libro...
+================================================================================
+[001] (Neutral 99.4% + Sorpresa  0.2%) | Era de noche en la posada Roca de Guía.
+[002] (Neutral 97.0% + Sorpresa  1.1%) | Un silencio triple envolvía el lugar,
+[003] (Neutral 98.4% + Sorpresa  0.6%) | un silencio pesado que nacía de las cosas que no estaban allí.
+[004] (Miedo 43.3% + Sorpresa 25.8%)   | De pronto, la puerta se abrió con violencia y un viajero empapado cayó de rodillas, temblando.
+[005] (Sorpresa 57.0% + Miedo 14.2%)   | —¡Están en el camino! —gritó con desesperación—. ¡Los he visto con mis propios ojos!
+[006] (Neutral 98.5% + Tristeza  1.0%) | El posadero no levantó la vista del vaso que limpiaba.
+[007] (Neutral 58.3% + Miedo 27.2%)    | No había miedo en sus ojos, solo una calma fría.
+[008] (Neutral 98.7% + Alegría  0.8%)  | Sirvió un trago de vino especiado y lo deslizó sobre la madera con total tranquilidad.
+
+Observaciones:
+- [004]-[005]: el modelo capta el giro de la escena (neutral -> miedo -> sorpresa -> calma).
+- [007]: palabra gatillo. "miedo" sube Miedo a 27,2% aunque la oración lo niega.
+- [002]-[003]: una sola oración partida en dos por el salto de línea del texto original.
