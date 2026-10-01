@@ -73,13 +73,13 @@ pip install -r requirements.txt
 ### 3. Ejecución
 
 ```bash
-python Analisis_sentimientos.py
+python src/Analisis_sentimientos.py
 ```
 
 El script:
 
 1. Carga el modelo de emociones (la primera vez tarda porque lo descarga).
-2. Escribe un capítulo de ejemplo en `capitulo_prueba.txt`.
+2. Escribe un capítulo de ejemplo en `data/raw/capitulo_prueba.txt`.
 3. Lo divide en oraciones y clasifica cada una.
 4. Imprime una línea por oración con la emoción principal y la secundaria:
 
@@ -89,12 +89,12 @@ El script:
 
 ### 4. Usarlo con otro texto
 
-Desde Python, con cualquier archivo `.txt` en UTF-8:
+Desde Python (ejecutando dentro de `src/`), con cualquier archivo `.txt` en UTF-8:
 
 ```python
 from Analisis_sentimientos import procesar_capitulo
 
-historial = procesar_capitulo("mi_capitulo.txt")
+historial = procesar_capitulo("../data/raw/mi_capitulo.txt")
 ```
 
 Cada elemento de `historial` es un diccionario:
@@ -119,7 +119,7 @@ Cada elemento de `historial` es un diccionario:
 
 ## Resultados del prototipo (Fase 1)
 
-Salida real con el capítulo de ejemplo:
+Salida real con el capítulo de ejemplo (guardada en [`results/fase1_capitulo_prueba.txt`](results/fase1_capitulo_prueba.txt)):
 
 ```
 Procesando 8 oraciones del libro...
@@ -182,26 +182,20 @@ correcta, para medir qué tan bien acierta el modelo automático y tener una bas
 
 ## Estructura del repositorio
 
-Estado actual:
-
 ```
 Acustica-Aun-sin-nombre/
-├── Analisis_sentimientos.py   # Fase 1: segmentación + clasificación de emociones
-├── requirements.txt
 ├── README.md
-└── CLAUDE.md                  # Contexto del proyecto para asistentes de IA
-```
-
-Estructura objetivo (en migración):
-
-```
-├── data/raw/          # textos originales
-├── data/processed/    # salidas de la fase 1
-├── src/               # código
-├── notebooks/         # exploración
-├── figures/           # gráficos
-├── results/           # audios y resultados
-└── references/        # papers y documentación
+├── requirements.txt
+├── CLAUDE.md                     # Contexto del proyecto para asistentes de IA
+├── src/
+│   └── Analisis_sentimientos.py  # Fase 1: segmentación + clasificación de emociones
+├── data/
+│   ├── raw/                      # Textos originales (capitulo_prueba.txt)
+│   └── processed/                # Líneas temporales y datos etiquetados a mano (próximamente)
+├── results/                      # Salidas: fase1_capitulo_prueba.txt; audios de la fase 2
+├── notebooks/                    # Exploración y evaluación (próximamente)
+├── figures/                      # Gráficos de la línea temporal emocional (próximamente)
+└── references/                   # Bibliografía
 ```
 
 ## Referencias
