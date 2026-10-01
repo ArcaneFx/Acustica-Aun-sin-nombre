@@ -1,0 +1,12 @@
+# Entorno de Python
+.venv/
+__pycache__/
+*.pyc
+
+# Modelos descargados / cachés
+.cache/
+
+# Editor / sistema
+.vscode/
+.idea/
+.DS_Store
