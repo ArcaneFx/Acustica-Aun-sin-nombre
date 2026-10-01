@@ -1,1 +1,3 @@
 pysentimiento
+torch
+hf_transfer
