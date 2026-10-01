@@ -10,3 +10,6 @@ __pycache__/
 .vscode/
 .idea/
 .DS_Store
+
+# Contexto local para asistentes de IA
+CLAUDE.md

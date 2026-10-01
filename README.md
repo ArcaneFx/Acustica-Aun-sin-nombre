@@ -194,7 +194,6 @@ correcta, para medir qué tan bien acierta el modelo automático y tener una bas
 Acustica-Aun-sin-nombre/
 ├── README.md
 ├── requirements.txt
-├── CLAUDE.md                     # Contexto del proyecto para asistentes de IA
 ├── src/
 │   └── Analisis_sentimientos.py  # Fase 1: segmentación + clasificación de emociones
 ├── data/
