@@ -60,6 +60,14 @@ Texto → Segmentación → Clasificación de emociones → Línea temporal → 
 - Python 3.9 o superior
 - Conexión a internet para instalar las dependencias (incluye PyTorch, que pesa bastante) y, la primera vez, para descargar el modelo desde Hugging Face
 
+Dependencias (`requirements.txt`):
+
+| Paquete | Para qué |
+|---|---|
+| `pysentimiento` | Modelo de análisis de emociones en español |
+| `torch` | PyTorch, el motor donde corre el modelo |
+| `hf_transfer` | Descarga más rápida del modelo desde Hugging Face (opcional; se activa con `HF_HUB_ENABLE_HF_TRANSFER=1`) |
+
 ### 2. Instalación
 
 ```bash
