@@ -1,4 +1,5 @@
 import re
+from pathlib import Path
 from pysentimiento import create_analyzer
 
 print("Cargando modelo de emociones...")
@@ -87,7 +88,10 @@ if __name__ == "__main__":
     Sirvió un trago de vino especiado y lo deslizó sobre la madera con total tranquilidad.
     """
     
-    with open("capitulo_prueba.txt", "w", encoding="utf-8") as f:
+    # El capítulo de ejemplo se guarda en data/raw/ (relativo a la raíz del repo)
+    ruta_capitulo = Path(__file__).resolve().parent.parent / "data" / "raw" / "capitulo_prueba.txt"
+    ruta_capitulo.parent.mkdir(parents=True, exist_ok=True)
+    with open(ruta_capitulo, "w", encoding="utf-8") as f:
         f.write(capitulo_ejemplo)
 
-    historial = procesar_capitulo("capitulo_prueba.txt")
+    historial = procesar_capitulo(ruta_capitulo)
