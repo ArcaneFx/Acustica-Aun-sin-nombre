@@ -204,7 +204,9 @@ Acustica-Aun-sin-nombre/
 ├── figures/                      # Gráficos de la línea temporal emocional (próximamente)
 └── references/                   # Bibliografía
 ```
+## Presentación Hito 1
 
+https://canva.link/hp4wto71mx5y0zl
 ## Referencias
 
 - Pérez, J. M. et al. (2021). *pysentimiento: A Python Toolkit for Opinion Mining and Social NLP tasks.* arXiv:2106.09462.
