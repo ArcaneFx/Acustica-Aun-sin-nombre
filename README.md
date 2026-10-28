@@ -67,16 +67,26 @@ Dependencias (`requirements.txt`):
 | `pysentimiento` | Modelo de análisis de emociones en español |
 | `torch` | PyTorch, el motor donde corre el modelo |
 | `hf_transfer` | Descarga más rápida del modelo desde Hugging Face (opcional; se activa con `HF_HUB_ENABLE_HF_TRANSFER=1`) |
-
+| `pandas` | Estructuración y manejo de los datos extraídos en DataFrames |
+| `matplotlib` | Generación de gráficos para visualizar la línea temporal emocional |
 ### 2. Instalación
 
+Es obligatorio utilizar un entorno virtual local (`.venv`) para aislar las dependencias del proyecto y evitar errores o conflictos con las librerías del sistema operativo.
+
 ```bash
-git clone https://github.com/ArcaneFx/Acustica-Aun-sin-nombre.git
+git clone [https://github.com/ArcaneFx/Acustica-Aun-sin-nombre.git](https://github.com/ArcaneFx/Acustica-Aun-sin-nombre.git)
 cd Acustica-Aun-sin-nombre
+
+# 1. Crear el entorno virtual aislado
 python -m venv .venv
-source .venv/bin/activate        # En Windows: .venv\Scripts\activate
+
+# 2. Activar el entorno
+source .venv/bin/activate             # En Linux/macOS (bash/zsh)
+source .venv/bin/activate.fish        # En Linux/macOS (fish)
+.venv\Scripts\activate                # En Windows
+
+# 3. Instalar todas las dependencias
 pip install -r requirements.txt
-```
 
 ### 3. Ejecución
 
@@ -87,72 +97,51 @@ python src/Analisis_sentimientos.py
 El script:
 
 1. Carga el modelo de emociones (la primera vez tarda porque lo descarga).
-2. Escribe un capítulo de ejemplo en `data/raw/capitulo_prueba.txt`.
-3. Lo divide en oraciones y clasifica cada una.
-4. Imprime una línea por oración con la emoción principal y la secundaria:
+2. Lee los textos previamente limpiados de Horacio Quiroga desde la carpeta `data/processed/`.
+3. Clasifica la emoción de cada oración y exporta la línea temporal completa en formato JSON para la Fase 2.
+4. Imprime en consola el progreso y la distribución total de emociones encontradas:
 
-```
-[001] (Neutral 99.4% + Sorpresa  0.2%) | Era de noche en la posada Roca de Guía.
-```
+```text
+Procesando 84 oraciones de data/processed/quiroga_el_almohadon_de_pluma_limpio.txt...
+Guardado: data/processed/quiroga_el_almohadon_de_pluma_linea_temporal.json
+Distribución de emociones primarias: {'Alegría': 3, 'Tristeza': 8, 'Enojo': 1, 'Miedo': 1, 'Neutral': 67, 'Sorpresa': 4, 'Disgusto': 0}
+### 4. Formato de salida y nuevos textos
 
-### 4. Usarlo con otro texto
+Para analizar nuevos cuentos, primero debes ubicarlos en formato texto dentro de `data/processed/` (idealmente tras pasar por `src/limpiar_textos.py`) y agregarlos a la lista de ejecución de `src/Analisis_sentimientos.py`. 
 
-Desde Python (ejecutando dentro de `src/`), con cualquier archivo `.txt` en UTF-8:
+El script generará un archivo `_linea_temporal.json` donde cada elemento de la lista tiene esta estructura:
 
-```python
-from Analisis_sentimientos import procesar_capitulo
-
-historial = procesar_capitulo("../data/raw/mi_capitulo.txt")
-```
-
-Cada elemento de `historial` es un diccionario:
-
-```python
-{
+```json
+[
+  {
     "id": 1,
     "texto": "Era de noche en la posada Roca de Guía.",
     "primaria":   {"emocion": "Neutral", "prob": 0.994},
     "secundaria": {"emocion": "Sorpresa", "prob": 0.002},
-    "todas_las_probabilidades": {"others": 0.994, "surprise": 0.002, ...}
-}
-```
+    "todas_las_probabilidades": {"others": 0.994, "surprise": 0.002, "fear": 0.001, "joy": 0.001, "sadness": 0.001, "anger": 0.001, "disgust": 0.000}
+  }
+]
 
-> Nota: importar el archivo ya carga el modelo, así que el `import` tarda unos segundos.
+## Cómo divide el texto (Preprocesamiento)
 
-## Cómo divide el texto
+- Se unen las líneas fragmentadas por saltos de línea erróneos del texto original.
+- Se estandarizan los distintos tipos de guiones a rayas de diálogo (`—`).
+- Las líneas de diálogo se tratan como una unidad narrativa completa.
+- El texto restante se divide en oraciones al encontrar `.`, `!` o `?` seguidos de un espacio.
 
-- Separa el texto por líneas.
-- Las líneas de diálogo (que empiezan con `—`, `-`, `«` o `"`) se tratan como una unidad completa.
-- El resto se divide en oraciones al encontrar `.`, `!` o `?` seguidos de un espacio.
+## Resultados de la Fase 1
 
-## Resultados del prototipo (Fase 1)
+Los resultados actuales se basan en tres cuentos de Horacio Quiroga (*El almohadón de pluma*, *La gallina degollada*, *A la deriva*). 
 
-Salida real con el capítulo de ejemplo (guardada en [`results/fase1_capitulo_prueba.txt`](results/fase1_capitulo_prueba.txt)):
+- **Datos exportados:** Se generaron tres diccionarios de trayectoria narrativa (`_linea_temporal.json`) en la carpeta `data/processed/`.
+- **Visualización:** Se crearon gráficas PNG en la carpeta `figures/` que mapean la evolución emocional de cada historia.
 
-```
-Procesando 8 oraciones del libro...
-[001] (Neutral 99.4% + Sorpresa  0.2%) | Era de noche en la posada Roca de Guía.
-[002] (Neutral 97.0% + Sorpresa  1.1%) | Un silencio triple envolvía el lugar,
-[003] (Neutral 98.4% + Sorpresa  0.6%) | un silencio pesado que nacía de las cosas que no estaban allí.
-[004] (Miedo 43.3% + Sorpresa 25.8%)   | De pronto, la puerta se abrió con violencia y un viajero empapado cayó de rodillas, temblando.
-[005] (Sorpresa 57.0% + Miedo 14.2%)   | —¡Están en el camino! —gritó con desesperación—. ¡Los he visto con mis propios ojos!
-[006] (Neutral 98.5% + Tristeza  1.0%) | El posadero no levantó la vista del vaso que limpiaba.
-[007] (Neutral 58.3% + Miedo 27.2%)    | No había miedo en sus ojos, solo una calma fría.
-[008] (Neutral 98.7% + Alegría  0.8%)  | Sirvió un trago de vino especiado y lo deslizó sobre la madera con total tranquilidad.
-```
+**Observaciones y Limitaciones:**
 
-Observaciones:
+- Existe un fuerte desbalance hacia la etiqueta "Neutral" (por ejemplo, 99 de 154 oraciones en *La gallina degollada* se clasificaron como neutrales).
+- El modelo tiene un umbral muy alto para detectar emociones literarias sutiles, ya que fue entrenado principalmente con textos de redes sociales. Las etiquetas de Tristeza, Enojo y Miedo se restringen casi exclusivamente a los clímax narrativos.
+- Al asumir los diálogos como una sola unidad, intervenciones largas del narrador dentro del diálogo agrupan varias oraciones en una sola predicción, diluyendo emociones específicas.
 
-- El modelo capta el giro de la escena: narración neutral → **miedo** (la puerta se abre) → **sorpresa** (el grito del viajero) → vuelta a la calma.
-- **Palabras gatillo:** en `[007]` la palabra "miedo" sube Miedo a 27,2% aunque la oración dice que *no* había miedo. El modelo reacciona a la palabra más que al contexto.
-- **Saltos de línea:** `[002]` y `[003]` son una sola oración que el salto de línea partió en dos.
-
-**Limitaciones conocidas:**
-
-- Las abreviaturas (`Sr.`, `etc.`) cortan la oración por error.
-- Una oración que continúa en la línea siguiente queda partida en dos.
-- Palabras emocionales sueltas pesan más que el contexto (negaciones como "no había miedo").
-- El modelo fue entrenado con textos de redes sociales, no con literatura.
 
 ## Estado del arte
 
@@ -190,20 +179,24 @@ correcta, para medir qué tan bien acierta el modelo automático y tener una bas
 
 ## Estructura del repositorio
 
-```
+```text
 Acustica-Aun-sin-nombre/
 ├── README.md
 ├── requirements.txt
+├── .gitignore                    # Reglas para ignorar el entorno virtual y temporales
+├── docs/
+│   └── seccion_benjamin.md       # Documentación metodológica de la Fase 1
 ├── src/
-│   └── Analisis_sentimientos.py  # Fase 1: segmentación + clasificación de emociones
+│   ├── limpiar_textos.py         # Preprocesamiento y unión de líneas
+│   ├── Analisis_sentimientos.py  # Clasificación de emociones y exportación a JSON
+│   └── graficar_emociones.py     # Generación de trayectoria emocional (pandas/matplotlib)
 ├── data/
-│   ├── raw/                      # Textos originales (capitulo_prueba.txt)
-│   └── processed/                # Líneas temporales y datos etiquetados a mano (próximamente)
-├── results/                      # Salidas: fase1_capitulo_prueba.txt; audios de la fase 2
-├── notebooks/                    # Exploración y evaluación (próximamente)
-├── figures/                      # Gráficos de la línea temporal emocional (próximamente)
+│   ├── raw/                      # Textos originales descargados
+│   └── processed/                # Textos limpios (_limpio.txt) y líneas temporales (.json)
+├── results/                      # Audios generados en la Fase 2
+├── notebooks/                    # Exploración y evaluación
+├── figures/                      # Gráficos PNG de la trayectoria narrativa
 └── references/                   # Bibliografía
-```
 ## Presentación Hito 1
 
 https://canva.link/hp4wto71mx5y0zl
@@ -215,5 +208,4 @@ https://canva.link/hp4wto71mx5y0zl
 
 ## Uso de IA
 
-Usamos herramientas de IA generativa (Claude, de Anthropic) como apoyo para organizar el repositorio, documentar
-y preparar la presentación. Las decisiones metodológicas, el código y el análisis son del equipo.
+Usamos herramientas de IA generativa (Claude de Anthropic y Gemini de Google) como apoyo para estructurar el repositorio, depurar los scripts de Python, visualizar los datos y redactar la documentación. Las decisiones metodológicas, la limpieza de los textos originales y el análisis integral de los resultados son de exclusiva autoría del equipo.
