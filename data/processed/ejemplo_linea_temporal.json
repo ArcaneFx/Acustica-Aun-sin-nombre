@@ -1,0 +1,130 @@
+[
+  {
+    "id": 1,
+    "texto": "Era de noche en la posada Roca de Guía.",
+    "primaria": {
+      "emocion": "Neutral",
+      "prob": 0.994
+    },
+    "secundaria": {
+      "emocion": "Sorpresa",
+      "prob": 0.002
+    },
+    "todas_las_probabilidades": {
+      "others": 0.994,
+      "surprise": 0.002
+    }
+  },
+  {
+    "id": 2,
+    "texto": "Un silencio triple envolvía el lugar,",
+    "primaria": {
+      "emocion": "Neutral",
+      "prob": 0.97
+    },
+    "secundaria": {
+      "emocion": "Sorpresa",
+      "prob": 0.011
+    },
+    "todas_las_probabilidades": {
+      "others": 0.97,
+      "surprise": 0.011
+    }
+  },
+  {
+    "id": 3,
+    "texto": "un silencio pesado que nacía de las cosas que no estaban allí.",
+    "primaria": {
+      "emocion": "Neutral",
+      "prob": 0.984
+    },
+    "secundaria": {
+      "emocion": "Sorpresa",
+      "prob": 0.006
+    },
+    "todas_las_probabilidades": {
+      "others": 0.984,
+      "surprise": 0.006
+    }
+  },
+  {
+    "id": 4,
+    "texto": "De pronto, la puerta se abrió con violencia y un viajero empapado cayó de rodillas, temblando.",
+    "primaria": {
+      "emocion": "Miedo",
+      "prob": 0.433
+    },
+    "secundaria": {
+      "emocion": "Sorpresa",
+      "prob": 0.258
+    },
+    "todas_las_probabilidades": {
+      "fear": 0.433,
+      "surprise": 0.258
+    }
+  },
+  {
+    "id": 5,
+    "texto": "—¡Están en el camino! —gritó con desesperación—. ¡Los he visto con mis propios ojos!",
+    "primaria": {
+      "emocion": "Sorpresa",
+      "prob": 0.57
+    },
+    "secundaria": {
+      "emocion": "Miedo",
+      "prob": 0.142
+    },
+    "todas_las_probabilidades": {
+      "surprise": 0.57,
+      "fear": 0.142
+    }
+  },
+  {
+    "id": 6,
+    "texto": "El posadero no levantó la vista del vaso que limpiaba.",
+    "primaria": {
+      "emocion": "Neutral",
+      "prob": 0.985
+    },
+    "secundaria": {
+      "emocion": "Tristeza",
+      "prob": 0.01
+    },
+    "todas_las_probabilidades": {
+      "others": 0.985,
+      "sadness": 0.01
+    }
+  },
+  {
+    "id": 7,
+    "texto": "No había miedo en sus ojos, solo una calma fría.",
+    "primaria": {
+      "emocion": "Neutral",
+      "prob": 0.583
+    },
+    "secundaria": {
+      "emocion": "Miedo",
+      "prob": 0.272
+    },
+    "todas_las_probabilidades": {
+      "others": 0.583,
+      "fear": 0.272
+    }
+  },
+  {
+    "id": 8,
+    "texto": "Sirvió un trago de vino especiado y lo deslizó sobre la madera con total tranquilidad.",
+    "primaria": {
+      "emocion": "Neutral",
+      "prob": 0.987
+    },
+    "secundaria": {
+      "emocion": "Alegría",
+      "prob": 0.008
+    },
+    "todas_las_probabilidades": {
+      "others": 0.987,
+      "joy": 0.008
+    }
+  }
+]
