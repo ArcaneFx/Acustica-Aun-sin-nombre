@@ -1,5 +1,6 @@
+import os
+import json
 import re
-from pathlib import Path
 from pysentimiento import create_analyzer
 
 print("Cargando modelo de emociones...")
@@ -18,12 +19,10 @@ EMOCIONES = {
 def segmentar_en_oraciones(texto):
     lineas = texto.strip().split("\n")
     oraciones_finales = []
-
     for linea in lineas:
         linea = linea.strip()
         if not linea:
             continue
-        
         if linea.startswith("—") or linea.startswith("-") or linea.startswith("«") or linea.startswith('"'):
             oraciones_finales.append(linea)
         else:
@@ -32,36 +31,29 @@ def segmentar_en_oraciones(texto):
                 p_limpia = p.strip()
                 if len(p_limpia) > 2:
                     oraciones_finales.append(p_limpia)
-
     return oraciones_finales
 
-def procesar_capitulo(ruta_archivo):
-    with open(ruta_archivo, 'r', encoding='utf-8') as f:
+def procesar_texto(ruta_entrada, ruta_salida):
+    with open(ruta_entrada, 'r', encoding='utf-8') as f:
         contenido = f.read()
 
     oraciones = segmentar_en_oraciones(contenido)
     linea_temporal_emociones = []
+    distribucion = {v: 0 for v in EMOCIONES.values()}
 
-    print(f"\nProcesando {len(oraciones)} oraciones del libro...")
-    print("=" * 80)
-
+    print(f"\nProcesando {len(oraciones)} oraciones de {ruta_entrada}...")
+    
     for i, oracion in enumerate(oraciones, start=1):
         res = analyzer.predict(oracion)
+        probabilidades_ordenadas = sorted(res.probas.items(), key=lambda item: item[1], reverse=True)
         
-        # Ordenar todas las probabilidades de mayor a menor
-        probabilidades_ordenadas = sorted(
-            res.probas.items(), 
-            key=lambda item: item[1], 
-            reverse=True
-        )
-        
-        # 1ra emoción dominante
         emo_1_key, prob_1 = probabilidades_ordenadas[0]
         emo_1 = EMOCIONES.get(emo_1_key, emo_1_key)
-        
-        # 2da emoción dominante
         emo_2_key, prob_2 = probabilidades_ordenadas[1]
         emo_2 = EMOCIONES.get(emo_2_key, emo_2_key)
+
+        # Contabilizar para la distribución de emociones
+        distribucion[emo_1] += 1
 
         registro = {
             "id": i,
@@ -72,26 +64,25 @@ def procesar_capitulo(ruta_archivo):
         }
         linea_temporal_emociones.append(registro)
 
-        # Formato: [ID] Primaria (X%) + Secundaria (Y%) | Texto
-        etiqueta_dual = f"{emo_1} {prob_1*100:4.1f}% + {emo_2} {prob_2*100:4.1f}%"
-        print(f"[{i:03d}] ({etiqueta_dual:<32}) | {oracion}")
-
-    return linea_temporal_emociones
+    # Guardar en formato JSON (Contrato Fase 2)
+    with open(ruta_salida, 'w', encoding='utf-8') as f:
+        json.dump(linea_temporal_emociones, f, ensure_ascii=False, indent=4)
+    
+    print(f"Guardado: {ruta_salida}")
+    print(f"Distribución de emociones primarias: {distribucion}")
 
 if __name__ == "__main__":
-    capitulo_ejemplo = """
-    Era de noche en la posada Roca de Guía. Un silencio triple envolvía el lugar, 
-    un silencio pesado que nacía de las cosas que no estaban allí.
-    De pronto, la puerta se abrió con violencia y un viajero empapado cayó de rodillas, temblando.
-    —¡Están en el camino! —gritó con desesperación—. ¡Los he visto con mis propios ojos!
-    El posadero no levantó la vista del vaso que limpiaba. No había miedo en sus ojos, solo una calma fría.
-    Sirvió un trago de vino especiado y lo deslizó sobre la madera con total tranquilidad.
-    """
+    cuentos = [
+        "quiroga_el_almohadon_de_pluma",
+        "quiroga_la_gallina_degollada",
+        "quiroga_a_la_deriva"
+    ]
     
-    # El capítulo de ejemplo se guarda en data/raw/ (relativo a la raíz del repo)
-    ruta_capitulo = Path(__file__).resolve().parent.parent / "data" / "raw" / "capitulo_prueba.txt"
-    ruta_capitulo.parent.mkdir(parents=True, exist_ok=True)
-    with open(ruta_capitulo, "w", encoding="utf-8") as f:
-        f.write(capitulo_ejemplo)
-
-    historial = procesar_capitulo(ruta_capitulo)
+    for cuento in cuentos:
+        ruta_in = f"data/processed/{cuento}_limpio.txt"
+        ruta_out = f"data/processed/{cuento}_linea_temporal.json"
+        
+        if os.path.exists(ruta_in):
+            procesar_texto(ruta_in, ruta_out)
+        else:
+            print(f"Archivo limpio no encontrado: {ruta_in}. Ejecuta limpiar_textos.py primero.")

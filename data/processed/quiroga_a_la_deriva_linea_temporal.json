@@ -1,0 +1,1556 @@
+[
+    {
+        "id": 1,
+        "texto": "#A LA DERIVA#",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.899
+        },
+        "secundaria": {
+            "emocion": "Alegría",
+            "prob": 0.026
+        },
+        "todas_las_probabilidades": {
+            "others": 0.899,
+            "joy": 0.026,
+            "sadness": 0.02,
+            "anger": 0.008,
+            "surprise": 0.026,
+            "disgust": 0.004,
+            "fear": 0.016
+        }
+    },
+    {
+        "id": 2,
+        "texto": "El hombre pisó algo blanduzco, y en seguida sintió la mordedura en el pie.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.838
+        },
+        "secundaria": {
+            "emocion": "Sorpresa",
+            "prob": 0.092
+        },
+        "todas_las_probabilidades": {
+            "others": 0.838,
+            "joy": 0.008,
+            "sadness": 0.011,
+            "anger": 0.003,
+            "surprise": 0.092,
+            "disgust": 0.003,
+            "fear": 0.046
+        }
+    },
+    {
+        "id": 3,
+        "texto": "Saltó adelante, y al volverse con un juramento, vió una yararacusú que arrollada sobre sí misma esperaba otro ataque.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.917
+        },
+        "secundaria": {
+            "emocion": "Sorpresa",
+            "prob": 0.053
+        },
+        "todas_las_probabilidades": {
+            "others": 0.917,
+            "joy": 0.016,
+            "sadness": 0.006,
+            "anger": 0.001,
+            "surprise": 0.053,
+            "disgust": 0.001,
+            "fear": 0.007
+        }
+    },
+    {
+        "id": 4,
+        "texto": "El hombre echó una veloz ojeada a su pie, donde dos gotitas de sangre engrosaban dificultosamente, y sacó el machete de la cintura.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.939
+        },
+        "secundaria": {
+            "emocion": "Sorpresa",
+            "prob": 0.039
+        },
+        "todas_las_probabilidades": {
+            "others": 0.939,
+            "joy": 0.005,
+            "sadness": 0.005,
+            "anger": 0.003,
+            "surprise": 0.039,
+            "disgust": 0.001,
+            "fear": 0.008
+        }
+    },
+    {
+        "id": 5,
+        "texto": "La víbora vió la amenaza, y hundió más la cabeza en el centro mismo de su espiral; pero el machete cayó de plano, dislocándole las vértebras.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.871
+        },
+        "secundaria": {
+            "emocion": "Tristeza",
+            "prob": 0.045
+        },
+        "todas_las_probabilidades": {
+            "others": 0.871,
+            "joy": 0.004,
+            "sadness": 0.045,
+            "anger": 0.012,
+            "surprise": 0.041,
+            "disgust": 0.005,
+            "fear": 0.023
+        }
+    },
+    {
+        "id": 6,
+        "texto": "El hombre se bajó hasta la mordedura, quitó las gotitas de sangre, y durante un instante contempló.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.978
+        },
+        "secundaria": {
+            "emocion": "Sorpresa",
+            "prob": 0.009
+        },
+        "todas_las_probabilidades": {
+            "others": 0.978,
+            "joy": 0.008,
+            "sadness": 0.002,
+            "anger": 0.001,
+            "surprise": 0.009,
+            "disgust": 0.001,
+            "fear": 0.002
+        }
+    },
+    {
+        "id": 7,
+        "texto": "Un dolor agudo nacía de los dos puntitos violeta, y comenzaba a invadir todo el pie.",
+        "primaria": {
+            "emocion": "Miedo",
+            "prob": 0.471
+        },
+        "secundaria": {
+            "emocion": "Neutral",
+            "prob": 0.311
+        },
+        "todas_las_probabilidades": {
+            "others": 0.311,
+            "joy": 0.022,
+            "sadness": 0.085,
+            "anger": 0.006,
+            "surprise": 0.098,
+            "disgust": 0.007,
+            "fear": 0.471
+        }
+    },
+    {
+        "id": 8,
+        "texto": "Apresuradamente se ligó el tobillo con su pañuelo y siguió por la picada hacia su rancho.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.96
+        },
+        "secundaria": {
+            "emocion": "Sorpresa",
+            "prob": 0.022
+        },
+        "todas_las_probabilidades": {
+            "others": 0.96,
+            "joy": 0.004,
+            "sadness": 0.007,
+            "anger": 0.002,
+            "surprise": 0.022,
+            "disgust": 0.001,
+            "fear": 0.005
+        }
+    },
+    {
+        "id": 9,
+        "texto": "El dolor en el pie aumentaba, con sensación de tirante abultamiento, y de pronto el hombre sintió dos o tres fulgurantes puntadas que como relámpagos habían irradiado desde la herida hasta la mitad de la pantorrilla.",
+        "primaria": {
+            "emocion": "Miedo",
+            "prob": 0.592
+        },
+        "secundaria": {
+            "emocion": "Tristeza",
+            "prob": 0.201
+        },
+        "todas_las_probabilidades": {
+            "others": 0.103,
+            "joy": 0.005,
+            "sadness": 0.201,
+            "anger": 0.006,
+            "surprise": 0.084,
+            "disgust": 0.008,
+            "fear": 0.592
+        }
+    },
+    {
+        "id": 10,
+        "texto": "Movía la pierna con dificultad; una metálica sequedad de garganta, seguida de sed quemante, le arrancó un nuevo juramento.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.935
+        },
+        "secundaria": {
+            "emocion": "Miedo",
+            "prob": 0.026
+        },
+        "todas_las_probabilidades": {
+            "others": 0.935,
+            "joy": 0.004,
+            "sadness": 0.009,
+            "anger": 0.001,
+            "surprise": 0.024,
+            "disgust": 0.001,
+            "fear": 0.026
+        }
+    },
+    {
+        "id": 11,
+        "texto": "Llegó por fin al rancho, y se echó de brazos sobre la rueda de un trapiche.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.78
+        },
+        "secundaria": {
+            "emocion": "Alegría",
+            "prob": 0.178
+        },
+        "todas_las_probabilidades": {
+            "others": 0.78,
+            "joy": 0.178,
+            "sadness": 0.004,
+            "anger": 0.001,
+            "surprise": 0.034,
+            "disgust": 0.001,
+            "fear": 0.002
+        }
+    },
+    {
+        "id": 12,
+        "texto": "Los dos puntitos violeta desaparecían ahora en la monstruosa hinchazón del pie entero.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.942
+        },
+        "secundaria": {
+            "emocion": "Sorpresa",
+            "prob": 0.019
+        },
+        "todas_las_probabilidades": {
+            "others": 0.942,
+            "joy": 0.004,
+            "sadness": 0.013,
+            "anger": 0.002,
+            "surprise": 0.019,
+            "disgust": 0.001,
+            "fear": 0.018
+        }
+    },
+    {
+        "id": 13,
+        "texto": "La piel parecía adelgazada y a punto de ceder, de tensa.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.676
+        },
+        "secundaria": {
+            "emocion": "Sorpresa",
+            "prob": 0.178
+        },
+        "todas_las_probabilidades": {
+            "others": 0.676,
+            "joy": 0.006,
+            "sadness": 0.067,
+            "anger": 0.003,
+            "surprise": 0.178,
+            "disgust": 0.002,
+            "fear": 0.068
+        }
+    },
+    {
+        "id": 14,
+        "texto": "Quiso llamar a su mujer, y la voz se quebró en un ronco arrastre de garganta reseca.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.916
+        },
+        "secundaria": {
+            "emocion": "Tristeza",
+            "prob": 0.049
+        },
+        "todas_las_probabilidades": {
+            "others": 0.916,
+            "joy": 0.003,
+            "sadness": 0.049,
+            "anger": 0.004,
+            "surprise": 0.019,
+            "disgust": 0.002,
+            "fear": 0.007
+        }
+    },
+    {
+        "id": 15,
+        "texto": "La sed lo devoraba.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.827
+        },
+        "secundaria": {
+            "emocion": "Miedo",
+            "prob": 0.08
+        },
+        "todas_las_probabilidades": {
+            "others": 0.827,
+            "joy": 0.022,
+            "sadness": 0.014,
+            "anger": 0.005,
+            "surprise": 0.043,
+            "disgust": 0.009,
+            "fear": 0.08
+        }
+    },
+    {
+        "id": 16,
+        "texto": "—¡Dorotea!—alcanzó a lanzar en un estertor.—¡Dame caña!",
+        "primaria": {
+            "emocion": "Alegría",
+            "prob": 0.768
+        },
+        "secundaria": {
+            "emocion": "Neutral",
+            "prob": 0.124
+        },
+        "todas_las_probabilidades": {
+            "others": 0.124,
+            "joy": 0.768,
+            "sadness": 0.002,
+            "anger": 0.002,
+            "surprise": 0.097,
+            "disgust": 0.002,
+            "fear": 0.006
+        }
+    },
+    {
+        "id": 17,
+        "texto": "Su mujer corrió con un vaso lleno, que el hombre sorbió en tres tragos.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.968
+        },
+        "secundaria": {
+            "emocion": "Alegría",
+            "prob": 0.014
+        },
+        "todas_las_probabilidades": {
+            "others": 0.968,
+            "joy": 0.014,
+            "sadness": 0.011,
+            "anger": 0.002,
+            "surprise": 0.003,
+            "disgust": 0.001,
+            "fear": 0.001
+        }
+    },
+    {
+        "id": 18,
+        "texto": "Pero no había sentido gusto alguno.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.792
+        },
+        "secundaria": {
+            "emocion": "Tristeza",
+            "prob": 0.156
+        },
+        "todas_las_probabilidades": {
+            "others": 0.792,
+            "joy": 0.022,
+            "sadness": 0.156,
+            "anger": 0.005,
+            "surprise": 0.012,
+            "disgust": 0.006,
+            "fear": 0.007
+        }
+    },
+    {
+        "id": 19,
+        "texto": "—¡Te pedí caña, no agua!—rugió de nuevo.—¡Dame caña!",
+        "primaria": {
+            "emocion": "Alegría",
+            "prob": 0.688
+        },
+        "secundaria": {
+            "emocion": "Neutral",
+            "prob": 0.242
+        },
+        "todas_las_probabilidades": {
+            "others": 0.242,
+            "joy": 0.688,
+            "sadness": 0.003,
+            "anger": 0.015,
+            "surprise": 0.042,
+            "disgust": 0.005,
+            "fear": 0.006
+        }
+    },
+    {
+        "id": 20,
+        "texto": "—¡Pero es caña, Paulino!—protestó la mujer espantada.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.561
+        },
+        "secundaria": {
+            "emocion": "Sorpresa",
+            "prob": 0.209
+        },
+        "todas_las_probabilidades": {
+            "others": 0.561,
+            "joy": 0.048,
+            "sadness": 0.011,
+            "anger": 0.135,
+            "surprise": 0.209,
+            "disgust": 0.02,
+            "fear": 0.017
+        }
+    },
+    {
+        "id": 21,
+        "texto": "—¡No, me diste agua! ¡Quiero caña, te digo!",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.728
+        },
+        "secundaria": {
+            "emocion": "Enojo",
+            "prob": 0.141
+        },
+        "todas_las_probabilidades": {
+            "others": 0.728,
+            "joy": 0.053,
+            "sadness": 0.023,
+            "anger": 0.141,
+            "surprise": 0.028,
+            "disgust": 0.017,
+            "fear": 0.01
+        }
+    },
+    {
+        "id": 22,
+        "texto": "La mujer corrió otra vez, volviendo con la damajuana.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.967
+        },
+        "secundaria": {
+            "emocion": "Sorpresa",
+            "prob": 0.019
+        },
+        "todas_las_probabilidades": {
+            "others": 0.967,
+            "joy": 0.004,
+            "sadness": 0.005,
+            "anger": 0.001,
+            "surprise": 0.019,
+            "disgust": 0.001,
+            "fear": 0.003
+        }
+    },
+    {
+        "id": 23,
+        "texto": "El hombre tragó uno tras otro dos vasos, pero no sintió nada en la garganta.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.842
+        },
+        "secundaria": {
+            "emocion": "Tristeza",
+            "prob": 0.11
+        },
+        "todas_las_probabilidades": {
+            "others": 0.842,
+            "joy": 0.003,
+            "sadness": 0.11,
+            "anger": 0.003,
+            "surprise": 0.01,
+            "disgust": 0.005,
+            "fear": 0.027
+        }
+    },
+    {
+        "id": 24,
+        "texto": "—Bueno; esto se pone feo—murmuró entonces, mirando su pie lívido y ya con lustre gangrenoso. Sobre la honda ligadura del pañuelo, la carne desbordaba como una monstruosa morcilla.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.896
+        },
+        "secundaria": {
+            "emocion": "Sorpresa",
+            "prob": 0.052
+        },
+        "todas_las_probabilidades": {
+            "others": 0.896,
+            "joy": 0.005,
+            "sadness": 0.012,
+            "anger": 0.006,
+            "surprise": 0.052,
+            "disgust": 0.002,
+            "fear": 0.027
+        }
+    },
+    {
+        "id": 25,
+        "texto": "Los dolores fulgurantes se sucedían en continuos relampagueos, y llegaban ahora a la ingle.",
+        "primaria": {
+            "emocion": "Miedo",
+            "prob": 0.394
+        },
+        "secundaria": {
+            "emocion": "Neutral",
+            "prob": 0.36
+        },
+        "todas_las_probabilidades": {
+            "others": 0.36,
+            "joy": 0.009,
+            "sadness": 0.143,
+            "anger": 0.005,
+            "surprise": 0.081,
+            "disgust": 0.008,
+            "fear": 0.394
+        }
+    },
+    {
+        "id": 26,
+        "texto": "La atroz sequedad de garganta que el aliento parecía caldear más, aumentaba a la par.",
+        "primaria": {
+            "emocion": "Tristeza",
+            "prob": 0.488
+        },
+        "secundaria": {
+            "emocion": "Miedo",
+            "prob": 0.376
+        },
+        "todas_las_probabilidades": {
+            "others": 0.065,
+            "joy": 0.004,
+            "sadness": 0.488,
+            "anger": 0.017,
+            "surprise": 0.039,
+            "disgust": 0.011,
+            "fear": 0.376
+        }
+    },
+    {
+        "id": 27,
+        "texto": "Cuando pretendió incorporarse, un fulminante vómito lo mantuvo medio minuto con la frente apoyada en la rueda de palo.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.981
+        },
+        "secundaria": {
+            "emocion": "Sorpresa",
+            "prob": 0.011
+        },
+        "todas_las_probabilidades": {
+            "others": 0.981,
+            "joy": 0.001,
+            "sadness": 0.003,
+            "anger": 0.001,
+            "surprise": 0.011,
+            "disgust": 0.0,
+            "fear": 0.003
+        }
+    },
+    {
+        "id": 28,
+        "texto": "Pero el hombre no quería morir, y descendiendo hasta la costa subió a su canoa.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.919
+        },
+        "secundaria": {
+            "emocion": "Tristeza",
+            "prob": 0.065
+        },
+        "todas_las_probabilidades": {
+            "others": 0.919,
+            "joy": 0.005,
+            "sadness": 0.065,
+            "anger": 0.002,
+            "surprise": 0.004,
+            "disgust": 0.002,
+            "fear": 0.003
+        }
+    },
+    {
+        "id": 29,
+        "texto": "Sentóse en la popa y comenzó a palear hasta el centro del Paraná.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.981
+        },
+        "secundaria": {
+            "emocion": "Sorpresa",
+            "prob": 0.009
+        },
+        "todas_las_probabilidades": {
+            "others": 0.981,
+            "joy": 0.004,
+            "sadness": 0.002,
+            "anger": 0.001,
+            "surprise": 0.009,
+            "disgust": 0.0,
+            "fear": 0.002
+        }
+    },
+    {
+        "id": 30,
+        "texto": "Allí la corriente del río, que en las inmediaciones del Iguazú corre seis millas, lo llevaría antes de cinco horas a Tacurú-Pucú.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.948
+        },
+        "secundaria": {
+            "emocion": "Sorpresa",
+            "prob": 0.023
+        },
+        "todas_las_probabilidades": {
+            "others": 0.948,
+            "joy": 0.002,
+            "sadness": 0.01,
+            "anger": 0.002,
+            "surprise": 0.023,
+            "disgust": 0.001,
+            "fear": 0.014
+        }
+    },
+    {
+        "id": 31,
+        "texto": "El hombre, con sombría energía, pudo efectivamente llegar hasta el medio del río; pero allí sus manos dormidas dejaron caer la pala en la canoa, y tras un nuevo vómito—de sangre esta vez—dirigió una mirada al sol que ya trasponía el monte.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.795
+        },
+        "secundaria": {
+            "emocion": "Tristeza",
+            "prob": 0.131
+        },
+        "todas_las_probabilidades": {
+            "others": 0.795,
+            "joy": 0.009,
+            "sadness": 0.131,
+            "anger": 0.002,
+            "surprise": 0.04,
+            "disgust": 0.002,
+            "fear": 0.019
+        }
+    },
+    {
+        "id": 32,
+        "texto": "La pierna entera, hasta medio muslo, era ya un bloque deforme y durísimo que reventaba la ropa.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.852
+        },
+        "secundaria": {
+            "emocion": "Sorpresa",
+            "prob": 0.066
+        },
+        "todas_las_probabilidades": {
+            "others": 0.852,
+            "joy": 0.015,
+            "sadness": 0.021,
+            "anger": 0.017,
+            "surprise": 0.066,
+            "disgust": 0.005,
+            "fear": 0.023
+        }
+    },
+    {
+        "id": 33,
+        "texto": "El hombre cortó la ligadura y abrió el pantalón con su cuchillo: el bajo vientre desbordó hinchado, con grandes manchas lívidas y terriblemente dolorido.",
+        "primaria": {
+            "emocion": "Tristeza",
+            "prob": 0.879
+        },
+        "secundaria": {
+            "emocion": "Miedo",
+            "prob": 0.062
+        },
+        "todas_las_probabilidades": {
+            "others": 0.028,
+            "joy": 0.004,
+            "sadness": 0.879,
+            "anger": 0.005,
+            "surprise": 0.015,
+            "disgust": 0.005,
+            "fear": 0.062
+        }
+    },
+    {
+        "id": 34,
+        "texto": "El hombre pensó que no podría jamás llegar él solo a Tacurú-Pucú, y se decidió a pedir ayuda a su compadre Alves, aunque hacía mucho tiempo que estaban disgustados.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.979
+        },
+        "secundaria": {
+            "emocion": "Tristeza",
+            "prob": 0.01
+        },
+        "todas_las_probabilidades": {
+            "others": 0.979,
+            "joy": 0.007,
+            "sadness": 0.01,
+            "anger": 0.001,
+            "surprise": 0.002,
+            "disgust": 0.0,
+            "fear": 0.001
+        }
+    },
+    {
+        "id": 35,
+        "texto": "La corriente del río se precipitaba ahora hacia la costa brasileña, y el hombre pudo fácilmente atracar.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.861
+        },
+        "secundaria": {
+            "emocion": "Sorpresa",
+            "prob": 0.083
+        },
+        "todas_las_probabilidades": {
+            "others": 0.861,
+            "joy": 0.008,
+            "sadness": 0.012,
+            "anger": 0.001,
+            "surprise": 0.083,
+            "disgust": 0.002,
+            "fear": 0.032
+        }
+    },
+    {
+        "id": 36,
+        "texto": "Se arrastró por la picada en cuesta arriba, pero a los veinte metros, exhausto, quedó tendido de pecho.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.951
+        },
+        "secundaria": {
+            "emocion": "Sorpresa",
+            "prob": 0.018
+        },
+        "todas_las_probabilidades": {
+            "others": 0.951,
+            "joy": 0.016,
+            "sadness": 0.01,
+            "anger": 0.001,
+            "surprise": 0.018,
+            "disgust": 0.001,
+            "fear": 0.003
+        }
+    },
+    {
+        "id": 37,
+        "texto": "—¡Alves!—gritó con cuanta fuerza pudo; y prestó oído en vano.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.619
+        },
+        "secundaria": {
+            "emocion": "Alegría",
+            "prob": 0.292
+        },
+        "todas_las_probabilidades": {
+            "others": 0.619,
+            "joy": 0.292,
+            "sadness": 0.012,
+            "anger": 0.03,
+            "surprise": 0.04,
+            "disgust": 0.004,
+            "fear": 0.003
+        }
+    },
+    {
+        "id": 38,
+        "texto": "—¡Compadre Alves! ¡No me niegue este favor!—clamó de nuevo, alzando la cabeza del suelo.—En el silencio de la selva no se oyó un sólo rumor. El hombre tuvo aún valor para llegar hasta su canoa, y la corriente, cogiéndola de nuevo, la llevó velozmente a la deriva.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.826
+        },
+        "secundaria": {
+            "emocion": "Sorpresa",
+            "prob": 0.11
+        },
+        "todas_las_probabilidades": {
+            "others": 0.826,
+            "joy": 0.023,
+            "sadness": 0.018,
+            "anger": 0.013,
+            "surprise": 0.11,
+            "disgust": 0.003,
+            "fear": 0.008
+        }
+    },
+    {
+        "id": 39,
+        "texto": "El Paraná corre allí en el fondo de una inmensa hoya, cuyas paredes, altas de cien metros, encajonan fúnebremente el río.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.826
+        },
+        "secundaria": {
+            "emocion": "Sorpresa",
+            "prob": 0.07
+        },
+        "todas_las_probabilidades": {
+            "others": 0.826,
+            "joy": 0.049,
+            "sadness": 0.034,
+            "anger": 0.002,
+            "surprise": 0.07,
+            "disgust": 0.002,
+            "fear": 0.018
+        }
+    },
+    {
+        "id": 40,
+        "texto": "Desde las orillas bordeadas de negros bloques de basalto, asciende el bosque, negro también.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.934
+        },
+        "secundaria": {
+            "emocion": "Sorpresa",
+            "prob": 0.029
+        },
+        "todas_las_probabilidades": {
+            "others": 0.934,
+            "joy": 0.016,
+            "sadness": 0.01,
+            "anger": 0.001,
+            "surprise": 0.029,
+            "disgust": 0.001,
+            "fear": 0.009
+        }
+    },
+    {
+        "id": 41,
+        "texto": "Adelante, a los costados, detrás, la eterna muralla lúgubre, en cuyo fondo el río arremolinado se precipita en incesantes borbollones de agua fangosa.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.795
+        },
+        "secundaria": {
+            "emocion": "Tristeza",
+            "prob": 0.149
+        },
+        "todas_las_probabilidades": {
+            "others": 0.795,
+            "joy": 0.015,
+            "sadness": 0.149,
+            "anger": 0.008,
+            "surprise": 0.02,
+            "disgust": 0.003,
+            "fear": 0.012
+        }
+    },
+    {
+        "id": 42,
+        "texto": "El paisaje es agresivo, y reina en él un silencio de muerte.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.877
+        },
+        "secundaria": {
+            "emocion": "Miedo",
+            "prob": 0.075
+        },
+        "todas_las_probabilidades": {
+            "others": 0.877,
+            "joy": 0.004,
+            "sadness": 0.027,
+            "anger": 0.004,
+            "surprise": 0.01,
+            "disgust": 0.004,
+            "fear": 0.075
+        }
+    },
+    {
+        "id": 43,
+        "texto": "Al atardecer, sin embargo, su belleza sombría y calma cobra una majestad única.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.793
+        },
+        "secundaria": {
+            "emocion": "Tristeza",
+            "prob": 0.194
+        },
+        "todas_las_probabilidades": {
+            "others": 0.793,
+            "joy": 0.005,
+            "sadness": 0.194,
+            "anger": 0.001,
+            "surprise": 0.005,
+            "disgust": 0.001,
+            "fear": 0.002
+        }
+    },
+    {
+        "id": 44,
+        "texto": "El sol había caído ya cuando el hombre, semi-tendido en el fondo de la canoa, tuvo un violento escalofrío.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.836
+        },
+        "secundaria": {
+            "emocion": "Sorpresa",
+            "prob": 0.07
+        },
+        "todas_las_probabilidades": {
+            "others": 0.836,
+            "joy": 0.003,
+            "sadness": 0.021,
+            "anger": 0.002,
+            "surprise": 0.07,
+            "disgust": 0.002,
+            "fear": 0.066
+        }
+    },
+    {
+        "id": 45,
+        "texto": "Y de pronto, con asombro, enderezó pesadamente la cabeza: se sentía mejor.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.454
+        },
+        "secundaria": {
+            "emocion": "Tristeza",
+            "prob": 0.198
+        },
+        "todas_las_probabilidades": {
+            "others": 0.454,
+            "joy": 0.098,
+            "sadness": 0.198,
+            "anger": 0.006,
+            "surprise": 0.184,
+            "disgust": 0.01,
+            "fear": 0.049
+        }
+    },
+    {
+        "id": 46,
+        "texto": "La pierna le dolía apenas, la sed disminuía, y su pecho, libre ya, se abría en lenta inspiración.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.724
+        },
+        "secundaria": {
+            "emocion": "Tristeza",
+            "prob": 0.225
+        },
+        "todas_las_probabilidades": {
+            "others": 0.724,
+            "joy": 0.012,
+            "sadness": 0.225,
+            "anger": 0.001,
+            "surprise": 0.009,
+            "disgust": 0.002,
+            "fear": 0.027
+        }
+    },
+    {
+        "id": 47,
+        "texto": "El veneno comenzaba a irse, no había duda.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.807
+        },
+        "secundaria": {
+            "emocion": "Miedo",
+            "prob": 0.044
+        },
+        "todas_las_probabilidades": {
+            "others": 0.807,
+            "joy": 0.039,
+            "sadness": 0.012,
+            "anger": 0.036,
+            "surprise": 0.024,
+            "disgust": 0.039,
+            "fear": 0.044
+        }
+    },
+    {
+        "id": 48,
+        "texto": "Se hallaba casi bien, y aunque no tenía fuerzas para mover la mano, contaba con la caída del rocio para reponerse del todo.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.723
+        },
+        "secundaria": {
+            "emocion": "Tristeza",
+            "prob": 0.236
+        },
+        "todas_las_probabilidades": {
+            "others": 0.723,
+            "joy": 0.023,
+            "sadness": 0.236,
+            "anger": 0.002,
+            "surprise": 0.005,
+            "disgust": 0.002,
+            "fear": 0.01
+        }
+    },
+    {
+        "id": 49,
+        "texto": "Calculó que antes de tres horas estaría en Tacurú-Pucú.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.993
+        },
+        "secundaria": {
+            "emocion": "Sorpresa",
+            "prob": 0.002
+        },
+        "todas_las_probabilidades": {
+            "others": 0.993,
+            "joy": 0.001,
+            "sadness": 0.002,
+            "anger": 0.0,
+            "surprise": 0.002,
+            "disgust": 0.0,
+            "fear": 0.002
+        }
+    },
+    {
+        "id": 50,
+        "texto": "El bienestar avanzaba, y con él una somnolencia llena de recuerdos.",
+        "primaria": {
+            "emocion": "Alegría",
+            "prob": 0.908
+        },
+        "secundaria": {
+            "emocion": "Neutral",
+            "prob": 0.065
+        },
+        "todas_las_probabilidades": {
+            "others": 0.065,
+            "joy": 0.908,
+            "sadness": 0.021,
+            "anger": 0.0,
+            "surprise": 0.002,
+            "disgust": 0.001,
+            "fear": 0.001
+        }
+    },
+    {
+        "id": 51,
+        "texto": "No sentía ya nada ni en la pierna ni en el vientre.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.679
+        },
+        "secundaria": {
+            "emocion": "Tristeza",
+            "prob": 0.263
+        },
+        "todas_las_probabilidades": {
+            "others": 0.679,
+            "joy": 0.004,
+            "sadness": 0.263,
+            "anger": 0.003,
+            "surprise": 0.01,
+            "disgust": 0.003,
+            "fear": 0.038
+        }
+    },
+    {
+        "id": 52,
+        "texto": "¿Viviría aún su compadre Gaona en Tacurú-Pucú?",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.945
+        },
+        "secundaria": {
+            "emocion": "Sorpresa",
+            "prob": 0.04
+        },
+        "todas_las_probabilidades": {
+            "others": 0.945,
+            "joy": 0.001,
+            "sadness": 0.005,
+            "anger": 0.001,
+            "surprise": 0.04,
+            "disgust": 0.002,
+            "fear": 0.005
+        }
+    },
+    {
+        "id": 53,
+        "texto": "Acaso viera también a su ex-patrón míster Dougald, y al recibidor del obraje.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.994
+        },
+        "secundaria": {
+            "emocion": "Sorpresa",
+            "prob": 0.002
+        },
+        "todas_las_probabilidades": {
+            "others": 0.994,
+            "joy": 0.001,
+            "sadness": 0.002,
+            "anger": 0.0,
+            "surprise": 0.002,
+            "disgust": 0.0,
+            "fear": 0.001
+        }
+    },
+    {
+        "id": 54,
+        "texto": "¿Llegaría pronto?",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.888
+        },
+        "secundaria": {
+            "emocion": "Sorpresa",
+            "prob": 0.077
+        },
+        "todas_las_probabilidades": {
+            "others": 0.888,
+            "joy": 0.014,
+            "sadness": 0.007,
+            "anger": 0.002,
+            "surprise": 0.077,
+            "disgust": 0.003,
+            "fear": 0.01
+        }
+    },
+    {
+        "id": 55,
+        "texto": "El cielo, al poniente, se abría ahora en pantalla de oro, y el río se había coloreado también.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.93
+        },
+        "secundaria": {
+            "emocion": "Alegría",
+            "prob": 0.035
+        },
+        "todas_las_probabilidades": {
+            "others": 0.93,
+            "joy": 0.035,
+            "sadness": 0.022,
+            "anger": 0.001,
+            "surprise": 0.008,
+            "disgust": 0.001,
+            "fear": 0.003
+        }
+    },
+    {
+        "id": 56,
+        "texto": "Desde la costa paraguaya, ya entenebrecida, el monte dejaba caer sobre el río su frescura crepuscular, en penetrantes efluvios de azahar y miel silvestre.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.88
+        },
+        "secundaria": {
+            "emocion": "Sorpresa",
+            "prob": 0.036
+        },
+        "todas_las_probabilidades": {
+            "others": 0.88,
+            "joy": 0.018,
+            "sadness": 0.036,
+            "anger": 0.004,
+            "surprise": 0.036,
+            "disgust": 0.002,
+            "fear": 0.023
+        }
+    },
+    {
+        "id": 57,
+        "texto": "Una pareja de guacamayos cruzó muy alto y en silencio hacia el Paraguay.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.941
+        },
+        "secundaria": {
+            "emocion": "Sorpresa",
+            "prob": 0.022
+        },
+        "todas_las_probabilidades": {
+            "others": 0.941,
+            "joy": 0.01,
+            "sadness": 0.01,
+            "anger": 0.001,
+            "surprise": 0.022,
+            "disgust": 0.001,
+            "fear": 0.016
+        }
+    },
+    {
+        "id": 58,
+        "texto": "Allá abajo, sobre el río de oro, la canoa derivaba velozmente, girando a ratos sobre sí misma ante el borbollón de un remolino.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.96
+        },
+        "secundaria": {
+            "emocion": "Alegría",
+            "prob": 0.015
+        },
+        "todas_las_probabilidades": {
+            "others": 0.96,
+            "joy": 0.015,
+            "sadness": 0.008,
+            "anger": 0.001,
+            "surprise": 0.013,
+            "disgust": 0.0,
+            "fear": 0.002
+        }
+    },
+    {
+        "id": 59,
+        "texto": "El hombre que iba en ella se sentía cada vez mejor, y pensaba entretanto en el tiempo justo que había pasado sin ver a su ex-patrón Dougald.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.942
+        },
+        "secundaria": {
+            "emocion": "Tristeza",
+            "prob": 0.045
+        },
+        "todas_las_probabilidades": {
+            "others": 0.942,
+            "joy": 0.008,
+            "sadness": 0.045,
+            "anger": 0.001,
+            "surprise": 0.002,
+            "disgust": 0.001,
+            "fear": 0.002
+        }
+    },
+    {
+        "id": 60,
+        "texto": "¿Tres años?",
+        "primaria": {
+            "emocion": "Sorpresa",
+            "prob": 0.421
+        },
+        "secundaria": {
+            "emocion": "Neutral",
+            "prob": 0.37
+        },
+        "todas_las_probabilidades": {
+            "others": 0.37,
+            "joy": 0.153,
+            "sadness": 0.017,
+            "anger": 0.013,
+            "surprise": 0.421,
+            "disgust": 0.008,
+            "fear": 0.017
+        }
+    },
+    {
+        "id": 61,
+        "texto": "Tal vez no, no tanto.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.899
+        },
+        "secundaria": {
+            "emocion": "Tristeza",
+            "prob": 0.054
+        },
+        "todas_las_probabilidades": {
+            "others": 0.899,
+            "joy": 0.034,
+            "sadness": 0.054,
+            "anger": 0.002,
+            "surprise": 0.004,
+            "disgust": 0.003,
+            "fear": 0.004
+        }
+    },
+    {
+        "id": 62,
+        "texto": "¿Dos años y nueve meses?",
+        "primaria": {
+            "emocion": "Sorpresa",
+            "prob": 0.629
+        },
+        "secundaria": {
+            "emocion": "Neutral",
+            "prob": 0.302
+        },
+        "todas_las_probabilidades": {
+            "others": 0.302,
+            "joy": 0.017,
+            "sadness": 0.014,
+            "anger": 0.012,
+            "surprise": 0.629,
+            "disgust": 0.009,
+            "fear": 0.017
+        }
+    },
+    {
+        "id": 63,
+        "texto": "Acaso.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.875
+        },
+        "secundaria": {
+            "emocion": "Sorpresa",
+            "prob": 0.09
+        },
+        "todas_las_probabilidades": {
+            "others": 0.875,
+            "joy": 0.013,
+            "sadness": 0.014,
+            "anger": 0.002,
+            "surprise": 0.09,
+            "disgust": 0.002,
+            "fear": 0.004
+        }
+    },
+    {
+        "id": 64,
+        "texto": "¿Ocho meses y medio?",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.584
+        },
+        "secundaria": {
+            "emocion": "Sorpresa",
+            "prob": 0.343
+        },
+        "todas_las_probabilidades": {
+            "others": 0.584,
+            "joy": 0.013,
+            "sadness": 0.016,
+            "anger": 0.02,
+            "surprise": 0.343,
+            "disgust": 0.009,
+            "fear": 0.014
+        }
+    },
+    {
+        "id": 65,
+        "texto": "Eso sí, seguramente.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.912
+        },
+        "secundaria": {
+            "emocion": "Tristeza",
+            "prob": 0.03
+        },
+        "todas_las_probabilidades": {
+            "others": 0.912,
+            "joy": 0.017,
+            "sadness": 0.03,
+            "anger": 0.001,
+            "surprise": 0.028,
+            "disgust": 0.002,
+            "fear": 0.009
+        }
+    },
+    {
+        "id": 66,
+        "texto": "De pronto sintió que estaba helado hasta el pecho.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.394
+        },
+        "secundaria": {
+            "emocion": "Tristeza",
+            "prob": 0.385
+        },
+        "todas_las_probabilidades": {
+            "others": 0.394,
+            "joy": 0.011,
+            "sadness": 0.385,
+            "anger": 0.005,
+            "surprise": 0.052,
+            "disgust": 0.008,
+            "fear": 0.145
+        }
+    },
+    {
+        "id": 67,
+        "texto": "¿Qué sería?",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.976
+        },
+        "secundaria": {
+            "emocion": "Alegría",
+            "prob": 0.012
+        },
+        "todas_las_probabilidades": {
+            "others": 0.976,
+            "joy": 0.012,
+            "sadness": 0.003,
+            "anger": 0.0,
+            "surprise": 0.007,
+            "disgust": 0.001,
+            "fear": 0.001
+        }
+    },
+    {
+        "id": 68,
+        "texto": "Y la respiración también...",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.871
+        },
+        "secundaria": {
+            "emocion": "Sorpresa",
+            "prob": 0.06
+        },
+        "todas_las_probabilidades": {
+            "others": 0.871,
+            "joy": 0.03,
+            "sadness": 0.013,
+            "anger": 0.004,
+            "surprise": 0.06,
+            "disgust": 0.003,
+            "fear": 0.018
+        }
+    },
+    {
+        "id": 69,
+        "texto": "Al recibidor de maderas de míster Dougald, Lorenzo Cubilla, lo había conocido en Puerto Deseado, un viernes santo...",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.989
+        },
+        "secundaria": {
+            "emocion": "Alegría",
+            "prob": 0.005
+        },
+        "todas_las_probabilidades": {
+            "others": 0.989,
+            "joy": 0.005,
+            "sadness": 0.002,
+            "anger": 0.0,
+            "surprise": 0.003,
+            "disgust": 0.0,
+            "fear": 0.0
+        }
+    },
+    {
+        "id": 70,
+        "texto": "¿Viernes?",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.745
+        },
+        "secundaria": {
+            "emocion": "Sorpresa",
+            "prob": 0.142
+        },
+        "todas_las_probabilidades": {
+            "others": 0.745,
+            "joy": 0.086,
+            "sadness": 0.008,
+            "anger": 0.003,
+            "surprise": 0.142,
+            "disgust": 0.006,
+            "fear": 0.009
+        }
+    },
+    {
+        "id": 71,
+        "texto": "Sí, o jueves...",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.982
+        },
+        "secundaria": {
+            "emocion": "Alegría",
+            "prob": 0.009
+        },
+        "todas_las_probabilidades": {
+            "others": 0.982,
+            "joy": 0.009,
+            "sadness": 0.002,
+            "anger": 0.001,
+            "surprise": 0.005,
+            "disgust": 0.001,
+            "fear": 0.001
+        }
+    },
+    {
+        "id": 72,
+        "texto": "El hombre estiró lentamente los dedos de la mano.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.959
+        },
+        "secundaria": {
+            "emocion": "Alegría",
+            "prob": 0.02
+        },
+        "todas_las_probabilidades": {
+            "others": 0.959,
+            "joy": 0.02,
+            "sadness": 0.002,
+            "anger": 0.001,
+            "surprise": 0.013,
+            "disgust": 0.001,
+            "fear": 0.002
+        }
+    },
+    {
+        "id": 73,
+        "texto": "—Un jueves...",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.841
+        },
+        "secundaria": {
+            "emocion": "Alegría",
+            "prob": 0.085
+        },
+        "todas_las_probabilidades": {
+            "others": 0.841,
+            "joy": 0.085,
+            "sadness": 0.03,
+            "anger": 0.003,
+            "surprise": 0.03,
+            "disgust": 0.004,
+            "fear": 0.007
+        }
+    },
+    {
+        "id": 74,
+        "texto": "Y cesó de respirar.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.931
+        },
+        "secundaria": {
+            "emocion": "Alegría",
+            "prob": 0.033
+        },
+        "todas_las_probabilidades": {
+            "others": 0.931,
+            "joy": 0.033,
+            "sadness": 0.013,
+            "anger": 0.002,
+            "surprise": 0.018,
+            "disgust": 0.001,
+            "fear": 0.002
+        }
+    }
+]

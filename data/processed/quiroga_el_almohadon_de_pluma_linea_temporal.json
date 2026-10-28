@@ -1,0 +1,1766 @@
+[
+    {
+        "id": 1,
+        "texto": "#EL ALMOHADON DE PLUMA#",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.932
+        },
+        "secundaria": {
+            "emocion": "Alegría",
+            "prob": 0.052
+        },
+        "todas_las_probabilidades": {
+            "others": 0.932,
+            "joy": 0.052,
+            "sadness": 0.001,
+            "anger": 0.0,
+            "surprise": 0.014,
+            "disgust": 0.001,
+            "fear": 0.001
+        }
+    },
+    {
+        "id": 2,
+        "texto": "Su luna de miel fué un largo escalofrío.",
+        "primaria": {
+            "emocion": "Tristeza",
+            "prob": 0.56
+        },
+        "secundaria": {
+            "emocion": "Neutral",
+            "prob": 0.314
+        },
+        "todas_las_probabilidades": {
+            "others": 0.314,
+            "joy": 0.007,
+            "sadness": 0.56,
+            "anger": 0.002,
+            "surprise": 0.033,
+            "disgust": 0.006,
+            "fear": 0.077
+        }
+    },
+    {
+        "id": 3,
+        "texto": "Rubia, angelical y tímida, el carácter duro de su marido heló sus soñadas niñerías de novia.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.957
+        },
+        "secundaria": {
+            "emocion": "Alegría",
+            "prob": 0.024
+        },
+        "todas_las_probabilidades": {
+            "others": 0.957,
+            "joy": 0.024,
+            "sadness": 0.01,
+            "anger": 0.001,
+            "surprise": 0.004,
+            "disgust": 0.001,
+            "fear": 0.002
+        }
+    },
+    {
+        "id": 4,
+        "texto": "Lo quería mucho, sin embargo, a veces con un ligero estremecimiento cuando volviendo de noche juntos por la calle, echaba una furtiva mirada a la alta estatura de Jordán, mudo desde hacía una hora.",
+        "primaria": {
+            "emocion": "Tristeza",
+            "prob": 0.877
+        },
+        "secundaria": {
+            "emocion": "Neutral",
+            "prob": 0.108
+        },
+        "todas_las_probabilidades": {
+            "others": 0.108,
+            "joy": 0.005,
+            "sadness": 0.877,
+            "anger": 0.002,
+            "surprise": 0.002,
+            "disgust": 0.001,
+            "fear": 0.005
+        }
+    },
+    {
+        "id": 5,
+        "texto": "El, por su parte, la amaba profundamente, sin darlo a conocer.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.697
+        },
+        "secundaria": {
+            "emocion": "Tristeza",
+            "prob": 0.291
+        },
+        "todas_las_probabilidades": {
+            "others": 0.697,
+            "joy": 0.004,
+            "sadness": 0.291,
+            "anger": 0.003,
+            "surprise": 0.001,
+            "disgust": 0.002,
+            "fear": 0.001
+        }
+    },
+    {
+        "id": 6,
+        "texto": "Durante tres meses—se habían casado en abril—vivieron una dicha especial.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.849
+        },
+        "secundaria": {
+            "emocion": "Alegría",
+            "prob": 0.13
+        },
+        "todas_las_probabilidades": {
+            "others": 0.849,
+            "joy": 0.13,
+            "sadness": 0.009,
+            "anger": 0.0,
+            "surprise": 0.009,
+            "disgust": 0.001,
+            "fear": 0.002
+        }
+    },
+    {
+        "id": 7,
+        "texto": "Sin duda hubiera ella deseado menos severidad en ese rígido cielo de amor, más expansiva e incauta ternura; pero el impasible semblante de su marido la contenía en seguida.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.961
+        },
+        "secundaria": {
+            "emocion": "Tristeza",
+            "prob": 0.03
+        },
+        "todas_las_probabilidades": {
+            "others": 0.961,
+            "joy": 0.003,
+            "sadness": 0.03,
+            "anger": 0.001,
+            "surprise": 0.002,
+            "disgust": 0.001,
+            "fear": 0.002
+        }
+    },
+    {
+        "id": 8,
+        "texto": "La casa en que vivían influía no poco en sus estremecimientos.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.679
+        },
+        "secundaria": {
+            "emocion": "Tristeza",
+            "prob": 0.292
+        },
+        "todas_las_probabilidades": {
+            "others": 0.679,
+            "joy": 0.003,
+            "sadness": 0.292,
+            "anger": 0.003,
+            "surprise": 0.007,
+            "disgust": 0.003,
+            "fear": 0.013
+        }
+    },
+    {
+        "id": 9,
+        "texto": "La blancura del patio silencioso—frisos, columnas y estatuas de mármol—producía una otoñal impresión de palacio encantado.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.894
+        },
+        "secundaria": {
+            "emocion": "Sorpresa",
+            "prob": 0.035
+        },
+        "todas_las_probabilidades": {
+            "others": 0.894,
+            "joy": 0.03,
+            "sadness": 0.027,
+            "anger": 0.001,
+            "surprise": 0.035,
+            "disgust": 0.002,
+            "fear": 0.012
+        }
+    },
+    {
+        "id": 10,
+        "texto": "Dentro, el brillo glacial del estuco, sin el más leve rasguño en las altas paredes, afirmaba aquella sensación de desapacible frío.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.92
+        },
+        "secundaria": {
+            "emocion": "Sorpresa",
+            "prob": 0.037
+        },
+        "todas_las_probabilidades": {
+            "others": 0.92,
+            "joy": 0.004,
+            "sadness": 0.013,
+            "anger": 0.001,
+            "surprise": 0.037,
+            "disgust": 0.001,
+            "fear": 0.024
+        }
+    },
+    {
+        "id": 11,
+        "texto": "Al cruzar de una pieza a otra, los pasos hallaban eco en toda la casa, como si un largo abandono hubiera sensibilizado su resonancia.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.733
+        },
+        "secundaria": {
+            "emocion": "Tristeza",
+            "prob": 0.203
+        },
+        "todas_las_probabilidades": {
+            "others": 0.733,
+            "joy": 0.002,
+            "sadness": 0.203,
+            "anger": 0.003,
+            "surprise": 0.032,
+            "disgust": 0.002,
+            "fear": 0.025
+        }
+    },
+    {
+        "id": 12,
+        "texto": "En ese extraño nido de amor, Alicia pasó todo el otoño.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.71
+        },
+        "secundaria": {
+            "emocion": "Tristeza",
+            "prob": 0.222
+        },
+        "todas_las_probabilidades": {
+            "others": 0.71,
+            "joy": 0.018,
+            "sadness": 0.222,
+            "anger": 0.002,
+            "surprise": 0.03,
+            "disgust": 0.003,
+            "fear": 0.015
+        }
+    },
+    {
+        "id": 13,
+        "texto": "No obstante, había concluído por echar un velo sobre sus antiguos sueños, y aún vivía dormida en la casa hostil, sin querer pensar en nada hasta que llegaba su marido.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.984
+        },
+        "secundaria": {
+            "emocion": "Tristeza",
+            "prob": 0.008
+        },
+        "todas_las_probabilidades": {
+            "others": 0.984,
+            "joy": 0.001,
+            "sadness": 0.008,
+            "anger": 0.001,
+            "surprise": 0.004,
+            "disgust": 0.001,
+            "fear": 0.002
+        }
+    },
+    {
+        "id": 14,
+        "texto": "No es raro que adelgazara.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.841
+        },
+        "secundaria": {
+            "emocion": "Sorpresa",
+            "prob": 0.08
+        },
+        "todas_las_probabilidades": {
+            "others": 0.841,
+            "joy": 0.032,
+            "sadness": 0.013,
+            "anger": 0.006,
+            "surprise": 0.08,
+            "disgust": 0.007,
+            "fear": 0.02
+        }
+    },
+    {
+        "id": 15,
+        "texto": "Tuvo un ligero ataque de influenza que se arrastró insidiosamente días y días; Alicia no se reponía nunca.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.731
+        },
+        "secundaria": {
+            "emocion": "Miedo",
+            "prob": 0.153
+        },
+        "todas_las_probabilidades": {
+            "others": 0.731,
+            "joy": 0.005,
+            "sadness": 0.058,
+            "anger": 0.006,
+            "surprise": 0.038,
+            "disgust": 0.008,
+            "fear": 0.153
+        }
+    },
+    {
+        "id": 16,
+        "texto": "Al fin, una tarde pudo salir al jardín apoyada en el brazo de él.",
+        "primaria": {
+            "emocion": "Alegría",
+            "prob": 0.981
+        },
+        "secundaria": {
+            "emocion": "Neutral",
+            "prob": 0.013
+        },
+        "todas_las_probabilidades": {
+            "others": 0.013,
+            "joy": 0.981,
+            "sadness": 0.002,
+            "anger": 0.0,
+            "surprise": 0.003,
+            "disgust": 0.001,
+            "fear": 0.001
+        }
+    },
+    {
+        "id": 17,
+        "texto": "Miraba indiferente a uno y otro lado.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.647
+        },
+        "secundaria": {
+            "emocion": "Tristeza",
+            "prob": 0.298
+        },
+        "todas_las_probabilidades": {
+            "others": 0.647,
+            "joy": 0.011,
+            "sadness": 0.298,
+            "anger": 0.035,
+            "surprise": 0.001,
+            "disgust": 0.006,
+            "fear": 0.002
+        }
+    },
+    {
+        "id": 18,
+        "texto": "De pronto Jordán, con honda ternura, le pasó la mano por la cabeza, y Alicia rompió en seguida en sollozos, echándole los brazos al cuello.",
+        "primaria": {
+            "emocion": "Alegría",
+            "prob": 0.354
+        },
+        "secundaria": {
+            "emocion": "Neutral",
+            "prob": 0.269
+        },
+        "todas_las_probabilidades": {
+            "others": 0.269,
+            "joy": 0.354,
+            "sadness": 0.266,
+            "anger": 0.021,
+            "surprise": 0.061,
+            "disgust": 0.012,
+            "fear": 0.017
+        }
+    },
+    {
+        "id": 19,
+        "texto": "Lloró largamente todo su espanto callado, redoblando el llanto a la menor tentativa de caricia.",
+        "primaria": {
+            "emocion": "Tristeza",
+            "prob": 0.991
+        },
+        "secundaria": {
+            "emocion": "Neutral",
+            "prob": 0.003
+        },
+        "todas_las_probabilidades": {
+            "others": 0.003,
+            "joy": 0.001,
+            "sadness": 0.991,
+            "anger": 0.002,
+            "surprise": 0.001,
+            "disgust": 0.001,
+            "fear": 0.001
+        }
+    },
+    {
+        "id": 20,
+        "texto": "Luego los sollozos fueron retardándose, y aún quedó largo rato escondida en su cuello, sin moverse ni decir una palabra.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.919
+        },
+        "secundaria": {
+            "emocion": "Tristeza",
+            "prob": 0.038
+        },
+        "todas_las_probabilidades": {
+            "others": 0.919,
+            "joy": 0.009,
+            "sadness": 0.038,
+            "anger": 0.004,
+            "surprise": 0.024,
+            "disgust": 0.002,
+            "fear": 0.005
+        }
+    },
+    {
+        "id": 21,
+        "texto": "Fué ese el último día que Alicia estuvo levantada.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.982
+        },
+        "secundaria": {
+            "emocion": "Tristeza",
+            "prob": 0.012
+        },
+        "todas_las_probabilidades": {
+            "others": 0.982,
+            "joy": 0.003,
+            "sadness": 0.012,
+            "anger": 0.0,
+            "surprise": 0.002,
+            "disgust": 0.0,
+            "fear": 0.001
+        }
+    },
+    {
+        "id": 22,
+        "texto": "Al día siguiente amaneció desvanecida.",
+        "primaria": {
+            "emocion": "Tristeza",
+            "prob": 0.499
+        },
+        "secundaria": {
+            "emocion": "Neutral",
+            "prob": 0.472
+        },
+        "todas_las_probabilidades": {
+            "others": 0.472,
+            "joy": 0.012,
+            "sadness": 0.499,
+            "anger": 0.002,
+            "surprise": 0.008,
+            "disgust": 0.003,
+            "fear": 0.004
+        }
+    },
+    {
+        "id": 23,
+        "texto": "El médico de Jordán la examinó con suma detención, ordenándole calma y descanso absolutos.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.991
+        },
+        "secundaria": {
+            "emocion": "Sorpresa",
+            "prob": 0.003
+        },
+        "todas_las_probabilidades": {
+            "others": 0.991,
+            "joy": 0.001,
+            "sadness": 0.002,
+            "anger": 0.001,
+            "surprise": 0.003,
+            "disgust": 0.001,
+            "fear": 0.002
+        }
+    },
+    {
+        "id": 24,
+        "texto": "—No sé—le dijo a Jordán en la puerta de calle, con la voz todavía baja.—Tiene una gran debilidad que no me explico, y sin vómitos, nada... Si mañana se despierta como hoy, llámeme en seguida.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.752
+        },
+        "secundaria": {
+            "emocion": "Tristeza",
+            "prob": 0.13
+        },
+        "todas_las_probabilidades": {
+            "others": 0.752,
+            "joy": 0.005,
+            "sadness": 0.13,
+            "anger": 0.005,
+            "surprise": 0.022,
+            "disgust": 0.004,
+            "fear": 0.081
+        }
+    },
+    {
+        "id": 25,
+        "texto": "Al otro día Alicia seguía peor.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.823
+        },
+        "secundaria": {
+            "emocion": "Tristeza",
+            "prob": 0.158
+        },
+        "todas_las_probabilidades": {
+            "others": 0.823,
+            "joy": 0.003,
+            "sadness": 0.158,
+            "anger": 0.003,
+            "surprise": 0.005,
+            "disgust": 0.003,
+            "fear": 0.005
+        }
+    },
+    {
+        "id": 26,
+        "texto": "Hubo consulta.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.971
+        },
+        "secundaria": {
+            "emocion": "Sorpresa",
+            "prob": 0.019
+        },
+        "todas_las_probabilidades": {
+            "others": 0.971,
+            "joy": 0.005,
+            "sadness": 0.003,
+            "anger": 0.001,
+            "surprise": 0.019,
+            "disgust": 0.001,
+            "fear": 0.002
+        }
+    },
+    {
+        "id": 27,
+        "texto": "Constatóse una anemia de marcha agudísima, completamente inexplicable.",
+        "primaria": {
+            "emocion": "Sorpresa",
+            "prob": 0.672
+        },
+        "secundaria": {
+            "emocion": "Miedo",
+            "prob": 0.202
+        },
+        "todas_las_probabilidades": {
+            "others": 0.092,
+            "joy": 0.007,
+            "sadness": 0.017,
+            "anger": 0.003,
+            "surprise": 0.672,
+            "disgust": 0.007,
+            "fear": 0.202
+        }
+    },
+    {
+        "id": 28,
+        "texto": "Alicia no tuvo más desmayos, pero se iba visiblemente a la muerte.",
+        "primaria": {
+            "emocion": "Tristeza",
+            "prob": 0.937
+        },
+        "secundaria": {
+            "emocion": "Neutral",
+            "prob": 0.051
+        },
+        "todas_las_probabilidades": {
+            "others": 0.051,
+            "joy": 0.003,
+            "sadness": 0.937,
+            "anger": 0.001,
+            "surprise": 0.001,
+            "disgust": 0.001,
+            "fear": 0.005
+        }
+    },
+    {
+        "id": 29,
+        "texto": "Todo el día el dormitorio estaba con las luces prendidas y en pleno silencio.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.989
+        },
+        "secundaria": {
+            "emocion": "Sorpresa",
+            "prob": 0.004
+        },
+        "todas_las_probabilidades": {
+            "others": 0.989,
+            "joy": 0.002,
+            "sadness": 0.003,
+            "anger": 0.001,
+            "surprise": 0.004,
+            "disgust": 0.0,
+            "fear": 0.001
+        }
+    },
+    {
+        "id": 30,
+        "texto": "Pasábanse horas sin oir el menor ruido.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.982
+        },
+        "secundaria": {
+            "emocion": "Sorpresa",
+            "prob": 0.011
+        },
+        "todas_las_probabilidades": {
+            "others": 0.982,
+            "joy": 0.001,
+            "sadness": 0.002,
+            "anger": 0.002,
+            "surprise": 0.011,
+            "disgust": 0.001,
+            "fear": 0.002
+        }
+    },
+    {
+        "id": 31,
+        "texto": "Alicia dormitaba.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.977
+        },
+        "secundaria": {
+            "emocion": "Alegría",
+            "prob": 0.012
+        },
+        "todas_las_probabilidades": {
+            "others": 0.977,
+            "joy": 0.012,
+            "sadness": 0.002,
+            "anger": 0.001,
+            "surprise": 0.006,
+            "disgust": 0.001,
+            "fear": 0.001
+        }
+    },
+    {
+        "id": 32,
+        "texto": "Jordán vivía casi en la sala, también con toda la luz encendida.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.992
+        },
+        "secundaria": {
+            "emocion": "Sorpresa",
+            "prob": 0.003
+        },
+        "todas_las_probabilidades": {
+            "others": 0.992,
+            "joy": 0.001,
+            "sadness": 0.002,
+            "anger": 0.0,
+            "surprise": 0.003,
+            "disgust": 0.0,
+            "fear": 0.001
+        }
+    },
+    {
+        "id": 33,
+        "texto": "Paseábase sin cesar de un extremo a otro, con incansable obstinación.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.964
+        },
+        "secundaria": {
+            "emocion": "Sorpresa",
+            "prob": 0.02
+        },
+        "todas_las_probabilidades": {
+            "others": 0.964,
+            "joy": 0.009,
+            "sadness": 0.001,
+            "anger": 0.002,
+            "surprise": 0.02,
+            "disgust": 0.001,
+            "fear": 0.004
+        }
+    },
+    {
+        "id": 34,
+        "texto": "La alfombra ahogaba sus pasos.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.852
+        },
+        "secundaria": {
+            "emocion": "Tristeza",
+            "prob": 0.064
+        },
+        "todas_las_probabilidades": {
+            "others": 0.852,
+            "joy": 0.026,
+            "sadness": 0.064,
+            "anger": 0.008,
+            "surprise": 0.021,
+            "disgust": 0.006,
+            "fear": 0.023
+        }
+    },
+    {
+        "id": 35,
+        "texto": "A ratos entraba en el dormitorio y proseguía su mudo vaivén a lo largo de la cama, mirando a su mujer cada vez que caminaba en su dirección.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.995
+        },
+        "secundaria": {
+            "emocion": "Sorpresa",
+            "prob": 0.001
+        },
+        "todas_las_probabilidades": {
+            "others": 0.995,
+            "joy": 0.001,
+            "sadness": 0.001,
+            "anger": 0.0,
+            "surprise": 0.001,
+            "disgust": 0.0,
+            "fear": 0.001
+        }
+    },
+    {
+        "id": 36,
+        "texto": "Pronto Alicia comenzó a tener alucinaciones, confusas y flotantes al principio, y que descendieron luego a ras del suelo.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.411
+        },
+        "secundaria": {
+            "emocion": "Miedo",
+            "prob": 0.283
+        },
+        "todas_las_probabilidades": {
+            "others": 0.411,
+            "joy": 0.01,
+            "sadness": 0.027,
+            "anger": 0.002,
+            "surprise": 0.262,
+            "disgust": 0.005,
+            "fear": 0.283
+        }
+    },
+    {
+        "id": 37,
+        "texto": "La joven, con los ojos desmesuradamente abiertos, no hacía sino mirar la alfombra a uno y otro lado del respaldo de la cama.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.985
+        },
+        "secundaria": {
+            "emocion": "Tristeza",
+            "prob": 0.007
+        },
+        "todas_las_probabilidades": {
+            "others": 0.985,
+            "joy": 0.002,
+            "sadness": 0.007,
+            "anger": 0.001,
+            "surprise": 0.003,
+            "disgust": 0.001,
+            "fear": 0.002
+        }
+    },
+    {
+        "id": 38,
+        "texto": "Una noche se quedó de repente mirando fijamente.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.931
+        },
+        "secundaria": {
+            "emocion": "Tristeza",
+            "prob": 0.032
+        },
+        "todas_las_probabilidades": {
+            "others": 0.931,
+            "joy": 0.006,
+            "sadness": 0.032,
+            "anger": 0.001,
+            "surprise": 0.025,
+            "disgust": 0.001,
+            "fear": 0.005
+        }
+    },
+    {
+        "id": 39,
+        "texto": "Al rato abrió la boca para gritar, y sus narices y labios se perlaron de sudor.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.746
+        },
+        "secundaria": {
+            "emocion": "Tristeza",
+            "prob": 0.118
+        },
+        "todas_las_probabilidades": {
+            "others": 0.746,
+            "joy": 0.026,
+            "sadness": 0.118,
+            "anger": 0.034,
+            "surprise": 0.04,
+            "disgust": 0.013,
+            "fear": 0.023
+        }
+    },
+    {
+        "id": 40,
+        "texto": "—¡Jordán! ¡Jordán!—clamó, rígida de espanto, sin dejar de mirar la alfombra.",
+        "primaria": {
+            "emocion": "Sorpresa",
+            "prob": 0.446
+        },
+        "secundaria": {
+            "emocion": "Neutral",
+            "prob": 0.349
+        },
+        "todas_las_probabilidades": {
+            "others": 0.349,
+            "joy": 0.106,
+            "sadness": 0.017,
+            "anger": 0.035,
+            "surprise": 0.446,
+            "disgust": 0.008,
+            "fear": 0.04
+        }
+    },
+    {
+        "id": 41,
+        "texto": "Jordán corrió al dormitorio, y al verlo aparecer Alicia dió un alarido de horror.",
+        "primaria": {
+            "emocion": "Miedo",
+            "prob": 0.418
+        },
+        "secundaria": {
+            "emocion": "Neutral",
+            "prob": 0.223
+        },
+        "todas_las_probabilidades": {
+            "others": 0.223,
+            "joy": 0.022,
+            "sadness": 0.086,
+            "anger": 0.009,
+            "surprise": 0.222,
+            "disgust": 0.02,
+            "fear": 0.418
+        }
+    },
+    {
+        "id": 42,
+        "texto": "—¡Soy yo, Alicia, soy yo!",
+        "primaria": {
+            "emocion": "Alegría",
+            "prob": 0.985
+        },
+        "secundaria": {
+            "emocion": "Neutral",
+            "prob": 0.006
+        },
+        "todas_las_probabilidades": {
+            "others": 0.006,
+            "joy": 0.985,
+            "sadness": 0.001,
+            "anger": 0.001,
+            "surprise": 0.005,
+            "disgust": 0.001,
+            "fear": 0.001
+        }
+    },
+    {
+        "id": 43,
+        "texto": "Alicia lo miró con extravío, miró la alfombra, volvió a mirarlo, y después de largo rato de estupefacta confrontación, se serenó.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.936
+        },
+        "secundaria": {
+            "emocion": "Alegría",
+            "prob": 0.034
+        },
+        "todas_las_probabilidades": {
+            "others": 0.936,
+            "joy": 0.034,
+            "sadness": 0.013,
+            "anger": 0.001,
+            "surprise": 0.012,
+            "disgust": 0.001,
+            "fear": 0.002
+        }
+    },
+    {
+        "id": 44,
+        "texto": "Sonrió y tomó entre las suyas la mano de su marido, acariciándola temblando.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.81
+        },
+        "secundaria": {
+            "emocion": "Alegría",
+            "prob": 0.092
+        },
+        "todas_las_probabilidades": {
+            "others": 0.81,
+            "joy": 0.092,
+            "sadness": 0.024,
+            "anger": 0.011,
+            "surprise": 0.037,
+            "disgust": 0.008,
+            "fear": 0.019
+        }
+    },
+    {
+        "id": 45,
+        "texto": "Entre sus alucinaciones más porfiadas, hubo un antropoide, apoyado en la alfombra sobre los dedos, que tenía fijos en ella los ojos.",
+        "primaria": {
+            "emocion": "Sorpresa",
+            "prob": 0.538
+        },
+        "secundaria": {
+            "emocion": "Neutral",
+            "prob": 0.328
+        },
+        "todas_las_probabilidades": {
+            "others": 0.328,
+            "joy": 0.009,
+            "sadness": 0.009,
+            "anger": 0.004,
+            "surprise": 0.538,
+            "disgust": 0.007,
+            "fear": 0.106
+        }
+    },
+    {
+        "id": 46,
+        "texto": "Los médicos volvieron inútilmente.",
+        "primaria": {
+            "emocion": "Enojo",
+            "prob": 0.905
+        },
+        "secundaria": {
+            "emocion": "Disgusto",
+            "prob": 0.056
+        },
+        "todas_las_probabilidades": {
+            "others": 0.016,
+            "joy": 0.001,
+            "sadness": 0.016,
+            "anger": 0.905,
+            "surprise": 0.002,
+            "disgust": 0.056,
+            "fear": 0.004
+        }
+    },
+    {
+        "id": 47,
+        "texto": "Había allí delante de ellos una vida que se acababa, desangrándose día a día, hora a hora, sin saber absolutamente cómo.",
+        "primaria": {
+            "emocion": "Tristeza",
+            "prob": 0.826
+        },
+        "secundaria": {
+            "emocion": "Neutral",
+            "prob": 0.14
+        },
+        "todas_las_probabilidades": {
+            "others": 0.14,
+            "joy": 0.003,
+            "sadness": 0.826,
+            "anger": 0.016,
+            "surprise": 0.003,
+            "disgust": 0.006,
+            "fear": 0.005
+        }
+    },
+    {
+        "id": 48,
+        "texto": "En la última consulta Alicia yacía en estupor mientras ellos la pulsaban, pasándose de uno a otro la muñeca inerte.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.722
+        },
+        "secundaria": {
+            "emocion": "Tristeza",
+            "prob": 0.222
+        },
+        "todas_las_probabilidades": {
+            "others": 0.722,
+            "joy": 0.003,
+            "sadness": 0.222,
+            "anger": 0.005,
+            "surprise": 0.014,
+            "disgust": 0.005,
+            "fear": 0.029
+        }
+    },
+    {
+        "id": 49,
+        "texto": "La observaron largo rato en silencio y pasaron al comedor.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.985
+        },
+        "secundaria": {
+            "emocion": "Alegría",
+            "prob": 0.007
+        },
+        "todas_las_probabilidades": {
+            "others": 0.985,
+            "joy": 0.007,
+            "sadness": 0.004,
+            "anger": 0.001,
+            "surprise": 0.002,
+            "disgust": 0.001,
+            "fear": 0.001
+        }
+    },
+    {
+        "id": 50,
+        "texto": "—Pst...—se encogió de hombros desalentado su médico.—Es un caso serio... poco hay que hacer...",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.607
+        },
+        "secundaria": {
+            "emocion": "Tristeza",
+            "prob": 0.184
+        },
+        "todas_las_probabilidades": {
+            "others": 0.607,
+            "joy": 0.005,
+            "sadness": 0.184,
+            "anger": 0.12,
+            "surprise": 0.027,
+            "disgust": 0.039,
+            "fear": 0.019
+        }
+    },
+    {
+        "id": 51,
+        "texto": "—¡Sólo eso me faltaba!—resopló Jordán. Y tamborileó bruscamente sobre la mesa.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.508
+        },
+        "secundaria": {
+            "emocion": "Sorpresa",
+            "prob": 0.348
+        },
+        "todas_las_probabilidades": {
+            "others": 0.508,
+            "joy": 0.086,
+            "sadness": 0.004,
+            "anger": 0.023,
+            "surprise": 0.348,
+            "disgust": 0.006,
+            "fear": 0.025
+        }
+    },
+    {
+        "id": 52,
+        "texto": "Alicia fué extinguiéndose en subdelirio de anemia, agravado de tarde, pero que remitía siempre en las primeras horas.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.964
+        },
+        "secundaria": {
+            "emocion": "Tristeza",
+            "prob": 0.018
+        },
+        "todas_las_probabilidades": {
+            "others": 0.964,
+            "joy": 0.005,
+            "sadness": 0.018,
+            "anger": 0.001,
+            "surprise": 0.007,
+            "disgust": 0.001,
+            "fear": 0.004
+        }
+    },
+    {
+        "id": 53,
+        "texto": "Durante el día no avanzaba su enfermedad, pero cada mañana amanecía lívida, en síncope casi.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.954
+        },
+        "secundaria": {
+            "emocion": "Tristeza",
+            "prob": 0.028
+        },
+        "todas_las_probabilidades": {
+            "others": 0.954,
+            "joy": 0.007,
+            "sadness": 0.028,
+            "anger": 0.001,
+            "surprise": 0.005,
+            "disgust": 0.001,
+            "fear": 0.005
+        }
+    },
+    {
+        "id": 54,
+        "texto": "Parecía que únicamente de noche se le fuera la vida en nuevas olas de sangre.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.781
+        },
+        "secundaria": {
+            "emocion": "Tristeza",
+            "prob": 0.164
+        },
+        "todas_las_probabilidades": {
+            "others": 0.781,
+            "joy": 0.002,
+            "sadness": 0.164,
+            "anger": 0.003,
+            "surprise": 0.033,
+            "disgust": 0.003,
+            "fear": 0.015
+        }
+    },
+    {
+        "id": 55,
+        "texto": "Tenía siempre al despertar la sensación de estar desplomada en la cama con un millón de kilos encima.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.425
+        },
+        "secundaria": {
+            "emocion": "Tristeza",
+            "prob": 0.395
+        },
+        "todas_las_probabilidades": {
+            "others": 0.425,
+            "joy": 0.005,
+            "sadness": 0.395,
+            "anger": 0.005,
+            "surprise": 0.015,
+            "disgust": 0.006,
+            "fear": 0.149
+        }
+    },
+    {
+        "id": 56,
+        "texto": "Desde el tercer día este hundimiento no la abandonó más.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.763
+        },
+        "secundaria": {
+            "emocion": "Tristeza",
+            "prob": 0.185
+        },
+        "todas_las_probabilidades": {
+            "others": 0.763,
+            "joy": 0.022,
+            "sadness": 0.185,
+            "anger": 0.011,
+            "surprise": 0.012,
+            "disgust": 0.004,
+            "fear": 0.002
+        }
+    },
+    {
+        "id": 57,
+        "texto": "Apenas podía mover la cabeza.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.938
+        },
+        "secundaria": {
+            "emocion": "Sorpresa",
+            "prob": 0.034
+        },
+        "todas_las_probabilidades": {
+            "others": 0.938,
+            "joy": 0.016,
+            "sadness": 0.008,
+            "anger": 0.001,
+            "surprise": 0.034,
+            "disgust": 0.001,
+            "fear": 0.003
+        }
+    },
+    {
+        "id": 58,
+        "texto": "No quiso que le tocaran la cama, ni aún que le arreglaran el almohadón.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.97
+        },
+        "secundaria": {
+            "emocion": "Tristeza",
+            "prob": 0.02
+        },
+        "todas_las_probabilidades": {
+            "others": 0.97,
+            "joy": 0.003,
+            "sadness": 0.02,
+            "anger": 0.004,
+            "surprise": 0.001,
+            "disgust": 0.001,
+            "fear": 0.001
+        }
+    },
+    {
+        "id": 59,
+        "texto": "Sus terrores crepusculares avanzaron en forma de monstruos que se arrastraban hasta la cama y trepaban dificultosamente por la colcha.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.612
+        },
+        "secundaria": {
+            "emocion": "Sorpresa",
+            "prob": 0.183
+        },
+        "todas_las_probabilidades": {
+            "others": 0.612,
+            "joy": 0.011,
+            "sadness": 0.015,
+            "anger": 0.004,
+            "surprise": 0.183,
+            "disgust": 0.006,
+            "fear": 0.169
+        }
+    },
+    {
+        "id": 60,
+        "texto": "Perdió, luego, el conocimiento.",
+        "primaria": {
+            "emocion": "Tristeza",
+            "prob": 0.855
+        },
+        "secundaria": {
+            "emocion": "Neutral",
+            "prob": 0.129
+        },
+        "todas_las_probabilidades": {
+            "others": 0.129,
+            "joy": 0.007,
+            "sadness": 0.855,
+            "anger": 0.002,
+            "surprise": 0.002,
+            "disgust": 0.003,
+            "fear": 0.003
+        }
+    },
+    {
+        "id": 61,
+        "texto": "Los dos días finales deliró sin cesar a media voz.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.895
+        },
+        "secundaria": {
+            "emocion": "Sorpresa",
+            "prob": 0.071
+        },
+        "todas_las_probabilidades": {
+            "others": 0.895,
+            "joy": 0.014,
+            "sadness": 0.005,
+            "anger": 0.001,
+            "surprise": 0.071,
+            "disgust": 0.002,
+            "fear": 0.012
+        }
+    },
+    {
+        "id": 62,
+        "texto": "Las luces continuaban fúnebremente encendidas en el dormitorio y la sala.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.991
+        },
+        "secundaria": {
+            "emocion": "Sorpresa",
+            "prob": 0.004
+        },
+        "todas_las_probabilidades": {
+            "others": 0.991,
+            "joy": 0.002,
+            "sadness": 0.001,
+            "anger": 0.0,
+            "surprise": 0.004,
+            "disgust": 0.0,
+            "fear": 0.001
+        }
+    },
+    {
+        "id": 63,
+        "texto": "En el silencio agónico de la casa, no se oía más que el delirio monótono que salía de la cama, y el rumor ahogado de los eternos pasos de Jordán.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.817
+        },
+        "secundaria": {
+            "emocion": "Miedo",
+            "prob": 0.08
+        },
+        "todas_las_probabilidades": {
+            "others": 0.817,
+            "joy": 0.007,
+            "sadness": 0.013,
+            "anger": 0.002,
+            "surprise": 0.079,
+            "disgust": 0.002,
+            "fear": 0.08
+        }
+    },
+    {
+        "id": 64,
+        "texto": "Murió, por fin.",
+        "primaria": {
+            "emocion": "Tristeza",
+            "prob": 0.949
+        },
+        "secundaria": {
+            "emocion": "Neutral",
+            "prob": 0.034
+        },
+        "todas_las_probabilidades": {
+            "others": 0.034,
+            "joy": 0.007,
+            "sadness": 0.949,
+            "anger": 0.002,
+            "surprise": 0.004,
+            "disgust": 0.002,
+            "fear": 0.002
+        }
+    },
+    {
+        "id": 65,
+        "texto": "La sirvienta, que entró después a deshacer la cama, sola ya, miró un rato extrañada el almohadón.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.974
+        },
+        "secundaria": {
+            "emocion": "Alegría",
+            "prob": 0.011
+        },
+        "todas_las_probabilidades": {
+            "others": 0.974,
+            "joy": 0.011,
+            "sadness": 0.005,
+            "anger": 0.001,
+            "surprise": 0.006,
+            "disgust": 0.001,
+            "fear": 0.002
+        }
+    },
+    {
+        "id": 66,
+        "texto": "—Señor—llamó a Jordán en voz baja.—En el almohadón hay manchas que parecen de sangre.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.94
+        },
+        "secundaria": {
+            "emocion": "Sorpresa",
+            "prob": 0.03
+        },
+        "todas_las_probabilidades": {
+            "others": 0.94,
+            "joy": 0.006,
+            "sadness": 0.01,
+            "anger": 0.002,
+            "surprise": 0.03,
+            "disgust": 0.001,
+            "fear": 0.01
+        }
+    },
+    {
+        "id": 67,
+        "texto": "Jordán se acercó rápidamente y se dobló a su vez.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.959
+        },
+        "secundaria": {
+            "emocion": "Sorpresa",
+            "prob": 0.016
+        },
+        "todas_las_probabilidades": {
+            "others": 0.959,
+            "joy": 0.015,
+            "sadness": 0.003,
+            "anger": 0.001,
+            "surprise": 0.016,
+            "disgust": 0.001,
+            "fear": 0.006
+        }
+    },
+    {
+        "id": 68,
+        "texto": "Efectivamente, sobre la funda, a ambos lados del hueco que había dejado la cabeza de Alicia, se veían manchas de sangre.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.905
+        },
+        "secundaria": {
+            "emocion": "Tristeza",
+            "prob": 0.066
+        },
+        "todas_las_probabilidades": {
+            "others": 0.905,
+            "joy": 0.002,
+            "sadness": 0.066,
+            "anger": 0.003,
+            "surprise": 0.013,
+            "disgust": 0.002,
+            "fear": 0.009
+        }
+    },
+    {
+        "id": 69,
+        "texto": "—Parecen picaduras—murmuró la sirvienta después de un rato de inmóvil observación.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.759
+        },
+        "secundaria": {
+            "emocion": "Sorpresa",
+            "prob": 0.158
+        },
+        "todas_las_probabilidades": {
+            "others": 0.759,
+            "joy": 0.007,
+            "sadness": 0.009,
+            "anger": 0.007,
+            "surprise": 0.158,
+            "disgust": 0.003,
+            "fear": 0.056
+        }
+    },
+    {
+        "id": 70,
+        "texto": "—Levántelo a la luz—le dijo Jordán.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.978
+        },
+        "secundaria": {
+            "emocion": "Alegría",
+            "prob": 0.005
+        },
+        "todas_las_probabilidades": {
+            "others": 0.978,
+            "joy": 0.005,
+            "sadness": 0.004,
+            "anger": 0.004,
+            "surprise": 0.004,
+            "disgust": 0.002,
+            "fear": 0.003
+        }
+    },
+    {
+        "id": 71,
+        "texto": "La sirvienta lo levantó, pero en seguida lo dejó caer, y se quedó mirando a aquél, lívida y temblando.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.85
+        },
+        "secundaria": {
+            "emocion": "Sorpresa",
+            "prob": 0.077
+        },
+        "todas_las_probabilidades": {
+            "others": 0.85,
+            "joy": 0.008,
+            "sadness": 0.027,
+            "anger": 0.002,
+            "surprise": 0.077,
+            "disgust": 0.002,
+            "fear": 0.033
+        }
+    },
+    {
+        "id": 72,
+        "texto": "Sin saber por qué, Jordán sintió que los cabellos se le erizaban.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.897
+        },
+        "secundaria": {
+            "emocion": "Tristeza",
+            "prob": 0.069
+        },
+        "todas_las_probabilidades": {
+            "others": 0.897,
+            "joy": 0.004,
+            "sadness": 0.069,
+            "anger": 0.001,
+            "surprise": 0.014,
+            "disgust": 0.001,
+            "fear": 0.013
+        }
+    },
+    {
+        "id": 73,
+        "texto": "—¿Qué hay?—murmuró con la voz ronca.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.877
+        },
+        "secundaria": {
+            "emocion": "Sorpresa",
+            "prob": 0.045
+        },
+        "todas_las_probabilidades": {
+            "others": 0.877,
+            "joy": 0.019,
+            "sadness": 0.012,
+            "anger": 0.01,
+            "surprise": 0.045,
+            "disgust": 0.004,
+            "fear": 0.034
+        }
+    },
+    {
+        "id": 74,
+        "texto": "—Pesa mucho—articuló la sirvienta, sin dejar de temblar.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.935
+        },
+        "secundaria": {
+            "emocion": "Sorpresa",
+            "prob": 0.029
+        },
+        "todas_las_probabilidades": {
+            "others": 0.935,
+            "joy": 0.007,
+            "sadness": 0.019,
+            "anger": 0.001,
+            "surprise": 0.029,
+            "disgust": 0.001,
+            "fear": 0.008
+        }
+    },
+    {
+        "id": 75,
+        "texto": "Jordán lo levantó; pesaba extraordinariamente.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.945
+        },
+        "secundaria": {
+            "emocion": "Alegría",
+            "prob": 0.042
+        },
+        "todas_las_probabilidades": {
+            "others": 0.945,
+            "joy": 0.042,
+            "sadness": 0.005,
+            "anger": 0.001,
+            "surprise": 0.006,
+            "disgust": 0.001,
+            "fear": 0.001
+        }
+    },
+    {
+        "id": 76,
+        "texto": "Salieron con él, y sobre la mesa del comedor Jordán cortó funda y envoltura de un tajo.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.979
+        },
+        "secundaria": {
+            "emocion": "Tristeza",
+            "prob": 0.008
+        },
+        "todas_las_probabilidades": {
+            "others": 0.979,
+            "joy": 0.003,
+            "sadness": 0.008,
+            "anger": 0.004,
+            "surprise": 0.004,
+            "disgust": 0.002,
+            "fear": 0.001
+        }
+    },
+    {
+        "id": 77,
+        "texto": "Las plumas superiores volaron, y la sirvienta dió un grito de horror con toda la boca abierta, llevándose las manos crispadas a los bandós:—sobre el fondo, entre las plumas, moviendo lentamente las patas velludas, había un animal monstruoso, una bola viviente y viscosa.",
+        "primaria": {
+            "emocion": "Sorpresa",
+            "prob": 0.353
+        },
+        "secundaria": {
+            "emocion": "Neutral",
+            "prob": 0.294
+        },
+        "todas_las_probabilidades": {
+            "others": 0.294,
+            "joy": 0.014,
+            "sadness": 0.04,
+            "anger": 0.052,
+            "surprise": 0.353,
+            "disgust": 0.034,
+            "fear": 0.213
+        }
+    },
+    {
+        "id": 78,
+        "texto": "Estaba tan hinchado que apenas se le pronunciaba la boca.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.98
+        },
+        "secundaria": {
+            "emocion": "Sorpresa",
+            "prob": 0.007
+        },
+        "todas_las_probabilidades": {
+            "others": 0.98,
+            "joy": 0.002,
+            "sadness": 0.002,
+            "anger": 0.004,
+            "surprise": 0.007,
+            "disgust": 0.002,
+            "fear": 0.002
+        }
+    },
+    {
+        "id": 79,
+        "texto": "Noche a noche, desde que Alicia había caído en cama, había aplicado sigilosamente su boca—su trompa, mejor dicho—a las sientes de aquella, chupándole la sangre.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.96
+        },
+        "secundaria": {
+            "emocion": "Tristeza",
+            "prob": 0.014
+        },
+        "todas_las_probabilidades": {
+            "others": 0.96,
+            "joy": 0.005,
+            "sadness": 0.014,
+            "anger": 0.004,
+            "surprise": 0.011,
+            "disgust": 0.002,
+            "fear": 0.003
+        }
+    },
+    {
+        "id": 80,
+        "texto": "La picadura era casi imperceptible.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.621
+        },
+        "secundaria": {
+            "emocion": "Sorpresa",
+            "prob": 0.328
+        },
+        "todas_las_probabilidades": {
+            "others": 0.621,
+            "joy": 0.007,
+            "sadness": 0.006,
+            "anger": 0.004,
+            "surprise": 0.328,
+            "disgust": 0.003,
+            "fear": 0.031
+        }
+    },
+    {
+        "id": 81,
+        "texto": "La remoción diaria del almohadón había impedido sin duda su desarrollo, pero desde que la joven no pudo moverse, la succión fué vertiginosa.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.951
+        },
+        "secundaria": {
+            "emocion": "Tristeza",
+            "prob": 0.02
+        },
+        "todas_las_probabilidades": {
+            "others": 0.951,
+            "joy": 0.006,
+            "sadness": 0.02,
+            "anger": 0.001,
+            "surprise": 0.018,
+            "disgust": 0.001,
+            "fear": 0.004
+        }
+    },
+    {
+        "id": 82,
+        "texto": "En cinco días, en cinco noches, había vaciado a Alicia.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.813
+        },
+        "secundaria": {
+            "emocion": "Tristeza",
+            "prob": 0.133
+        },
+        "todas_las_probabilidades": {
+            "others": 0.813,
+            "joy": 0.015,
+            "sadness": 0.133,
+            "anger": 0.007,
+            "surprise": 0.019,
+            "disgust": 0.007,
+            "fear": 0.006
+        }
+    },
+    {
+        "id": 83,
+        "texto": "Estos parásitos de las aves, diminutos en el medio habitual, llegan a adquirir en ciertas condiciones proporciones enormes.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.93
+        },
+        "secundaria": {
+            "emocion": "Sorpresa",
+            "prob": 0.026
+        },
+        "todas_las_probabilidades": {
+            "others": 0.93,
+            "joy": 0.002,
+            "sadness": 0.009,
+            "anger": 0.006,
+            "surprise": 0.026,
+            "disgust": 0.003,
+            "fear": 0.025
+        }
+    },
+    {
+        "id": 84,
+        "texto": "La sangre humana parece serles particularmente favorable, y no es raro hallarlos en los almohadones de pluma.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.979
+        },
+        "secundaria": {
+            "emocion": "Tristeza",
+            "prob": 0.008
+        },
+        "todas_las_probabilidades": {
+            "others": 0.979,
+            "joy": 0.005,
+            "sadness": 0.008,
+            "anger": 0.0,
+            "surprise": 0.004,
+            "disgust": 0.0,
+            "fear": 0.003
+        }
+    }
+]

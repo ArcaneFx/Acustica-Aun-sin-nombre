@@ -1,0 +1,3236 @@
+[
+    {
+        "id": 1,
+        "texto": "#LA GALLINA DEGOLLADA#",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.849
+        },
+        "secundaria": {
+            "emocion": "Alegría",
+            "prob": 0.064
+        },
+        "todas_las_probabilidades": {
+            "others": 0.849,
+            "joy": 0.064,
+            "sadness": 0.018,
+            "anger": 0.009,
+            "surprise": 0.048,
+            "disgust": 0.006,
+            "fear": 0.006
+        }
+    },
+    {
+        "id": 2,
+        "texto": "Todo el día, sentados en el patio en un banco, estaban los cuatro hijos idiotas del matrimonio Mazzini-Ferraz.",
+        "primaria": {
+            "emocion": "Enojo",
+            "prob": 0.854
+        },
+        "secundaria": {
+            "emocion": "Disgusto",
+            "prob": 0.097
+        },
+        "todas_las_probabilidades": {
+            "others": 0.033,
+            "joy": 0.002,
+            "sadness": 0.008,
+            "anger": 0.854,
+            "surprise": 0.003,
+            "disgust": 0.097,
+            "fear": 0.002
+        }
+    },
+    {
+        "id": 3,
+        "texto": "Tenían la lengua entre los labios, los ojos estúpidos, y volvían la cabeza con la boca abierta.",
+        "primaria": {
+            "emocion": "Enojo",
+            "prob": 0.911
+        },
+        "secundaria": {
+            "emocion": "Disgusto",
+            "prob": 0.081
+        },
+        "todas_las_probabilidades": {
+            "others": 0.002,
+            "joy": 0.001,
+            "sadness": 0.002,
+            "anger": 0.911,
+            "surprise": 0.001,
+            "disgust": 0.081,
+            "fear": 0.002
+        }
+    },
+    {
+        "id": 4,
+        "texto": "El patio era de tierra, cerrado al oeste por un cerco de ladrillos.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.986
+        },
+        "secundaria": {
+            "emocion": "Sorpresa",
+            "prob": 0.005
+        },
+        "todas_las_probabilidades": {
+            "others": 0.986,
+            "joy": 0.001,
+            "sadness": 0.003,
+            "anger": 0.001,
+            "surprise": 0.005,
+            "disgust": 0.0,
+            "fear": 0.004
+        }
+    },
+    {
+        "id": 5,
+        "texto": "El banco quedaba paralelo a él, a cinco metros, y allí se mantenían inmóviles, fijos los ojos en los ladrillos.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.987
+        },
+        "secundaria": {
+            "emocion": "Tristeza",
+            "prob": 0.005
+        },
+        "todas_las_probabilidades": {
+            "others": 0.987,
+            "joy": 0.001,
+            "sadness": 0.005,
+            "anger": 0.001,
+            "surprise": 0.003,
+            "disgust": 0.001,
+            "fear": 0.002
+        }
+    },
+    {
+        "id": 6,
+        "texto": "Como el sol se ocultaba tras el cerco, al declinar los idiotas tenían fiesta.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.82
+        },
+        "secundaria": {
+            "emocion": "Enojo",
+            "prob": 0.063
+        },
+        "todas_las_probabilidades": {
+            "others": 0.82,
+            "joy": 0.016,
+            "sadness": 0.025,
+            "anger": 0.063,
+            "surprise": 0.024,
+            "disgust": 0.024,
+            "fear": 0.028
+        }
+    },
+    {
+        "id": 7,
+        "texto": "La luz enceguecedora llamaba su atención al principio, poco a poco sus ojos se animaban, se reían al fin estrepitosamente, congestionados por la misma hilaridad ansiosa, mirando el sol con alegría bestial, como si fuera comida.",
+        "primaria": {
+            "emocion": "Alegría",
+            "prob": 0.352
+        },
+        "secundaria": {
+            "emocion": "Neutral",
+            "prob": 0.304
+        },
+        "todas_las_probabilidades": {
+            "others": 0.304,
+            "joy": 0.352,
+            "sadness": 0.3,
+            "anger": 0.011,
+            "surprise": 0.013,
+            "disgust": 0.006,
+            "fear": 0.013
+        }
+    },
+    {
+        "id": 8,
+        "texto": "Otras veces, alineados en el banco, zumbaban horas enteras, imitando al tranvía eléctrico.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.984
+        },
+        "secundaria": {
+            "emocion": "Sorpresa",
+            "prob": 0.009
+        },
+        "todas_las_probabilidades": {
+            "others": 0.984,
+            "joy": 0.002,
+            "sadness": 0.002,
+            "anger": 0.001,
+            "surprise": 0.009,
+            "disgust": 0.0,
+            "fear": 0.001
+        }
+    },
+    {
+        "id": 9,
+        "texto": "Los ruidos fuertes sacudían asimismo su inercia, y corrían entonces, mordiéndose la lengua y mugiendo, alrededor del patio.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.522
+        },
+        "secundaria": {
+            "emocion": "Miedo",
+            "prob": 0.287
+        },
+        "todas_las_probabilidades": {
+            "others": 0.522,
+            "joy": 0.012,
+            "sadness": 0.017,
+            "anger": 0.008,
+            "surprise": 0.145,
+            "disgust": 0.008,
+            "fear": 0.287
+        }
+    },
+    {
+        "id": 10,
+        "texto": "Pero casi siempre estaban apagados en un sombrío letargo de idiotismo, y pasaban todo el día sentados en su banco, con las piernas colgantes y quietas, empapando de glutinosa saliva el pantalón.",
+        "primaria": {
+            "emocion": "Enojo",
+            "prob": 0.614
+        },
+        "secundaria": {
+            "emocion": "Neutral",
+            "prob": 0.302
+        },
+        "todas_las_probabilidades": {
+            "others": 0.302,
+            "joy": 0.004,
+            "sadness": 0.034,
+            "anger": 0.614,
+            "surprise": 0.003,
+            "disgust": 0.038,
+            "fear": 0.006
+        }
+    },
+    {
+        "id": 11,
+        "texto": "El mayor tenía doce años y el menor, nueve.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.983
+        },
+        "secundaria": {
+            "emocion": "Alegría",
+            "prob": 0.006
+        },
+        "todas_las_probabilidades": {
+            "others": 0.983,
+            "joy": 0.006,
+            "sadness": 0.002,
+            "anger": 0.0,
+            "surprise": 0.005,
+            "disgust": 0.001,
+            "fear": 0.003
+        }
+    },
+    {
+        "id": 12,
+        "texto": "En todo su aspecto sucio y desvalido se notaba la falta absoluta de un poco de cuidado maternal.",
+        "primaria": {
+            "emocion": "Enojo",
+            "prob": 0.758
+        },
+        "secundaria": {
+            "emocion": "Disgusto",
+            "prob": 0.211
+        },
+        "todas_las_probabilidades": {
+            "others": 0.007,
+            "joy": 0.001,
+            "sadness": 0.016,
+            "anger": 0.758,
+            "surprise": 0.002,
+            "disgust": 0.211,
+            "fear": 0.005
+        }
+    },
+    {
+        "id": 13,
+        "texto": "Esos cuatro idiotas, sin embargo, habían sido un día el encanto de sus padres.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.538
+        },
+        "secundaria": {
+            "emocion": "Tristeza",
+            "prob": 0.196
+        },
+        "todas_las_probabilidades": {
+            "others": 0.538,
+            "joy": 0.018,
+            "sadness": 0.196,
+            "anger": 0.184,
+            "surprise": 0.004,
+            "disgust": 0.057,
+            "fear": 0.003
+        }
+    },
+    {
+        "id": 14,
+        "texto": "A los tres meses de casados, Mazzini y Berta orientaron su estrecho amor de marido y mujer y mujer y marido hacia un porvenir mucho más vital: un hijo: ¿Qué mayor dicha para dos enamorados que esa honrada consagración de su cariño, libertado ya del vil egoísmo de un mutuo amor sin fin ninguno y, lo que es peor para el amor mismo, sin esperanzas posibles de renovación?",
+        "primaria": {
+            "emocion": "Tristeza",
+            "prob": 0.846
+        },
+        "secundaria": {
+            "emocion": "Neutral",
+            "prob": 0.108
+        },
+        "todas_las_probabilidades": {
+            "others": 0.108,
+            "joy": 0.007,
+            "sadness": 0.846,
+            "anger": 0.031,
+            "surprise": 0.001,
+            "disgust": 0.006,
+            "fear": 0.001
+        }
+    },
+    {
+        "id": 15,
+        "texto": "Así lo sintieron Mazzini y Berta, y cuando el hijo llegó, a los catorce meses de matrimonio, creyeron cumplida su felicidad.",
+        "primaria": {
+            "emocion": "Alegría",
+            "prob": 0.68
+        },
+        "secundaria": {
+            "emocion": "Neutral",
+            "prob": 0.261
+        },
+        "todas_las_probabilidades": {
+            "others": 0.261,
+            "joy": 0.68,
+            "sadness": 0.047,
+            "anger": 0.001,
+            "surprise": 0.006,
+            "disgust": 0.003,
+            "fear": 0.004
+        }
+    },
+    {
+        "id": 16,
+        "texto": "La criatura creció, bella y radiante, hasta que tuvo año y medio.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.526
+        },
+        "secundaria": {
+            "emocion": "Alegría",
+            "prob": 0.374
+        },
+        "todas_las_probabilidades": {
+            "others": 0.526,
+            "joy": 0.374,
+            "sadness": 0.083,
+            "anger": 0.002,
+            "surprise": 0.011,
+            "disgust": 0.002,
+            "fear": 0.002
+        }
+    },
+    {
+        "id": 17,
+        "texto": "Pero en el vigésimo mes sacudiéronlo una noche convulsiones terribles, y a la mañana siguiente no conocía más a sus padres.",
+        "primaria": {
+            "emocion": "Tristeza",
+            "prob": 0.969
+        },
+        "secundaria": {
+            "emocion": "Miedo",
+            "prob": 0.015
+        },
+        "todas_las_probabilidades": {
+            "others": 0.008,
+            "joy": 0.002,
+            "sadness": 0.969,
+            "anger": 0.001,
+            "surprise": 0.003,
+            "disgust": 0.002,
+            "fear": 0.015
+        }
+    },
+    {
+        "id": 18,
+        "texto": "El médico lo examinó con esa atención profesional que está visiblemente buscando la causa del mal, en las enfermedades de los padres.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.972
+        },
+        "secundaria": {
+            "emocion": "Tristeza",
+            "prob": 0.015
+        },
+        "todas_las_probabilidades": {
+            "others": 0.972,
+            "joy": 0.001,
+            "sadness": 0.015,
+            "anger": 0.007,
+            "surprise": 0.001,
+            "disgust": 0.002,
+            "fear": 0.002
+        }
+    },
+    {
+        "id": 19,
+        "texto": "Después de algunos días los miembros paralizados recobraron el instinto; pero la inteligencia, el alma, aún el instinto, se habían ido del todo; había quedado profundamente idiota, baboso, colgante, muerto para siempre sobre las rodillas de su madre.",
+        "primaria": {
+            "emocion": "Enojo",
+            "prob": 0.681
+        },
+        "secundaria": {
+            "emocion": "Disgusto",
+            "prob": 0.198
+        },
+        "todas_las_probabilidades": {
+            "others": 0.03,
+            "joy": 0.002,
+            "sadness": 0.083,
+            "anger": 0.681,
+            "surprise": 0.003,
+            "disgust": 0.198,
+            "fear": 0.004
+        }
+    },
+    {
+        "id": 20,
+        "texto": "—¡Hijo, mi hijo querido!—sollozaba ésta, sobre aquella espantosa ruina de su primogénito.",
+        "primaria": {
+            "emocion": "Tristeza",
+            "prob": 0.708
+        },
+        "secundaria": {
+            "emocion": "Neutral",
+            "prob": 0.236
+        },
+        "todas_las_probabilidades": {
+            "others": 0.236,
+            "joy": 0.039,
+            "sadness": 0.708,
+            "anger": 0.006,
+            "surprise": 0.004,
+            "disgust": 0.004,
+            "fear": 0.003
+        }
+    },
+    {
+        "id": 21,
+        "texto": "El padre, desolado, acompañó al médico afuera.",
+        "primaria": {
+            "emocion": "Tristeza",
+            "prob": 0.912
+        },
+        "secundaria": {
+            "emocion": "Neutral",
+            "prob": 0.072
+        },
+        "todas_las_probabilidades": {
+            "others": 0.072,
+            "joy": 0.006,
+            "sadness": 0.912,
+            "anger": 0.002,
+            "surprise": 0.002,
+            "disgust": 0.002,
+            "fear": 0.004
+        }
+    },
+    {
+        "id": 22,
+        "texto": "—A usted se le puede decir; creo que es un caso perdido. Podrá mejorar, educarse en todo lo que permita su idiotismo, pero no más allá.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.71
+        },
+        "secundaria": {
+            "emocion": "Enojo",
+            "prob": 0.149
+        },
+        "todas_las_probabilidades": {
+            "others": 0.71,
+            "joy": 0.005,
+            "sadness": 0.099,
+            "anger": 0.149,
+            "surprise": 0.003,
+            "disgust": 0.031,
+            "fear": 0.003
+        }
+    },
+    {
+        "id": 23,
+        "texto": "—¡Sí!... ¡sí!...—asentía Mazzini.—Pero dígame: ¿Usted cree que es herencia, que...?",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.845
+        },
+        "secundaria": {
+            "emocion": "Sorpresa",
+            "prob": 0.107
+        },
+        "todas_las_probabilidades": {
+            "others": 0.845,
+            "joy": 0.01,
+            "sadness": 0.009,
+            "anger": 0.012,
+            "surprise": 0.107,
+            "disgust": 0.006,
+            "fear": 0.012
+        }
+    },
+    {
+        "id": 24,
+        "texto": "—En cuanto a la herencia paterna, ya le dije lo que creí cuando vi a su hijo. Respecto a la madre, hay allí un pulmón que no sopla bien. No veo nada más, pero hay un soplo un poco rudo. Hágala examinar bien.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.982
+        },
+        "secundaria": {
+            "emocion": "Tristeza",
+            "prob": 0.011
+        },
+        "todas_las_probabilidades": {
+            "others": 0.982,
+            "joy": 0.001,
+            "sadness": 0.011,
+            "anger": 0.001,
+            "surprise": 0.002,
+            "disgust": 0.001,
+            "fear": 0.002
+        }
+    },
+    {
+        "id": 25,
+        "texto": "Con el alma destrozada de remordimiento, Mazzini redobló su amor a su hijo, el pequeño idiota que pagaba los excesos del abuelo.",
+        "primaria": {
+            "emocion": "Tristeza",
+            "prob": 0.987
+        },
+        "secundaria": {
+            "emocion": "Enojo",
+            "prob": 0.006
+        },
+        "todas_las_probabilidades": {
+            "others": 0.002,
+            "joy": 0.001,
+            "sadness": 0.987,
+            "anger": 0.006,
+            "surprise": 0.0,
+            "disgust": 0.003,
+            "fear": 0.001
+        }
+    },
+    {
+        "id": 26,
+        "texto": "Tuvo asimismo que consolar, sostener sin tregua a Berta, herida en lo más profundo por aquel fracaso de su joven maternidad.",
+        "primaria": {
+            "emocion": "Tristeza",
+            "prob": 0.991
+        },
+        "secundaria": {
+            "emocion": "Neutral",
+            "prob": 0.005
+        },
+        "todas_las_probabilidades": {
+            "others": 0.005,
+            "joy": 0.002,
+            "sadness": 0.991,
+            "anger": 0.001,
+            "surprise": 0.0,
+            "disgust": 0.0,
+            "fear": 0.0
+        }
+    },
+    {
+        "id": 27,
+        "texto": "Como es natural, el matrimonio puso todo su amor en la esperanza de otro hijo.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.954
+        },
+        "secundaria": {
+            "emocion": "Alegría",
+            "prob": 0.027
+        },
+        "todas_las_probabilidades": {
+            "others": 0.954,
+            "joy": 0.027,
+            "sadness": 0.016,
+            "anger": 0.001,
+            "surprise": 0.001,
+            "disgust": 0.001,
+            "fear": 0.001
+        }
+    },
+    {
+        "id": 28,
+        "texto": "Nació éste, y su salud y limpidez de risa reencendieron el porvenir extinguido.",
+        "primaria": {
+            "emocion": "Alegría",
+            "prob": 0.986
+        },
+        "secundaria": {
+            "emocion": "Neutral",
+            "prob": 0.01
+        },
+        "todas_las_probabilidades": {
+            "others": 0.01,
+            "joy": 0.986,
+            "sadness": 0.003,
+            "anger": 0.0,
+            "surprise": 0.001,
+            "disgust": 0.001,
+            "fear": 0.0
+        }
+    },
+    {
+        "id": 29,
+        "texto": "Pero a los diez y ocho meses las convulsiones del primogénito se repetían, y al día siguiente amanecía idiota.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.624
+        },
+        "secundaria": {
+            "emocion": "Tristeza",
+            "prob": 0.264
+        },
+        "todas_las_probabilidades": {
+            "others": 0.624,
+            "joy": 0.01,
+            "sadness": 0.264,
+            "anger": 0.017,
+            "surprise": 0.015,
+            "disgust": 0.015,
+            "fear": 0.054
+        }
+    },
+    {
+        "id": 30,
+        "texto": "Esta vez los padres cayeron en honda desesperación.",
+        "primaria": {
+            "emocion": "Tristeza",
+            "prob": 0.928
+        },
+        "secundaria": {
+            "emocion": "Miedo",
+            "prob": 0.035
+        },
+        "todas_las_probabilidades": {
+            "others": 0.017,
+            "joy": 0.004,
+            "sadness": 0.928,
+            "anger": 0.002,
+            "surprise": 0.012,
+            "disgust": 0.002,
+            "fear": 0.035
+        }
+    },
+    {
+        "id": 31,
+        "texto": "¡Luego su sangre, su amor estaba maldito!",
+        "primaria": {
+            "emocion": "Enojo",
+            "prob": 0.449
+        },
+        "secundaria": {
+            "emocion": "Tristeza",
+            "prob": 0.282
+        },
+        "todas_las_probabilidades": {
+            "others": 0.049,
+            "joy": 0.034,
+            "sadness": 0.282,
+            "anger": 0.449,
+            "surprise": 0.007,
+            "disgust": 0.169,
+            "fear": 0.01
+        }
+    },
+    {
+        "id": 32,
+        "texto": "¡Su amor, sobre todo!",
+        "primaria": {
+            "emocion": "Alegría",
+            "prob": 0.983
+        },
+        "secundaria": {
+            "emocion": "Neutral",
+            "prob": 0.006
+        },
+        "todas_las_probabilidades": {
+            "others": 0.006,
+            "joy": 0.983,
+            "sadness": 0.001,
+            "anger": 0.002,
+            "surprise": 0.002,
+            "disgust": 0.003,
+            "fear": 0.002
+        }
+    },
+    {
+        "id": 33,
+        "texto": "Veintiocho años él, veintidós ella, y toda su apasionada ternura no alcanzaba a crear un átomo de vida normal.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.916
+        },
+        "secundaria": {
+            "emocion": "Tristeza",
+            "prob": 0.053
+        },
+        "todas_las_probabilidades": {
+            "others": 0.916,
+            "joy": 0.023,
+            "sadness": 0.053,
+            "anger": 0.002,
+            "surprise": 0.003,
+            "disgust": 0.002,
+            "fear": 0.001
+        }
+    },
+    {
+        "id": 34,
+        "texto": "Ya no pedían más belleza e inteligencia como en el primogénito; pero un hijo, un hijo como todos!",
+        "primaria": {
+            "emocion": "Alegría",
+            "prob": 0.88
+        },
+        "secundaria": {
+            "emocion": "Neutral",
+            "prob": 0.103
+        },
+        "todas_las_probabilidades": {
+            "others": 0.103,
+            "joy": 0.88,
+            "sadness": 0.003,
+            "anger": 0.003,
+            "surprise": 0.008,
+            "disgust": 0.001,
+            "fear": 0.001
+        }
+    },
+    {
+        "id": 35,
+        "texto": "Del nuevo desastre brotaron nuevas llamadaras de dolorido amor, un loco anhelo de redimir de una vez para siempre la santidad de su ternura.",
+        "primaria": {
+            "emocion": "Tristeza",
+            "prob": 0.957
+        },
+        "secundaria": {
+            "emocion": "Neutral",
+            "prob": 0.023
+        },
+        "todas_las_probabilidades": {
+            "others": 0.023,
+            "joy": 0.006,
+            "sadness": 0.957,
+            "anger": 0.002,
+            "surprise": 0.003,
+            "disgust": 0.002,
+            "fear": 0.006
+        }
+    },
+    {
+        "id": 36,
+        "texto": "Sobrevinieron mellizos, y punto por punto repitióse el proceso de los dos mayores.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.959
+        },
+        "secundaria": {
+            "emocion": "Sorpresa",
+            "prob": 0.025
+        },
+        "todas_las_probabilidades": {
+            "others": 0.959,
+            "joy": 0.004,
+            "sadness": 0.004,
+            "anger": 0.001,
+            "surprise": 0.025,
+            "disgust": 0.001,
+            "fear": 0.007
+        }
+    },
+    {
+        "id": 37,
+        "texto": "Mas, por encima de su inmensa amargura, quedaba a Mazzini y Berta gran compasión por sus cuatro hijos.",
+        "primaria": {
+            "emocion": "Tristeza",
+            "prob": 0.972
+        },
+        "secundaria": {
+            "emocion": "Neutral",
+            "prob": 0.019
+        },
+        "todas_las_probabilidades": {
+            "others": 0.019,
+            "joy": 0.004,
+            "sadness": 0.972,
+            "anger": 0.002,
+            "surprise": 0.0,
+            "disgust": 0.001,
+            "fear": 0.001
+        }
+    },
+    {
+        "id": 38,
+        "texto": "Hubo que arrancar del limbo de la más honda animalidad, no ya sus almas, sino el instinto mismo abolido.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.904
+        },
+        "secundaria": {
+            "emocion": "Tristeza",
+            "prob": 0.071
+        },
+        "todas_las_probabilidades": {
+            "others": 0.904,
+            "joy": 0.005,
+            "sadness": 0.071,
+            "anger": 0.007,
+            "surprise": 0.009,
+            "disgust": 0.002,
+            "fear": 0.003
+        }
+    },
+    {
+        "id": 39,
+        "texto": "No sabían deglutir, cambiar de sitio, ni aún sentarse.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.973
+        },
+        "secundaria": {
+            "emocion": "Enojo",
+            "prob": 0.011
+        },
+        "todas_las_probabilidades": {
+            "others": 0.973,
+            "joy": 0.003,
+            "sadness": 0.006,
+            "anger": 0.011,
+            "surprise": 0.004,
+            "disgust": 0.002,
+            "fear": 0.001
+        }
+    },
+    {
+        "id": 40,
+        "texto": "Aprendieron al fin a caminar, pero chocaban contra todo, por no darse cuenta de los obstáculos.",
+        "primaria": {
+            "emocion": "Tristeza",
+            "prob": 0.413
+        },
+        "secundaria": {
+            "emocion": "Neutral",
+            "prob": 0.238
+        },
+        "todas_las_probabilidades": {
+            "others": 0.238,
+            "joy": 0.145,
+            "sadness": 0.413,
+            "anger": 0.152,
+            "surprise": 0.008,
+            "disgust": 0.036,
+            "fear": 0.009
+        }
+    },
+    {
+        "id": 41,
+        "texto": "Cuando los lavaban mugían hasta inyectarse de sangre el rostro.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.924
+        },
+        "secundaria": {
+            "emocion": "Enojo",
+            "prob": 0.037
+        },
+        "todas_las_probabilidades": {
+            "others": 0.924,
+            "joy": 0.002,
+            "sadness": 0.01,
+            "anger": 0.037,
+            "surprise": 0.011,
+            "disgust": 0.01,
+            "fear": 0.006
+        }
+    },
+    {
+        "id": 42,
+        "texto": "Animábanse sólo al comer, cuando veían colores brillantes u oían truenos.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.97
+        },
+        "secundaria": {
+            "emocion": "Alegría",
+            "prob": 0.023
+        },
+        "todas_las_probabilidades": {
+            "others": 0.97,
+            "joy": 0.023,
+            "sadness": 0.004,
+            "anger": 0.001,
+            "surprise": 0.001,
+            "disgust": 0.0,
+            "fear": 0.0
+        }
+    },
+    {
+        "id": 43,
+        "texto": "Se reían entonces, echando afuera lengua y ríos de baba, radiantes de frenesí bestial.",
+        "primaria": {
+            "emocion": "Enojo",
+            "prob": 0.597
+        },
+        "secundaria": {
+            "emocion": "Neutral",
+            "prob": 0.199
+        },
+        "todas_las_probabilidades": {
+            "others": 0.199,
+            "joy": 0.006,
+            "sadness": 0.016,
+            "anger": 0.597,
+            "surprise": 0.007,
+            "disgust": 0.171,
+            "fear": 0.003
+        }
+    },
+    {
+        "id": 44,
+        "texto": "Tenían, en cambio, cierta facultad imitativa; pero no se pudo obtener nada más.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.978
+        },
+        "secundaria": {
+            "emocion": "Tristeza",
+            "prob": 0.018
+        },
+        "todas_las_probabilidades": {
+            "others": 0.978,
+            "joy": 0.002,
+            "sadness": 0.018,
+            "anger": 0.001,
+            "surprise": 0.001,
+            "disgust": 0.001,
+            "fear": 0.0
+        }
+    },
+    {
+        "id": 45,
+        "texto": "Con los mellizos pareció haber concluído la aterradora descendencia.",
+        "primaria": {
+            "emocion": "Tristeza",
+            "prob": 0.669
+        },
+        "secundaria": {
+            "emocion": "Neutral",
+            "prob": 0.175
+        },
+        "todas_las_probabilidades": {
+            "others": 0.175,
+            "joy": 0.005,
+            "sadness": 0.669,
+            "anger": 0.002,
+            "surprise": 0.048,
+            "disgust": 0.005,
+            "fear": 0.096
+        }
+    },
+    {
+        "id": 46,
+        "texto": "Pero pasados tres años desearon de nuevo ardientemente otro hijo, confiando en que el largo tiempo transcurrido hubiera aplacado a la fatalidad.",
+        "primaria": {
+            "emocion": "Tristeza",
+            "prob": 0.902
+        },
+        "secundaria": {
+            "emocion": "Neutral",
+            "prob": 0.085
+        },
+        "todas_las_probabilidades": {
+            "others": 0.085,
+            "joy": 0.003,
+            "sadness": 0.902,
+            "anger": 0.002,
+            "surprise": 0.003,
+            "disgust": 0.001,
+            "fear": 0.005
+        }
+    },
+    {
+        "id": 47,
+        "texto": "No satisfacían sus esperanzas.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.522
+        },
+        "secundaria": {
+            "emocion": "Tristeza",
+            "prob": 0.419
+        },
+        "todas_las_probabilidades": {
+            "others": 0.522,
+            "joy": 0.025,
+            "sadness": 0.419,
+            "anger": 0.012,
+            "surprise": 0.007,
+            "disgust": 0.008,
+            "fear": 0.007
+        }
+    },
+    {
+        "id": 48,
+        "texto": "Y en ese ardiente anhelo que se exasperaba, en razón de su infructuosidad, se agriaron.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.806
+        },
+        "secundaria": {
+            "emocion": "Tristeza",
+            "prob": 0.092
+        },
+        "todas_las_probabilidades": {
+            "others": 0.806,
+            "joy": 0.03,
+            "sadness": 0.092,
+            "anger": 0.002,
+            "surprise": 0.038,
+            "disgust": 0.002,
+            "fear": 0.03
+        }
+    },
+    {
+        "id": 49,
+        "texto": "Hasta ese momento cada cual había tomado sobre sí la parte que le correspondía en la miseria de sus hijos; pero la desesperanza de redención ante las cuatro bestias que habían nacido de ellos, echó afuera esa imperiosa necesidad de culpar a los otros, que es patrimonio específico de los corazones inferiores.",
+        "primaria": {
+            "emocion": "Tristeza",
+            "prob": 0.873
+        },
+        "secundaria": {
+            "emocion": "Enojo",
+            "prob": 0.108
+        },
+        "todas_las_probabilidades": {
+            "others": 0.004,
+            "joy": 0.001,
+            "sadness": 0.873,
+            "anger": 0.108,
+            "surprise": 0.0,
+            "disgust": 0.012,
+            "fear": 0.002
+        }
+    },
+    {
+        "id": 50,
+        "texto": "Iniciáronse con el cambio de pronombres: _tus_ hijos.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.992
+        },
+        "secundaria": {
+            "emocion": "Sorpresa",
+            "prob": 0.002
+        },
+        "todas_las_probabilidades": {
+            "others": 0.992,
+            "joy": 0.001,
+            "sadness": 0.001,
+            "anger": 0.001,
+            "surprise": 0.002,
+            "disgust": 0.0,
+            "fear": 0.001
+        }
+    },
+    {
+        "id": 51,
+        "texto": "Y como a más del insulto había le insidia, la atmósfera se cargaba.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.995
+        },
+        "secundaria": {
+            "emocion": "Sorpresa",
+            "prob": 0.003
+        },
+        "todas_las_probabilidades": {
+            "others": 0.995,
+            "joy": 0.001,
+            "sadness": 0.001,
+            "anger": 0.0,
+            "surprise": 0.003,
+            "disgust": 0.0,
+            "fear": 0.001
+        }
+    },
+    {
+        "id": 52,
+        "texto": "—Me parece—díjole una noche Mazzini, que acababa de entrar y se lavaba las manos—que podrías tener más limpios a los muchachos.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.874
+        },
+        "secundaria": {
+            "emocion": "Sorpresa",
+            "prob": 0.038
+        },
+        "todas_las_probabilidades": {
+            "others": 0.874,
+            "joy": 0.003,
+            "sadness": 0.016,
+            "anger": 0.033,
+            "surprise": 0.038,
+            "disgust": 0.021,
+            "fear": 0.015
+        }
+    },
+    {
+        "id": 53,
+        "texto": "Berta continuó leyendo, como si no hubiera oído.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.996
+        },
+        "secundaria": {
+            "emocion": "Tristeza",
+            "prob": 0.002
+        },
+        "todas_las_probabilidades": {
+            "others": 0.996,
+            "joy": 0.001,
+            "sadness": 0.002,
+            "anger": 0.0,
+            "surprise": 0.001,
+            "disgust": 0.0,
+            "fear": 0.0
+        }
+    },
+    {
+        "id": 54,
+        "texto": "—Es la primera vez—repuso al rato—que te veo inquietarte por el estado de tus hijos.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.966
+        },
+        "secundaria": {
+            "emocion": "Sorpresa",
+            "prob": 0.016
+        },
+        "todas_las_probabilidades": {
+            "others": 0.966,
+            "joy": 0.008,
+            "sadness": 0.004,
+            "anger": 0.003,
+            "surprise": 0.016,
+            "disgust": 0.001,
+            "fear": 0.002
+        }
+    },
+    {
+        "id": 55,
+        "texto": "Mazzini volvió un poco la cara a ella con una sonrisa forzada:",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.918
+        },
+        "secundaria": {
+            "emocion": "Tristeza",
+            "prob": 0.045
+        },
+        "todas_las_probabilidades": {
+            "others": 0.918,
+            "joy": 0.006,
+            "sadness": 0.045,
+            "anger": 0.018,
+            "surprise": 0.003,
+            "disgust": 0.007,
+            "fear": 0.003
+        }
+    },
+    {
+        "id": 56,
+        "texto": "—De nuestros hijos, ¿me parece?",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.986
+        },
+        "secundaria": {
+            "emocion": "Alegría",
+            "prob": 0.004
+        },
+        "todas_las_probabilidades": {
+            "others": 0.986,
+            "joy": 0.004,
+            "sadness": 0.002,
+            "anger": 0.001,
+            "surprise": 0.004,
+            "disgust": 0.001,
+            "fear": 0.001
+        }
+    },
+    {
+        "id": 57,
+        "texto": "—Bueno; de nuestros hijos. ¿Te gusta así?—alzó ella los ojos.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.904
+        },
+        "secundaria": {
+            "emocion": "Alegría",
+            "prob": 0.065
+        },
+        "todas_las_probabilidades": {
+            "others": 0.904,
+            "joy": 0.065,
+            "sadness": 0.013,
+            "anger": 0.005,
+            "surprise": 0.007,
+            "disgust": 0.003,
+            "fear": 0.003
+        }
+    },
+    {
+        "id": 58,
+        "texto": "Esta vez Mazzini se expresó claramente:",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.994
+        },
+        "secundaria": {
+            "emocion": "Tristeza",
+            "prob": 0.002
+        },
+        "todas_las_probabilidades": {
+            "others": 0.994,
+            "joy": 0.001,
+            "sadness": 0.002,
+            "anger": 0.001,
+            "surprise": 0.001,
+            "disgust": 0.001,
+            "fear": 0.001
+        }
+    },
+    {
+        "id": 59,
+        "texto": "—¿Creo que no vas a decir que yo tenga la culpa, no?",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.969
+        },
+        "secundaria": {
+            "emocion": "Enojo",
+            "prob": 0.008
+        },
+        "todas_las_probabilidades": {
+            "others": 0.969,
+            "joy": 0.007,
+            "sadness": 0.006,
+            "anger": 0.008,
+            "surprise": 0.006,
+            "disgust": 0.001,
+            "fear": 0.002
+        }
+    },
+    {
+        "id": 60,
+        "texto": "—¡Ah, no!—se sonrió Berta, muy pálida—¡pero yo tampoco, supongo!... ¡No faltaba más!...—murmuró.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.376
+        },
+        "secundaria": {
+            "emocion": "Alegría",
+            "prob": 0.349
+        },
+        "todas_las_probabilidades": {
+            "others": 0.376,
+            "joy": 0.349,
+            "sadness": 0.088,
+            "anger": 0.065,
+            "surprise": 0.09,
+            "disgust": 0.015,
+            "fear": 0.016
+        }
+    },
+    {
+        "id": 61,
+        "texto": "—¿Qué no faltaba más?",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.983
+        },
+        "secundaria": {
+            "emocion": "Sorpresa",
+            "prob": 0.01
+        },
+        "todas_las_probabilidades": {
+            "others": 0.983,
+            "joy": 0.002,
+            "sadness": 0.001,
+            "anger": 0.002,
+            "surprise": 0.01,
+            "disgust": 0.001,
+            "fear": 0.001
+        }
+    },
+    {
+        "id": 62,
+        "texto": "—¡Que si alguien tiene la culpa, no soy yo, entiéndelo bien! Eso es lo que te quería decir.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.748
+        },
+        "secundaria": {
+            "emocion": "Enojo",
+            "prob": 0.186
+        },
+        "todas_las_probabilidades": {
+            "others": 0.748,
+            "joy": 0.014,
+            "sadness": 0.029,
+            "anger": 0.186,
+            "surprise": 0.004,
+            "disgust": 0.014,
+            "fear": 0.006
+        }
+    },
+    {
+        "id": 63,
+        "texto": "Su marido la miró un momento, con brutal deseo de insultarla.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.968
+        },
+        "secundaria": {
+            "emocion": "Sorpresa",
+            "prob": 0.011
+        },
+        "todas_las_probabilidades": {
+            "others": 0.968,
+            "joy": 0.002,
+            "sadness": 0.007,
+            "anger": 0.004,
+            "surprise": 0.011,
+            "disgust": 0.003,
+            "fear": 0.005
+        }
+    },
+    {
+        "id": 64,
+        "texto": "—¡Dejemos!—articuló, secándose por fin las manos.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.804
+        },
+        "secundaria": {
+            "emocion": "Sorpresa",
+            "prob": 0.069
+        },
+        "todas_las_probabilidades": {
+            "others": 0.804,
+            "joy": 0.028,
+            "sadness": 0.029,
+            "anger": 0.049,
+            "surprise": 0.069,
+            "disgust": 0.011,
+            "fear": 0.01
+        }
+    },
+    {
+        "id": 65,
+        "texto": "—Como quieras; pero si quieres decir...",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.989
+        },
+        "secundaria": {
+            "emocion": "Alegría",
+            "prob": 0.005
+        },
+        "todas_las_probabilidades": {
+            "others": 0.989,
+            "joy": 0.005,
+            "sadness": 0.002,
+            "anger": 0.002,
+            "surprise": 0.001,
+            "disgust": 0.0,
+            "fear": 0.001
+        }
+    },
+    {
+        "id": 66,
+        "texto": "—¡Berta!",
+        "primaria": {
+            "emocion": "Alegría",
+            "prob": 0.783
+        },
+        "secundaria": {
+            "emocion": "Neutral",
+            "prob": 0.091
+        },
+        "todas_las_probabilidades": {
+            "others": 0.091,
+            "joy": 0.783,
+            "sadness": 0.007,
+            "anger": 0.019,
+            "surprise": 0.082,
+            "disgust": 0.01,
+            "fear": 0.008
+        }
+    },
+    {
+        "id": 67,
+        "texto": "—¡Como quieras!",
+        "primaria": {
+            "emocion": "Alegría",
+            "prob": 0.861
+        },
+        "secundaria": {
+            "emocion": "Neutral",
+            "prob": 0.115
+        },
+        "todas_las_probabilidades": {
+            "others": 0.115,
+            "joy": 0.861,
+            "sadness": 0.002,
+            "anger": 0.003,
+            "surprise": 0.014,
+            "disgust": 0.002,
+            "fear": 0.002
+        }
+    },
+    {
+        "id": 68,
+        "texto": "Este fué el primer choque y le sucedieron otros.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.954
+        },
+        "secundaria": {
+            "emocion": "Miedo",
+            "prob": 0.017
+        },
+        "todas_las_probabilidades": {
+            "others": 0.954,
+            "joy": 0.003,
+            "sadness": 0.008,
+            "anger": 0.001,
+            "surprise": 0.016,
+            "disgust": 0.002,
+            "fear": 0.017
+        }
+    },
+    {
+        "id": 69,
+        "texto": "Pero en las inevitables reconciliciones, sus almas se unían con doble arrebato y locura por otro hijo.",
+        "primaria": {
+            "emocion": "Tristeza",
+            "prob": 0.967
+        },
+        "secundaria": {
+            "emocion": "Neutral",
+            "prob": 0.021
+        },
+        "todas_las_probabilidades": {
+            "others": 0.021,
+            "joy": 0.003,
+            "sadness": 0.967,
+            "anger": 0.001,
+            "surprise": 0.003,
+            "disgust": 0.001,
+            "fear": 0.004
+        }
+    },
+    {
+        "id": 70,
+        "texto": "Nació así una niña.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.838
+        },
+        "secundaria": {
+            "emocion": "Alegría",
+            "prob": 0.134
+        },
+        "todas_las_probabilidades": {
+            "others": 0.838,
+            "joy": 0.134,
+            "sadness": 0.007,
+            "anger": 0.001,
+            "surprise": 0.016,
+            "disgust": 0.002,
+            "fear": 0.002
+        }
+    },
+    {
+        "id": 71,
+        "texto": "Vivieron dos años con la angustia a flor de alma, esperando siempre otro desastre.",
+        "primaria": {
+            "emocion": "Tristeza",
+            "prob": 0.992
+        },
+        "secundaria": {
+            "emocion": "Enojo",
+            "prob": 0.003
+        },
+        "todas_las_probabilidades": {
+            "others": 0.001,
+            "joy": 0.0,
+            "sadness": 0.992,
+            "anger": 0.003,
+            "surprise": 0.0,
+            "disgust": 0.002,
+            "fear": 0.001
+        }
+    },
+    {
+        "id": 72,
+        "texto": "Nada acaeció, sin embargo, y los padres pusieron en ella toda su complacencia, que la pequeña llevaba a los más extremos límites del mimo y la mala crianza.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.907
+        },
+        "secundaria": {
+            "emocion": "Tristeza",
+            "prob": 0.072
+        },
+        "todas_las_probabilidades": {
+            "others": 0.907,
+            "joy": 0.002,
+            "sadness": 0.072,
+            "anger": 0.014,
+            "surprise": 0.002,
+            "disgust": 0.002,
+            "fear": 0.001
+        }
+    },
+    {
+        "id": 73,
+        "texto": "Si aún en los últimos tiempos Berta cuidaba siempre de sus hijos, al nacer Bertita olvidóse casi del todo de los otros.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.625
+        },
+        "secundaria": {
+            "emocion": "Tristeza",
+            "prob": 0.351
+        },
+        "todas_las_probabilidades": {
+            "others": 0.625,
+            "joy": 0.019,
+            "sadness": 0.351,
+            "anger": 0.002,
+            "surprise": 0.001,
+            "disgust": 0.002,
+            "fear": 0.001
+        }
+    },
+    {
+        "id": 74,
+        "texto": "Su solo recuerdo la horrorizaba, como algo atroz que la hubieran obligado a cometer.",
+        "primaria": {
+            "emocion": "Tristeza",
+            "prob": 0.903
+        },
+        "secundaria": {
+            "emocion": "Miedo",
+            "prob": 0.06
+        },
+        "todas_las_probabilidades": {
+            "others": 0.005,
+            "joy": 0.0,
+            "sadness": 0.903,
+            "anger": 0.01,
+            "surprise": 0.003,
+            "disgust": 0.019,
+            "fear": 0.06
+        }
+    },
+    {
+        "id": 75,
+        "texto": "A Mazzini, bien que en menor grado, pasábale lo mismo.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.961
+        },
+        "secundaria": {
+            "emocion": "Tristeza",
+            "prob": 0.014
+        },
+        "todas_las_probabilidades": {
+            "others": 0.961,
+            "joy": 0.001,
+            "sadness": 0.014,
+            "anger": 0.014,
+            "surprise": 0.002,
+            "disgust": 0.006,
+            "fear": 0.002
+        }
+    },
+    {
+        "id": 76,
+        "texto": "No por eso la paz había llegado a sus almas.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.973
+        },
+        "secundaria": {
+            "emocion": "Tristeza",
+            "prob": 0.02
+        },
+        "todas_las_probabilidades": {
+            "others": 0.973,
+            "joy": 0.004,
+            "sadness": 0.02,
+            "anger": 0.001,
+            "surprise": 0.001,
+            "disgust": 0.0,
+            "fear": 0.001
+        }
+    },
+    {
+        "id": 77,
+        "texto": "La menor indisposición de su hija echaba ahora afuera, con el terror de perderla, los rencores de su descendencia podrida.",
+        "primaria": {
+            "emocion": "Tristeza",
+            "prob": 0.808
+        },
+        "secundaria": {
+            "emocion": "Miedo",
+            "prob": 0.095
+        },
+        "todas_las_probabilidades": {
+            "others": 0.012,
+            "joy": 0.002,
+            "sadness": 0.808,
+            "anger": 0.046,
+            "surprise": 0.003,
+            "disgust": 0.035,
+            "fear": 0.095
+        }
+    },
+    {
+        "id": 78,
+        "texto": "Habían acumulado hiel sobrado tiempo para que el vaso no quedara distentido, y al menor contacto el veneno se vertía afuera.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.966
+        },
+        "secundaria": {
+            "emocion": "Tristeza",
+            "prob": 0.011
+        },
+        "todas_las_probabilidades": {
+            "others": 0.966,
+            "joy": 0.002,
+            "sadness": 0.011,
+            "anger": 0.005,
+            "surprise": 0.007,
+            "disgust": 0.002,
+            "fear": 0.006
+        }
+    },
+    {
+        "id": 79,
+        "texto": "Desde el primer disgusto emponzoñado habíanse perdido el respeto; y si hay algo a que el hombre se siente arrastrado con cruel fricción, es, cuando ya se comenzó, a humillar del todo a una persona.",
+        "primaria": {
+            "emocion": "Enojo",
+            "prob": 0.879
+        },
+        "secundaria": {
+            "emocion": "Disgusto",
+            "prob": 0.082
+        },
+        "todas_las_probabilidades": {
+            "others": 0.009,
+            "joy": 0.001,
+            "sadness": 0.028,
+            "anger": 0.879,
+            "surprise": 0.001,
+            "disgust": 0.082,
+            "fear": 0.001
+        }
+    },
+    {
+        "id": 80,
+        "texto": "Antes se contenían aún por la común falta de éxito; ahora que éste había llegado, cada cual, atribuyéndolo a sí mismo, sentía mayor la infamia de los cuatro engendros que el otro habíale forzado a crear.",
+        "primaria": {
+            "emocion": "Enojo",
+            "prob": 0.47
+        },
+        "secundaria": {
+            "emocion": "Neutral",
+            "prob": 0.264
+        },
+        "todas_las_probabilidades": {
+            "others": 0.264,
+            "joy": 0.002,
+            "sadness": 0.145,
+            "anger": 0.47,
+            "surprise": 0.003,
+            "disgust": 0.11,
+            "fear": 0.005
+        }
+    },
+    {
+        "id": 81,
+        "texto": "Con estos sentimientos, no hubo ya para los cuatro hijos mayores afecto posible.",
+        "primaria": {
+            "emocion": "Tristeza",
+            "prob": 0.992
+        },
+        "secundaria": {
+            "emocion": "Neutral",
+            "prob": 0.006
+        },
+        "todas_las_probabilidades": {
+            "others": 0.006,
+            "joy": 0.001,
+            "sadness": 0.992,
+            "anger": 0.001,
+            "surprise": 0.0,
+            "disgust": 0.001,
+            "fear": 0.0
+        }
+    },
+    {
+        "id": 82,
+        "texto": "La sirvienta los vestía, les daba de comer, los acostaba, con visible brutalidad.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.749
+        },
+        "secundaria": {
+            "emocion": "Sorpresa",
+            "prob": 0.094
+        },
+        "todas_las_probabilidades": {
+            "others": 0.749,
+            "joy": 0.003,
+            "sadness": 0.008,
+            "anger": 0.062,
+            "surprise": 0.094,
+            "disgust": 0.028,
+            "fear": 0.056
+        }
+    },
+    {
+        "id": 83,
+        "texto": "No los lavaban casi nunca.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.912
+        },
+        "secundaria": {
+            "emocion": "Enojo",
+            "prob": 0.026
+        },
+        "todas_las_probabilidades": {
+            "others": 0.912,
+            "joy": 0.012,
+            "sadness": 0.023,
+            "anger": 0.026,
+            "surprise": 0.013,
+            "disgust": 0.011,
+            "fear": 0.004
+        }
+    },
+    {
+        "id": 84,
+        "texto": "Pasaban casi todo el día sentados frente al cerco, abandonados de toda remota caricia.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.555
+        },
+        "secundaria": {
+            "emocion": "Tristeza",
+            "prob": 0.226
+        },
+        "todas_las_probabilidades": {
+            "others": 0.555,
+            "joy": 0.005,
+            "sadness": 0.226,
+            "anger": 0.155,
+            "surprise": 0.009,
+            "disgust": 0.042,
+            "fear": 0.008
+        }
+    },
+    {
+        "id": 85,
+        "texto": "De este modo Bertita cumplió cuatro años, y esa noche, resultado de las golosinas que era a los padres absolutamente imposible negarle, la criatura tuvo algún escalofrío y fiebre.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.553
+        },
+        "secundaria": {
+            "emocion": "Tristeza",
+            "prob": 0.375
+        },
+        "todas_las_probabilidades": {
+            "others": 0.553,
+            "joy": 0.011,
+            "sadness": 0.375,
+            "anger": 0.003,
+            "surprise": 0.015,
+            "disgust": 0.006,
+            "fear": 0.036
+        }
+    },
+    {
+        "id": 86,
+        "texto": "Y el temor a verla morir o quedar idiota, tornó a reabrir la eterna llaga.",
+        "primaria": {
+            "emocion": "Tristeza",
+            "prob": 0.548
+        },
+        "secundaria": {
+            "emocion": "Miedo",
+            "prob": 0.343
+        },
+        "todas_las_probabilidades": {
+            "others": 0.049,
+            "joy": 0.005,
+            "sadness": 0.548,
+            "anger": 0.014,
+            "surprise": 0.011,
+            "disgust": 0.032,
+            "fear": 0.343
+        }
+    },
+    {
+        "id": 87,
+        "texto": "Hacía tres horas que no hablaban, y el motivo fué, como casi siempre, los fuertes pasos de Mazzini.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.98
+        },
+        "secundaria": {
+            "emocion": "Sorpresa",
+            "prob": 0.01
+        },
+        "todas_las_probabilidades": {
+            "others": 0.98,
+            "joy": 0.006,
+            "sadness": 0.002,
+            "anger": 0.001,
+            "surprise": 0.01,
+            "disgust": 0.0,
+            "fear": 0.002
+        }
+    },
+    {
+        "id": 88,
+        "texto": "—¡Mi Dios! ¿No puedes caminar más despacio? ¿Cuántas veces?...",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.7
+        },
+        "secundaria": {
+            "emocion": "Sorpresa",
+            "prob": 0.239
+        },
+        "todas_las_probabilidades": {
+            "others": 0.7,
+            "joy": 0.024,
+            "sadness": 0.004,
+            "anger": 0.018,
+            "surprise": 0.239,
+            "disgust": 0.003,
+            "fear": 0.013
+        }
+    },
+    {
+        "id": 89,
+        "texto": "—Bueno, es que me olvido; ¡se acabó! No lo hago a propósito.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.97
+        },
+        "secundaria": {
+            "emocion": "Alegría",
+            "prob": 0.014
+        },
+        "todas_las_probabilidades": {
+            "others": 0.97,
+            "joy": 0.014,
+            "sadness": 0.007,
+            "anger": 0.005,
+            "surprise": 0.003,
+            "disgust": 0.001,
+            "fear": 0.0
+        }
+    },
+    {
+        "id": 90,
+        "texto": "Ella se sonrió, desdeñosa:",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.759
+        },
+        "secundaria": {
+            "emocion": "Enojo",
+            "prob": 0.129
+        },
+        "todas_las_probabilidades": {
+            "others": 0.759,
+            "joy": 0.024,
+            "sadness": 0.047,
+            "anger": 0.129,
+            "surprise": 0.011,
+            "disgust": 0.023,
+            "fear": 0.006
+        }
+    },
+    {
+        "id": 91,
+        "texto": "—¡No, no te creo tanto!",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.505
+        },
+        "secundaria": {
+            "emocion": "Sorpresa",
+            "prob": 0.223
+        },
+        "todas_las_probabilidades": {
+            "others": 0.505,
+            "joy": 0.013,
+            "sadness": 0.023,
+            "anger": 0.174,
+            "surprise": 0.223,
+            "disgust": 0.033,
+            "fear": 0.028
+        }
+    },
+    {
+        "id": 92,
+        "texto": "—Ni yo, jamás, te hubiera creído tanto a ti...¡tisiquilla!",
+        "primaria": {
+            "emocion": "Enojo",
+            "prob": 0.525
+        },
+        "secundaria": {
+            "emocion": "Neutral",
+            "prob": 0.262
+        },
+        "todas_las_probabilidades": {
+            "others": 0.262,
+            "joy": 0.017,
+            "sadness": 0.031,
+            "anger": 0.525,
+            "surprise": 0.056,
+            "disgust": 0.1,
+            "fear": 0.01
+        }
+    },
+    {
+        "id": 93,
+        "texto": "—¡Qué! ¿qué dijiste?...",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.633
+        },
+        "secundaria": {
+            "emocion": "Sorpresa",
+            "prob": 0.304
+        },
+        "todas_las_probabilidades": {
+            "others": 0.633,
+            "joy": 0.041,
+            "sadness": 0.004,
+            "anger": 0.008,
+            "surprise": 0.304,
+            "disgust": 0.003,
+            "fear": 0.006
+        }
+    },
+    {
+        "id": 94,
+        "texto": "—¡Nada!",
+        "primaria": {
+            "emocion": "Alegría",
+            "prob": 0.911
+        },
+        "secundaria": {
+            "emocion": "Neutral",
+            "prob": 0.059
+        },
+        "todas_las_probabilidades": {
+            "others": 0.059,
+            "joy": 0.911,
+            "sadness": 0.004,
+            "anger": 0.004,
+            "surprise": 0.019,
+            "disgust": 0.002,
+            "fear": 0.002
+        }
+    },
+    {
+        "id": 95,
+        "texto": "—¡Si, te oí algo! Mira: ¡no sé lo que dijiste; pero te juro que prefiero cualquier cosa a tener un padre como el que has tenido tú!",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.874
+        },
+        "secundaria": {
+            "emocion": "Enojo",
+            "prob": 0.049
+        },
+        "todas_las_probabilidades": {
+            "others": 0.874,
+            "joy": 0.035,
+            "sadness": 0.011,
+            "anger": 0.049,
+            "surprise": 0.018,
+            "disgust": 0.01,
+            "fear": 0.003
+        }
+    },
+    {
+        "id": 96,
+        "texto": "Mazzini se puso pálido.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.847
+        },
+        "secundaria": {
+            "emocion": "Sorpresa",
+            "prob": 0.104
+        },
+        "todas_las_probabilidades": {
+            "others": 0.847,
+            "joy": 0.008,
+            "sadness": 0.004,
+            "anger": 0.002,
+            "surprise": 0.104,
+            "disgust": 0.004,
+            "fear": 0.03
+        }
+    },
+    {
+        "id": 97,
+        "texto": "—¡Al fin!—murmuró con los dientes apretados.—¡Al fin, víbora, has dicho lo que querías!",
+        "primaria": {
+            "emocion": "Alegría",
+            "prob": 0.86
+        },
+        "secundaria": {
+            "emocion": "Sorpresa",
+            "prob": 0.073
+        },
+        "todas_las_probabilidades": {
+            "others": 0.049,
+            "joy": 0.86,
+            "sadness": 0.001,
+            "anger": 0.01,
+            "surprise": 0.073,
+            "disgust": 0.004,
+            "fear": 0.003
+        }
+    },
+    {
+        "id": 98,
+        "texto": "—¡Sí, víbora, sí! ¡Pero yo he tenido padres sanos, ¿oyes?, ¡sanos! ¡Mi padre no ha muerto de delirio! ¡Yo hubiera tenido hijos como los de todo el mundo! ¡Esos son hijos tuyos, los cuatro tuyos!",
+        "primaria": {
+            "emocion": "Alegría",
+            "prob": 0.902
+        },
+        "secundaria": {
+            "emocion": "Neutral",
+            "prob": 0.057
+        },
+        "todas_las_probabilidades": {
+            "others": 0.057,
+            "joy": 0.902,
+            "sadness": 0.003,
+            "anger": 0.024,
+            "surprise": 0.006,
+            "disgust": 0.006,
+            "fear": 0.001
+        }
+    },
+    {
+        "id": 99,
+        "texto": "Mazzini explotó a su vez:",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.917
+        },
+        "secundaria": {
+            "emocion": "Sorpresa",
+            "prob": 0.052
+        },
+        "todas_las_probabilidades": {
+            "others": 0.917,
+            "joy": 0.011,
+            "sadness": 0.004,
+            "anger": 0.001,
+            "surprise": 0.052,
+            "disgust": 0.002,
+            "fear": 0.013
+        }
+    },
+    {
+        "id": 100,
+        "texto": "—¡Víbora tísica! ¡eso es lo que te dije, lo que te quiero decir! ¡Pregúntale, pregúntale al médico quién tiene la mayor culpa de la meningitis de tus hijos: mi padre o tu pulmón picado, víbora!",
+        "primaria": {
+            "emocion": "Enojo",
+            "prob": 0.875
+        },
+        "secundaria": {
+            "emocion": "Neutral",
+            "prob": 0.072
+        },
+        "todas_las_probabilidades": {
+            "others": 0.072,
+            "joy": 0.005,
+            "sadness": 0.004,
+            "anger": 0.875,
+            "surprise": 0.006,
+            "disgust": 0.034,
+            "fear": 0.004
+        }
+    },
+    {
+        "id": 101,
+        "texto": "Continuaron cada vez con mayor violencia, hasta que un gemido de Bertita selló instantáneamente sus bocas.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.699
+        },
+        "secundaria": {
+            "emocion": "Enojo",
+            "prob": 0.15
+        },
+        "todas_las_probabilidades": {
+            "others": 0.699,
+            "joy": 0.012,
+            "sadness": 0.028,
+            "anger": 0.15,
+            "surprise": 0.031,
+            "disgust": 0.05,
+            "fear": 0.03
+        }
+    },
+    {
+        "id": 102,
+        "texto": "A la una de la mañana la ligera indigestión había desaparecido, y como pasa fatalmente con todos los matrimonios jóvenes que se han amado intensamente, una vez siquiera, la reconciliación llegó, tanto más efusiva cuanto hiriente fueron los agravios.",
+        "primaria": {
+            "emocion": "Tristeza",
+            "prob": 0.988
+        },
+        "secundaria": {
+            "emocion": "Neutral",
+            "prob": 0.005
+        },
+        "todas_las_probabilidades": {
+            "others": 0.005,
+            "joy": 0.0,
+            "sadness": 0.988,
+            "anger": 0.003,
+            "surprise": 0.0,
+            "disgust": 0.001,
+            "fear": 0.001
+        }
+    },
+    {
+        "id": 103,
+        "texto": "Amaneció un espléndido día, y mientras Berta se levantaba, escupió sangre.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.865
+        },
+        "secundaria": {
+            "emocion": "Tristeza",
+            "prob": 0.083
+        },
+        "todas_las_probabilidades": {
+            "others": 0.865,
+            "joy": 0.01,
+            "sadness": 0.083,
+            "anger": 0.003,
+            "surprise": 0.026,
+            "disgust": 0.002,
+            "fear": 0.012
+        }
+    },
+    {
+        "id": 104,
+        "texto": "Las emociones y mala noche pasada tenían, sin duda, su gran culpa.",
+        "primaria": {
+            "emocion": "Tristeza",
+            "prob": 0.839
+        },
+        "secundaria": {
+            "emocion": "Enojo",
+            "prob": 0.084
+        },
+        "todas_las_probabilidades": {
+            "others": 0.038,
+            "joy": 0.004,
+            "sadness": 0.839,
+            "anger": 0.084,
+            "surprise": 0.002,
+            "disgust": 0.022,
+            "fear": 0.011
+        }
+    },
+    {
+        "id": 105,
+        "texto": "Mazzini la retuvo abrazada largo rato, y ella lloró desesperadamente, pero sin que ninguno se atreviera a decir una palabra.",
+        "primaria": {
+            "emocion": "Tristeza",
+            "prob": 0.709
+        },
+        "secundaria": {
+            "emocion": "Neutral",
+            "prob": 0.262
+        },
+        "todas_las_probabilidades": {
+            "others": 0.262,
+            "joy": 0.007,
+            "sadness": 0.709,
+            "anger": 0.008,
+            "surprise": 0.005,
+            "disgust": 0.004,
+            "fear": 0.006
+        }
+    },
+    {
+        "id": 106,
+        "texto": "A las diez decidieron salir, después de almorzar.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.992
+        },
+        "secundaria": {
+            "emocion": "Sorpresa",
+            "prob": 0.003
+        },
+        "todas_las_probabilidades": {
+            "others": 0.992,
+            "joy": 0.002,
+            "sadness": 0.002,
+            "anger": 0.001,
+            "surprise": 0.003,
+            "disgust": 0.0,
+            "fear": 0.0
+        }
+    },
+    {
+        "id": 107,
+        "texto": "Como apenas tenían tiempo, ordenaron a la sirvienta que matara una gallina.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.975
+        },
+        "secundaria": {
+            "emocion": "Sorpresa",
+            "prob": 0.011
+        },
+        "todas_las_probabilidades": {
+            "others": 0.975,
+            "joy": 0.003,
+            "sadness": 0.003,
+            "anger": 0.004,
+            "surprise": 0.011,
+            "disgust": 0.001,
+            "fear": 0.003
+        }
+    },
+    {
+        "id": 108,
+        "texto": "El día radiante había arrancado a los idiotas de su banco.",
+        "primaria": {
+            "emocion": "Enojo",
+            "prob": 0.9
+        },
+        "secundaria": {
+            "emocion": "Disgusto",
+            "prob": 0.068
+        },
+        "todas_las_probabilidades": {
+            "others": 0.021,
+            "joy": 0.004,
+            "sadness": 0.004,
+            "anger": 0.9,
+            "surprise": 0.002,
+            "disgust": 0.068,
+            "fear": 0.001
+        }
+    },
+    {
+        "id": 109,
+        "texto": "De modo que mientras la sirvienta degollaba en la cocina al animal, desangrándola con parsimonia (Berta había aprendido de su madre este buen modo de conservar frescura a la carne), creyó sentir algo como respiración tras ella.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.764
+        },
+        "secundaria": {
+            "emocion": "Tristeza",
+            "prob": 0.201
+        },
+        "todas_las_probabilidades": {
+            "others": 0.764,
+            "joy": 0.016,
+            "sadness": 0.201,
+            "anger": 0.005,
+            "surprise": 0.009,
+            "disgust": 0.002,
+            "fear": 0.004
+        }
+    },
+    {
+        "id": 110,
+        "texto": "Volvióse, y vió a los cuatro idiotas, con los hombros pegados uno a otro, mirando estupefactos la operación.",
+        "primaria": {
+            "emocion": "Enojo",
+            "prob": 0.853
+        },
+        "secundaria": {
+            "emocion": "Disgusto",
+            "prob": 0.094
+        },
+        "todas_las_probabilidades": {
+            "others": 0.035,
+            "joy": 0.001,
+            "sadness": 0.008,
+            "anger": 0.853,
+            "surprise": 0.005,
+            "disgust": 0.094,
+            "fear": 0.005
+        }
+    },
+    {
+        "id": 111,
+        "texto": "Rojo...",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.767
+        },
+        "secundaria": {
+            "emocion": "Alegría",
+            "prob": 0.104
+        },
+        "todas_las_probabilidades": {
+            "others": 0.767,
+            "joy": 0.104,
+            "sadness": 0.032,
+            "anger": 0.007,
+            "surprise": 0.073,
+            "disgust": 0.004,
+            "fear": 0.012
+        }
+    },
+    {
+        "id": 112,
+        "texto": "rojo...",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.767
+        },
+        "secundaria": {
+            "emocion": "Alegría",
+            "prob": 0.104
+        },
+        "todas_las_probabilidades": {
+            "others": 0.767,
+            "joy": 0.104,
+            "sadness": 0.032,
+            "anger": 0.007,
+            "surprise": 0.073,
+            "disgust": 0.004,
+            "fear": 0.012
+        }
+    },
+    {
+        "id": 113,
+        "texto": "—¡Señora! Los niños están aquí, en la cocina.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.969
+        },
+        "secundaria": {
+            "emocion": "Alegría",
+            "prob": 0.011
+        },
+        "todas_las_probabilidades": {
+            "others": 0.969,
+            "joy": 0.011,
+            "sadness": 0.002,
+            "anger": 0.004,
+            "surprise": 0.011,
+            "disgust": 0.001,
+            "fear": 0.002
+        }
+    },
+    {
+        "id": 114,
+        "texto": "Berta llegó; no quería que jamás pisaran allí.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.977
+        },
+        "secundaria": {
+            "emocion": "Tristeza",
+            "prob": 0.015
+        },
+        "todas_las_probabilidades": {
+            "others": 0.977,
+            "joy": 0.004,
+            "sadness": 0.015,
+            "anger": 0.001,
+            "surprise": 0.002,
+            "disgust": 0.001,
+            "fear": 0.001
+        }
+    },
+    {
+        "id": 115,
+        "texto": "¡Y ni aún en esas horas de pleno perdón, olvido y felicidad reconquistada, podía evitarse esa horrible visión!",
+        "primaria": {
+            "emocion": "Tristeza",
+            "prob": 0.584
+        },
+        "secundaria": {
+            "emocion": "Enojo",
+            "prob": 0.254
+        },
+        "todas_las_probabilidades": {
+            "others": 0.106,
+            "joy": 0.004,
+            "sadness": 0.584,
+            "anger": 0.254,
+            "surprise": 0.008,
+            "disgust": 0.042,
+            "fear": 0.003
+        }
+    },
+    {
+        "id": 116,
+        "texto": "Porque, naturalmente, cuanto más intensos eran los raptos de amor a su marido e hija, más irritable era su humor con los monstruos.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.831
+        },
+        "secundaria": {
+            "emocion": "Enojo",
+            "prob": 0.094
+        },
+        "todas_las_probabilidades": {
+            "others": 0.831,
+            "joy": 0.004,
+            "sadness": 0.026,
+            "anger": 0.094,
+            "surprise": 0.007,
+            "disgust": 0.022,
+            "fear": 0.015
+        }
+    },
+    {
+        "id": 117,
+        "texto": "—¡Que salgan, María! ¡Echelos! ¡Echelos, le digo!",
+        "primaria": {
+            "emocion": "Enojo",
+            "prob": 0.485
+        },
+        "secundaria": {
+            "emocion": "Neutral",
+            "prob": 0.301
+        },
+        "todas_las_probabilidades": {
+            "others": 0.301,
+            "joy": 0.062,
+            "sadness": 0.007,
+            "anger": 0.485,
+            "surprise": 0.083,
+            "disgust": 0.043,
+            "fear": 0.019
+        }
+    },
+    {
+        "id": 118,
+        "texto": "Las cuatro pobres bestias, sacudidas, brutalmente empujadas, fueron a dar a su banco.",
+        "primaria": {
+            "emocion": "Tristeza",
+            "prob": 0.832
+        },
+        "secundaria": {
+            "emocion": "Neutral",
+            "prob": 0.071
+        },
+        "todas_las_probabilidades": {
+            "others": 0.071,
+            "joy": 0.007,
+            "sadness": 0.832,
+            "anger": 0.005,
+            "surprise": 0.031,
+            "disgust": 0.007,
+            "fear": 0.047
+        }
+    },
+    {
+        "id": 119,
+        "texto": "Después de almorzar, salieron todos.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.965
+        },
+        "secundaria": {
+            "emocion": "Alegría",
+            "prob": 0.027
+        },
+        "todas_las_probabilidades": {
+            "others": 0.965,
+            "joy": 0.027,
+            "sadness": 0.003,
+            "anger": 0.001,
+            "surprise": 0.003,
+            "disgust": 0.001,
+            "fear": 0.001
+        }
+    },
+    {
+        "id": 120,
+        "texto": "La sirvienta fué a Buenos Aires, y el matrimonio a pasear por las quintas.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.965
+        },
+        "secundaria": {
+            "emocion": "Alegría",
+            "prob": 0.02
+        },
+        "todas_las_probabilidades": {
+            "others": 0.965,
+            "joy": 0.02,
+            "sadness": 0.008,
+            "anger": 0.0,
+            "surprise": 0.005,
+            "disgust": 0.001,
+            "fear": 0.001
+        }
+    },
+    {
+        "id": 121,
+        "texto": "Al bajar el sol volvieron, pero Berta quiso saludar un momento a sus vecinas de enfrente.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.981
+        },
+        "secundaria": {
+            "emocion": "Alegría",
+            "prob": 0.013
+        },
+        "todas_las_probabilidades": {
+            "others": 0.981,
+            "joy": 0.013,
+            "sadness": 0.004,
+            "anger": 0.001,
+            "surprise": 0.001,
+            "disgust": 0.0,
+            "fear": 0.0
+        }
+    },
+    {
+        "id": 122,
+        "texto": "Su hija escapóse en seguida a casa.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.929
+        },
+        "secundaria": {
+            "emocion": "Alegría",
+            "prob": 0.026
+        },
+        "todas_las_probabilidades": {
+            "others": 0.929,
+            "joy": 0.026,
+            "sadness": 0.007,
+            "anger": 0.001,
+            "surprise": 0.023,
+            "disgust": 0.003,
+            "fear": 0.011
+        }
+    },
+    {
+        "id": 123,
+        "texto": "Entretanto los idiotas no se habían movido en todo el día de su banco.",
+        "primaria": {
+            "emocion": "Enojo",
+            "prob": 0.844
+        },
+        "secundaria": {
+            "emocion": "Disgusto",
+            "prob": 0.087
+        },
+        "todas_las_probabilidades": {
+            "others": 0.042,
+            "joy": 0.003,
+            "sadness": 0.008,
+            "anger": 0.844,
+            "surprise": 0.011,
+            "disgust": 0.087,
+            "fear": 0.005
+        }
+    },
+    {
+        "id": 124,
+        "texto": "El sol había transpuesto ya el cerco, comenzaba a hundirse, y ellos continuaban mirando los ladrillos, más inertes que nunca.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.902
+        },
+        "secundaria": {
+            "emocion": "Miedo",
+            "prob": 0.035
+        },
+        "todas_las_probabilidades": {
+            "others": 0.902,
+            "joy": 0.006,
+            "sadness": 0.026,
+            "anger": 0.005,
+            "surprise": 0.024,
+            "disgust": 0.003,
+            "fear": 0.035
+        }
+    },
+    {
+        "id": 125,
+        "texto": "De pronto, algo se interpuso entre su mirada y el cerco.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.656
+        },
+        "secundaria": {
+            "emocion": "Miedo",
+            "prob": 0.156
+        },
+        "todas_las_probabilidades": {
+            "others": 0.656,
+            "joy": 0.005,
+            "sadness": 0.023,
+            "anger": 0.002,
+            "surprise": 0.154,
+            "disgust": 0.003,
+            "fear": 0.156
+        }
+    },
+    {
+        "id": 126,
+        "texto": "Su hermana, cansada de cinco horas paternales, quería observar por su cuenta.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.991
+        },
+        "secundaria": {
+            "emocion": "Tristeza",
+            "prob": 0.004
+        },
+        "todas_las_probabilidades": {
+            "others": 0.991,
+            "joy": 0.001,
+            "sadness": 0.004,
+            "anger": 0.001,
+            "surprise": 0.001,
+            "disgust": 0.0,
+            "fear": 0.001
+        }
+    },
+    {
+        "id": 127,
+        "texto": "Detenida al pie del cerco, miraba pensativa la cresta.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.711
+        },
+        "secundaria": {
+            "emocion": "Sorpresa",
+            "prob": 0.162
+        },
+        "todas_las_probabilidades": {
+            "others": 0.711,
+            "joy": 0.005,
+            "sadness": 0.017,
+            "anger": 0.019,
+            "surprise": 0.162,
+            "disgust": 0.014,
+            "fear": 0.071
+        }
+    },
+    {
+        "id": 128,
+        "texto": "Quería trepar, eso no ofrecía duda.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.922
+        },
+        "secundaria": {
+            "emocion": "Alegría",
+            "prob": 0.044
+        },
+        "todas_las_probabilidades": {
+            "others": 0.922,
+            "joy": 0.044,
+            "sadness": 0.003,
+            "anger": 0.001,
+            "surprise": 0.025,
+            "disgust": 0.001,
+            "fear": 0.004
+        }
+    },
+    {
+        "id": 129,
+        "texto": "Al fin decidióse por una silla desfondada, pero faltaba aún.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.967
+        },
+        "secundaria": {
+            "emocion": "Alegría",
+            "prob": 0.015
+        },
+        "todas_las_probabilidades": {
+            "others": 0.967,
+            "joy": 0.015,
+            "sadness": 0.004,
+            "anger": 0.001,
+            "surprise": 0.012,
+            "disgust": 0.001,
+            "fear": 0.001
+        }
+    },
+    {
+        "id": 130,
+        "texto": "Recurrió entonces a un cajón de kerosene, y su instinto topográfico hízole colocar vertical el mueble, con lo cual triunfó.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.991
+        },
+        "secundaria": {
+            "emocion": "Alegría",
+            "prob": 0.005
+        },
+        "todas_las_probabilidades": {
+            "others": 0.991,
+            "joy": 0.005,
+            "sadness": 0.001,
+            "anger": 0.0,
+            "surprise": 0.002,
+            "disgust": 0.0,
+            "fear": 0.0
+        }
+    },
+    {
+        "id": 131,
+        "texto": "Los cuatro idiotas, la mirada indiferente, vieron cómo su hermana lograba pacientemente dominar el equilibrio, y cómo en puntas de pie apoyaba la garganta sobre la cresta del cerco, entre sus manos tirantes.",
+        "primaria": {
+            "emocion": "Enojo",
+            "prob": 0.793
+        },
+        "secundaria": {
+            "emocion": "Neutral",
+            "prob": 0.129
+        },
+        "todas_las_probabilidades": {
+            "others": 0.129,
+            "joy": 0.004,
+            "sadness": 0.027,
+            "anger": 0.793,
+            "surprise": 0.002,
+            "disgust": 0.042,
+            "fear": 0.002
+        }
+    },
+    {
+        "id": 132,
+        "texto": "Viéronla mirar a todos lados, y buscar apoyo con el pie para alzarse más.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.975
+        },
+        "secundaria": {
+            "emocion": "Alegría",
+            "prob": 0.02
+        },
+        "todas_las_probabilidades": {
+            "others": 0.975,
+            "joy": 0.02,
+            "sadness": 0.002,
+            "anger": 0.001,
+            "surprise": 0.001,
+            "disgust": 0.0,
+            "fear": 0.001
+        }
+    },
+    {
+        "id": 133,
+        "texto": "Pero la mirada de los idiotas se había animado; una misma luz insistente estaba fija en sus pupilas.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.876
+        },
+        "secundaria": {
+            "emocion": "Tristeza",
+            "prob": 0.079
+        },
+        "todas_las_probabilidades": {
+            "others": 0.876,
+            "joy": 0.01,
+            "sadness": 0.079,
+            "anger": 0.014,
+            "surprise": 0.009,
+            "disgust": 0.004,
+            "fear": 0.007
+        }
+    },
+    {
+        "id": 134,
+        "texto": "No apartaban los ojos de su hermana, mientras creciente sensación de gula bestial iba cambiando cada línea de sus rostros.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.868
+        },
+        "secundaria": {
+            "emocion": "Tristeza",
+            "prob": 0.044
+        },
+        "todas_las_probabilidades": {
+            "others": 0.868,
+            "joy": 0.009,
+            "sadness": 0.044,
+            "anger": 0.007,
+            "surprise": 0.034,
+            "disgust": 0.006,
+            "fear": 0.032
+        }
+    },
+    {
+        "id": 135,
+        "texto": "Lentamente avanzaron hacia el cerco.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.936
+        },
+        "secundaria": {
+            "emocion": "Tristeza",
+            "prob": 0.021
+        },
+        "todas_las_probabilidades": {
+            "others": 0.936,
+            "joy": 0.006,
+            "sadness": 0.021,
+            "anger": 0.002,
+            "surprise": 0.019,
+            "disgust": 0.002,
+            "fear": 0.013
+        }
+    },
+    {
+        "id": 136,
+        "texto": "La pequeña, que habiendo logrado calzar el pie, iba ya a montar a horcajadas y a caerse del otro lado, seguramente, sintióse cogida de la pierna.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.865
+        },
+        "secundaria": {
+            "emocion": "Tristeza",
+            "prob": 0.067
+        },
+        "todas_las_probabilidades": {
+            "others": 0.865,
+            "joy": 0.01,
+            "sadness": 0.067,
+            "anger": 0.003,
+            "surprise": 0.038,
+            "disgust": 0.002,
+            "fear": 0.016
+        }
+    },
+    {
+        "id": 137,
+        "texto": "Debajo de ella, los ocho ojos clavados en los suyos le dieron miedo.",
+        "primaria": {
+            "emocion": "Miedo",
+            "prob": 0.562
+        },
+        "secundaria": {
+            "emocion": "Neutral",
+            "prob": 0.288
+        },
+        "todas_las_probabilidades": {
+            "others": 0.288,
+            "joy": 0.009,
+            "sadness": 0.04,
+            "anger": 0.006,
+            "surprise": 0.083,
+            "disgust": 0.013,
+            "fear": 0.562
+        }
+    },
+    {
+        "id": 138,
+        "texto": "—¡Soltáme! ¡dejáme!—gritó sacudiendo la pierna. Pero fué atraída.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.714
+        },
+        "secundaria": {
+            "emocion": "Sorpresa",
+            "prob": 0.121
+        },
+        "todas_las_probabilidades": {
+            "others": 0.714,
+            "joy": 0.058,
+            "sadness": 0.039,
+            "anger": 0.03,
+            "surprise": 0.121,
+            "disgust": 0.012,
+            "fear": 0.026
+        }
+    },
+    {
+        "id": 139,
+        "texto": "—¡Mamá! ¡Ay, mamá! ¡Mamá, papá!—lloró imperiosamente. Trató aún de sujetarse del borde, pero sintióse arrancada y cayó.",
+        "primaria": {
+            "emocion": "Tristeza",
+            "prob": 0.975
+        },
+        "secundaria": {
+            "emocion": "Neutral",
+            "prob": 0.009
+        },
+        "todas_las_probabilidades": {
+            "others": 0.009,
+            "joy": 0.007,
+            "sadness": 0.975,
+            "anger": 0.002,
+            "surprise": 0.004,
+            "disgust": 0.001,
+            "fear": 0.002
+        }
+    },
+    {
+        "id": 140,
+        "texto": "—Mamá, ¡ay! Ma...—No pudo gritar más. Uno de ellos le apretó el cuello, apartando los bucles como si fueran plumas, y los otros la arrastraron de una sola pierna hasta la cocina, donde esa mañana se había desangrado a la gallina, bien sujeta, arrancándole la vida segundo por segundo.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.399
+        },
+        "secundaria": {
+            "emocion": "Tristeza",
+            "prob": 0.378
+        },
+        "todas_las_probabilidades": {
+            "others": 0.399,
+            "joy": 0.018,
+            "sadness": 0.378,
+            "anger": 0.167,
+            "surprise": 0.016,
+            "disgust": 0.014,
+            "fear": 0.007
+        }
+    },
+    {
+        "id": 141,
+        "texto": "Mazzini, en la casa de enfrente, creyó oir la voz de su hija.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.991
+        },
+        "secundaria": {
+            "emocion": "Sorpresa",
+            "prob": 0.003
+        },
+        "todas_las_probabilidades": {
+            "others": 0.991,
+            "joy": 0.001,
+            "sadness": 0.002,
+            "anger": 0.0,
+            "surprise": 0.003,
+            "disgust": 0.001,
+            "fear": 0.002
+        }
+    },
+    {
+        "id": 142,
+        "texto": "—Me parece que te llama—le dijo a Berta.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.978
+        },
+        "secundaria": {
+            "emocion": "Sorpresa",
+            "prob": 0.009
+        },
+        "todas_las_probabilidades": {
+            "others": 0.978,
+            "joy": 0.003,
+            "sadness": 0.003,
+            "anger": 0.002,
+            "surprise": 0.009,
+            "disgust": 0.002,
+            "fear": 0.003
+        }
+    },
+    {
+        "id": 143,
+        "texto": "Prestaron oído, inquietos, pero no oyeron más.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.938
+        },
+        "secundaria": {
+            "emocion": "Tristeza",
+            "prob": 0.025
+        },
+        "todas_las_probabilidades": {
+            "others": 0.938,
+            "joy": 0.008,
+            "sadness": 0.025,
+            "anger": 0.005,
+            "surprise": 0.015,
+            "disgust": 0.002,
+            "fear": 0.007
+        }
+    },
+    {
+        "id": 144,
+        "texto": "Con todo, un momento después se despidieron, y mientras Berta iba a dejar su sombrero, Mazzini avanzó en el patio:",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.941
+        },
+        "secundaria": {
+            "emocion": "Alegría",
+            "prob": 0.03
+        },
+        "todas_las_probabilidades": {
+            "others": 0.941,
+            "joy": 0.03,
+            "sadness": 0.021,
+            "anger": 0.001,
+            "surprise": 0.006,
+            "disgust": 0.001,
+            "fear": 0.001
+        }
+    },
+    {
+        "id": 145,
+        "texto": "—¡Bertita!",
+        "primaria": {
+            "emocion": "Alegría",
+            "prob": 0.858
+        },
+        "secundaria": {
+            "emocion": "Neutral",
+            "prob": 0.083
+        },
+        "todas_las_probabilidades": {
+            "others": 0.083,
+            "joy": 0.858,
+            "sadness": 0.004,
+            "anger": 0.007,
+            "surprise": 0.041,
+            "disgust": 0.004,
+            "fear": 0.004
+        }
+    },
+    {
+        "id": 146,
+        "texto": "Nadie respondió.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.97
+        },
+        "secundaria": {
+            "emocion": "Alegría",
+            "prob": 0.013
+        },
+        "todas_las_probabilidades": {
+            "others": 0.97,
+            "joy": 0.013,
+            "sadness": 0.006,
+            "anger": 0.001,
+            "surprise": 0.007,
+            "disgust": 0.001,
+            "fear": 0.001
+        }
+    },
+    {
+        "id": 147,
+        "texto": "—¡Bertita!—alzó más la voz, ya alterada.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.948
+        },
+        "secundaria": {
+            "emocion": "Sorpresa",
+            "prob": 0.019
+        },
+        "todas_las_probabilidades": {
+            "others": 0.948,
+            "joy": 0.012,
+            "sadness": 0.005,
+            "anger": 0.003,
+            "surprise": 0.019,
+            "disgust": 0.002,
+            "fear": 0.01
+        }
+    },
+    {
+        "id": 148,
+        "texto": "Y el silencio fué tan fúnebre para su corazón siempre aterrado, que la espalda se le heló de horrible presentimiento.",
+        "primaria": {
+            "emocion": "Tristeza",
+            "prob": 0.851
+        },
+        "secundaria": {
+            "emocion": "Miedo",
+            "prob": 0.085
+        },
+        "todas_las_probabilidades": {
+            "others": 0.039,
+            "joy": 0.004,
+            "sadness": 0.851,
+            "anger": 0.003,
+            "surprise": 0.015,
+            "disgust": 0.003,
+            "fear": 0.085
+        }
+    },
+    {
+        "id": 149,
+        "texto": "—¡Mi hija, mi hija!—corrió ya desesperado hacia el fondo. Pero al pasar frente a la cocina vió en el piso un mar de sangre. Empujó violentamente la puerta entornada, y lanzó un grito de horror.",
+        "primaria": {
+            "emocion": "Enojo",
+            "prob": 0.208
+        },
+        "secundaria": {
+            "emocion": "Tristeza",
+            "prob": 0.198
+        },
+        "todas_las_probabilidades": {
+            "others": 0.113,
+            "joy": 0.035,
+            "sadness": 0.198,
+            "anger": 0.208,
+            "surprise": 0.164,
+            "disgust": 0.088,
+            "fear": 0.195
+        }
+    },
+    {
+        "id": 150,
+        "texto": "Berta, que ya se había lanzado corriendo a su vez al oir el angustioso llamado del padre, oyó el grito y respondió con otro.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.837
+        },
+        "secundaria": {
+            "emocion": "Tristeza",
+            "prob": 0.119
+        },
+        "todas_las_probabilidades": {
+            "others": 0.837,
+            "joy": 0.008,
+            "sadness": 0.119,
+            "anger": 0.002,
+            "surprise": 0.017,
+            "disgust": 0.002,
+            "fear": 0.015
+        }
+    },
+    {
+        "id": 151,
+        "texto": "Pero al precipitarse en la cocina, Mazzini, lívido como la muerte, se interpuso, conteniéndola:",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.938
+        },
+        "secundaria": {
+            "emocion": "Sorpresa",
+            "prob": 0.021
+        },
+        "todas_las_probabilidades": {
+            "others": 0.938,
+            "joy": 0.004,
+            "sadness": 0.016,
+            "anger": 0.002,
+            "surprise": 0.021,
+            "disgust": 0.001,
+            "fear": 0.018
+        }
+    },
+    {
+        "id": 152,
+        "texto": "—¡No entres! ¡No entres!",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.492
+        },
+        "secundaria": {
+            "emocion": "Enojo",
+            "prob": 0.371
+        },
+        "todas_las_probabilidades": {
+            "others": 0.492,
+            "joy": 0.036,
+            "sadness": 0.008,
+            "anger": 0.371,
+            "surprise": 0.054,
+            "disgust": 0.031,
+            "fear": 0.009
+        }
+    },
+    {
+        "id": 153,
+        "texto": "Berta alcanzó a ver el piso inundado de sangre.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.629
+        },
+        "secundaria": {
+            "emocion": "Tristeza",
+            "prob": 0.319
+        },
+        "todas_las_probabilidades": {
+            "others": 0.629,
+            "joy": 0.014,
+            "sadness": 0.319,
+            "anger": 0.002,
+            "surprise": 0.022,
+            "disgust": 0.003,
+            "fear": 0.011
+        }
+    },
+    {
+        "id": 154,
+        "texto": "Sólo pudo echar sus brazos sobre la cabeza y hundirse a lo largo de él con un ronco suspiro.",
+        "primaria": {
+            "emocion": "Neutral",
+            "prob": 0.938
+        },
+        "secundaria": {
+            "emocion": "Tristeza",
+            "prob": 0.022
+        },
+        "todas_las_probabilidades": {
+            "others": 0.938,
+            "joy": 0.022,
+            "sadness": 0.022,
+            "anger": 0.005,
+            "surprise": 0.009,
+            "disgust": 0.002,
+            "fear": 0.002
+        }
+    }
+]
