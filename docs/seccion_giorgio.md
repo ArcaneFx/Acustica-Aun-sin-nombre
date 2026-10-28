@@ -29,8 +29,18 @@ La modulación cambia lo que debía en la dirección prevista:
 
 Salvedades: el F0 es una estimación por autocorrelación (no un extractor profesional) y Piper es estocástico, así que los valores varían un poco entre corridas. **Esto prueba que los parámetros cambian, no que se perciba la emoción.**
 
+## Mejoras para que suene menos robótico (sin entrenar)
+Piper sintetiza cada oración por separado y su entonación es bastante plana. Se probaron ajustes baratos antes de pensar en entrenar o clonar voces:
+1. **Pausas según la puntuación final** (`--pausas contextual`, por defecto): tras una coma la pausa es 0,4× la base, tras `!`/`?` 1,1×, tras `...` 1,5×. Con `--pausas fija` se recupera el comportamiento anterior. Las pausas base subieron (0,3 a 0,8 s según la emoción) para que la lectura continua respire.
+2. **Variación de ritmo por emoción** (`ritmo` = `noise_w_scale` de Piper): más alto en miedo/alegría/sorpresa, más bajo en tristeza/disgusto.
+3. **Narración continua** (`--unir`): une las oraciones en un solo audio, que es como se escucha un audiolibro. Archivos: `ejemplo_narracion.wav` (voz `es_MX-claude-high`) y `ejemplo_narracion_davefx.wav` (voz `es_ES-davefx-medium`) para comparar voces de oído.
+
+Salvedades: no hay prueba de escucha todavía, así que **no sé si suena mejor**; solo sé que los parámetros cambian. En el ejemplo casi todas las oraciones terminan en punto, por lo que las pausas contextuales casi no se notan; se verán en los cuentos reales (donde hay comas por los saltos de línea). Piper es estocástico: la duración total varía unos 0,4 s entre corridas, más que el efecto de las pausas en este ejemplo.
+
+Opciones que NO se hicieron (más costosas): afinar Piper con una voz expresiva (requiere horas de audio y GPU), modelos por emoción, y clonación de voz con XTTS/F5-TTS/Chatterbox en Colab. Quedan como trabajo posible del Hito 3.
+
 ## Por hacer
 - Escuchar y describir honestamente cada audio; probar con otros oyentes si hay tiempo.
 - Generar audios con la salida real de la Fase 1 sobre los cuentos de Quiroga cuando Benjamin la entregue.
-- Comparar con la versión `_base` (sin modulación).
+- Prueba de escucha: comparar `_base` vs con emoción, y las dos voces, con otras personas.
 - Probar la reproducción desde cero (`ffmpeg` es dependencia del sistema; las voces se bajan con `python -m piper.download_voices`).
