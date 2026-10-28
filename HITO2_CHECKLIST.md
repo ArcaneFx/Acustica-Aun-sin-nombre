@@ -137,12 +137,12 @@ Preparar respuestas para las preguntas probables (5 min):
 - [ ] B7. Escribir `docs/seccion_benjamin.md` (datos, metodología, decisiones, dificultades).
 
 ### Giorgio — Fase 2
-- [ ] F1. Elegir un TTS y justificar la elección (costo, español, control de emoción).
-- [ ] F2. Tabla emoción → instrucción/parámetros de voz.
-- [ ] F3. `src/fase2_narracion.py`: lee cualquier JSON del contrato y genera un audio por oración.
-- [ ] F4. Generar 5–10 audios con distintas emociones a partir de `ejemplo_linea_temporal.json`; guardarlos en `results/audios/` con su README.
+- [x] F1. Elegir un TTS y justificar la elección: **Piper (local, gratis, CPU)** con modulación acústica; descartados gpt-4o-mini-tts (de pago), ElevenLabs (cuenta/créditos), Chatterbox (pide GPU). Falta la justificación escrita en `docs/seccion_giorgio.md`.
+- [x] F2. Tabla emoción → instrucción/parámetros de voz.
+- [x] F3. `src/fase2_narracion.py`: lee cualquier JSON del contrato y genera un audio por oración.
+- [ ] F4. _(parcial: hay audios del ejemplo y una demo de 7 emociones; faltan los de la Fase 1 real)_ Generar 5–10 audios con distintas emociones a partir de `ejemplo_linea_temporal.json`; guardarlos en `results/audios/` con su README.
 - [ ] F5. Evaluación cualitativa honesta ("¿suena a esa emoción?"), incluyendo lo que falló.
-- [ ] F6. Agregar las dependencias del TTS a `requirements.txt` y verificar que reproduce desde cero.
+- [ ] F6. Agregar las dependencias del TTS a `requirements.txt` _(hecho: `piper-tts`; falta documentar `ffmpeg` y la descarga de voces, y probar desde cero)_.
 - [ ] F7. Escribir `docs/seccion_giorgio.md` (decisiones, dificultades, resultados interpretados).
 
 ### Angel — Evaluación, repo y presentación
