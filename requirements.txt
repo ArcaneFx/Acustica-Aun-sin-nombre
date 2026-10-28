@@ -1,3 +1,4 @@
 pysentimiento
 torch
 hf_transfer
+piper-tts

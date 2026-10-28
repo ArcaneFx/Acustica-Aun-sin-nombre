@@ -38,5 +38,5 @@ Generar la plantilla: `python src/evaluacion.py --plantilla <linea_temporal.json
 
 ## 3. Audios (Fase 2)
 
-`results/audios/<cuento>_<id>_<emocion>.wav` (por ejemplo `quiroga_a_la_deriva_004_miedo.wav`), más
+`results/audios/<cuento>_<id>_<emocion>.wav` (por ejemplo `quiroga_a_la_deriva_004_miedo.wav`), y, opcionalmente, `<cuento>_<id>_base.wav` (la misma oración sin modulación emocional, para comparar), más
 `results/audios/README.md` con la oración de cada audio.
