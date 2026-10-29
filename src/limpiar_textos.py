@@ -4,9 +4,10 @@ def limpiar_cuento(ruta_entrada, ruta_salida):
     with open(ruta_entrada, 'r', encoding='utf-8') as f:
         texto_completo = f.read()
 
-    # 1. Quitar el título (primera línea)
+    # 1. Quitar el título: primera línea con el formato #TITULO DEL CUENTO# (el título real, no un texto fijo)
     lineas = texto_completo.split('\n')
-    if lineas and '#TITULO#' in lineas[0]:
+    primera = lineas[0].strip() if lineas else ""
+    if len(primera) > 1 and primera.startswith('#') and primera.endswith('#'):
         lineas = lineas[1:]
     
     texto_sin_titulo = "\n".join(lineas)
