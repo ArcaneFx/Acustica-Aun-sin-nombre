@@ -1,27 +1,6 @@
 [
     {
         "id": 1,
-        "texto": "#A LA DERIVA#",
-        "primaria": {
-            "emocion": "Neutral",
-            "prob": 0.899
-        },
-        "secundaria": {
-            "emocion": "Alegría",
-            "prob": 0.026
-        },
-        "todas_las_probabilidades": {
-            "others": 0.899,
-            "joy": 0.026,
-            "sadness": 0.02,
-            "anger": 0.008,
-            "surprise": 0.026,
-            "disgust": 0.004,
-            "fear": 0.016
-        }
-    },
-    {
-        "id": 2,
         "texto": "El hombre pisó algo blanduzco, y en seguida sintió la mordedura en el pie.",
         "primaria": {
             "emocion": "Neutral",
@@ -42,7 +21,7 @@
         }
     },
     {
-        "id": 3,
+        "id": 2,
         "texto": "Saltó adelante, y al volverse con un juramento, vió una yararacusú que arrollada sobre sí misma esperaba otro ataque.",
         "primaria": {
             "emocion": "Neutral",
@@ -63,7 +42,7 @@
         }
     },
     {
-        "id": 4,
+        "id": 3,
         "texto": "El hombre echó una veloz ojeada a su pie, donde dos gotitas de sangre engrosaban dificultosamente, y sacó el machete de la cintura.",
         "primaria": {
             "emocion": "Neutral",
@@ -84,7 +63,7 @@
         }
     },
     {
-        "id": 5,
+        "id": 4,
         "texto": "La víbora vió la amenaza, y hundió más la cabeza en el centro mismo de su espiral; pero el machete cayó de plano, dislocándole las vértebras.",
         "primaria": {
             "emocion": "Neutral",
@@ -105,7 +84,7 @@
         }
     },
     {
-        "id": 6,
+        "id": 5,
         "texto": "El hombre se bajó hasta la mordedura, quitó las gotitas de sangre, y durante un instante contempló.",
         "primaria": {
             "emocion": "Neutral",
@@ -126,7 +105,7 @@
         }
     },
     {
-        "id": 7,
+        "id": 6,
         "texto": "Un dolor agudo nacía de los dos puntitos violeta, y comenzaba a invadir todo el pie.",
         "primaria": {
             "emocion": "Miedo",
@@ -147,7 +126,7 @@
         }
     },
     {
-        "id": 8,
+        "id": 7,
         "texto": "Apresuradamente se ligó el tobillo con su pañuelo y siguió por la picada hacia su rancho.",
         "primaria": {
             "emocion": "Neutral",
@@ -168,7 +147,7 @@
         }
     },
     {
-        "id": 9,
+        "id": 8,
         "texto": "El dolor en el pie aumentaba, con sensación de tirante abultamiento, y de pronto el hombre sintió dos o tres fulgurantes puntadas que como relámpagos habían irradiado desde la herida hasta la mitad de la pantorrilla.",
         "primaria": {
             "emocion": "Miedo",
@@ -189,7 +168,7 @@
         }
     },
     {
-        "id": 10,
+        "id": 9,
         "texto": "Movía la pierna con dificultad; una metálica sequedad de garganta, seguida de sed quemante, le arrancó un nuevo juramento.",
         "primaria": {
             "emocion": "Neutral",
@@ -210,7 +189,7 @@
         }
     },
     {
-        "id": 11,
+        "id": 10,
         "texto": "Llegó por fin al rancho, y se echó de brazos sobre la rueda de un trapiche.",
         "primaria": {
             "emocion": "Neutral",
@@ -231,7 +210,7 @@
         }
     },
     {
-        "id": 12,
+        "id": 11,
         "texto": "Los dos puntitos violeta desaparecían ahora en la monstruosa hinchazón del pie entero.",
         "primaria": {
             "emocion": "Neutral",
@@ -252,7 +231,7 @@
         }
     },
     {
-        "id": 13,
+        "id": 12,
         "texto": "La piel parecía adelgazada y a punto de ceder, de tensa.",
         "primaria": {
             "emocion": "Neutral",
@@ -273,7 +252,7 @@
         }
     },
     {
-        "id": 14,
+        "id": 13,
         "texto": "Quiso llamar a su mujer, y la voz se quebró en un ronco arrastre de garganta reseca.",
         "primaria": {
             "emocion": "Neutral",
@@ -294,7 +273,7 @@
         }
     },
     {
-        "id": 15,
+        "id": 14,
         "texto": "La sed lo devoraba.",
         "primaria": {
             "emocion": "Neutral",
@@ -315,7 +294,7 @@
         }
     },
     {
-        "id": 16,
+        "id": 15,
         "texto": "—¡Dorotea!—alcanzó a lanzar en un estertor.—¡Dame caña!",
         "primaria": {
             "emocion": "Alegría",
@@ -336,7 +315,7 @@
         }
     },
     {
-        "id": 17,
+        "id": 16,
         "texto": "Su mujer corrió con un vaso lleno, que el hombre sorbió en tres tragos.",
         "primaria": {
             "emocion": "Neutral",
@@ -357,7 +336,7 @@
         }
     },
     {
-        "id": 18,
+        "id": 17,
         "texto": "Pero no había sentido gusto alguno.",
         "primaria": {
             "emocion": "Neutral",
@@ -378,7 +357,7 @@
         }
     },
     {
-        "id": 19,
+        "id": 18,
         "texto": "—¡Te pedí caña, no agua!—rugió de nuevo.—¡Dame caña!",
         "primaria": {
             "emocion": "Alegría",
@@ -399,7 +378,7 @@
         }
     },
     {
-        "id": 20,
+        "id": 19,
         "texto": "—¡Pero es caña, Paulino!—protestó la mujer espantada.",
         "primaria": {
             "emocion": "Neutral",
@@ -420,7 +399,7 @@
         }
     },
     {
-        "id": 21,
+        "id": 20,
         "texto": "—¡No, me diste agua! ¡Quiero caña, te digo!",
         "primaria": {
             "emocion": "Neutral",
@@ -441,7 +420,7 @@
         }
     },
     {
-        "id": 22,
+        "id": 21,
         "texto": "La mujer corrió otra vez, volviendo con la damajuana.",
         "primaria": {
             "emocion": "Neutral",
@@ -462,7 +441,7 @@
         }
     },
     {
-        "id": 23,
+        "id": 22,
         "texto": "El hombre tragó uno tras otro dos vasos, pero no sintió nada en la garganta.",
         "primaria": {
             "emocion": "Neutral",
@@ -483,7 +462,7 @@
         }
     },
     {
-        "id": 24,
+        "id": 23,
         "texto": "—Bueno; esto se pone feo—murmuró entonces, mirando su pie lívido y ya con lustre gangrenoso. Sobre la honda ligadura del pañuelo, la carne desbordaba como una monstruosa morcilla.",
         "primaria": {
             "emocion": "Neutral",
@@ -504,7 +483,7 @@
         }
     },
     {
-        "id": 25,
+        "id": 24,
         "texto": "Los dolores fulgurantes se sucedían en continuos relampagueos, y llegaban ahora a la ingle.",
         "primaria": {
             "emocion": "Miedo",
@@ -525,7 +504,7 @@
         }
     },
     {
-        "id": 26,
+        "id": 25,
         "texto": "La atroz sequedad de garganta que el aliento parecía caldear más, aumentaba a la par.",
         "primaria": {
             "emocion": "Tristeza",
@@ -546,7 +525,7 @@
         }
     },
     {
-        "id": 27,
+        "id": 26,
         "texto": "Cuando pretendió incorporarse, un fulminante vómito lo mantuvo medio minuto con la frente apoyada en la rueda de palo.",
         "primaria": {
             "emocion": "Neutral",
@@ -567,7 +546,7 @@
         }
     },
     {
-        "id": 28,
+        "id": 27,
         "texto": "Pero el hombre no quería morir, y descendiendo hasta la costa subió a su canoa.",
         "primaria": {
             "emocion": "Neutral",
@@ -588,7 +567,7 @@
         }
     },
     {
-        "id": 29,
+        "id": 28,
         "texto": "Sentóse en la popa y comenzó a palear hasta el centro del Paraná.",
         "primaria": {
             "emocion": "Neutral",
@@ -609,7 +588,7 @@
         }
     },
     {
-        "id": 30,
+        "id": 29,
         "texto": "Allí la corriente del río, que en las inmediaciones del Iguazú corre seis millas, lo llevaría antes de cinco horas a Tacurú-Pucú.",
         "primaria": {
             "emocion": "Neutral",
@@ -630,7 +609,7 @@
         }
     },
     {
-        "id": 31,
+        "id": 30,
         "texto": "El hombre, con sombría energía, pudo efectivamente llegar hasta el medio del río; pero allí sus manos dormidas dejaron caer la pala en la canoa, y tras un nuevo vómito—de sangre esta vez—dirigió una mirada al sol que ya trasponía el monte.",
         "primaria": {
             "emocion": "Neutral",
@@ -651,7 +630,7 @@
         }
     },
     {
-        "id": 32,
+        "id": 31,
         "texto": "La pierna entera, hasta medio muslo, era ya un bloque deforme y durísimo que reventaba la ropa.",
         "primaria": {
             "emocion": "Neutral",
@@ -672,7 +651,7 @@
         }
     },
     {
-        "id": 33,
+        "id": 32,
         "texto": "El hombre cortó la ligadura y abrió el pantalón con su cuchillo: el bajo vientre desbordó hinchado, con grandes manchas lívidas y terriblemente dolorido.",
         "primaria": {
             "emocion": "Tristeza",
@@ -693,7 +672,7 @@
         }
     },
     {
-        "id": 34,
+        "id": 33,
         "texto": "El hombre pensó que no podría jamás llegar él solo a Tacurú-Pucú, y se decidió a pedir ayuda a su compadre Alves, aunque hacía mucho tiempo que estaban disgustados.",
         "primaria": {
             "emocion": "Neutral",
@@ -714,7 +693,7 @@
         }
     },
     {
-        "id": 35,
+        "id": 34,
         "texto": "La corriente del río se precipitaba ahora hacia la costa brasileña, y el hombre pudo fácilmente atracar.",
         "primaria": {
             "emocion": "Neutral",
@@ -735,7 +714,7 @@
         }
     },
     {
-        "id": 36,
+        "id": 35,
         "texto": "Se arrastró por la picada en cuesta arriba, pero a los veinte metros, exhausto, quedó tendido de pecho.",
         "primaria": {
             "emocion": "Neutral",
@@ -756,7 +735,7 @@
         }
     },
     {
-        "id": 37,
+        "id": 36,
         "texto": "—¡Alves!—gritó con cuanta fuerza pudo; y prestó oído en vano.",
         "primaria": {
             "emocion": "Neutral",
@@ -777,7 +756,7 @@
         }
     },
     {
-        "id": 38,
+        "id": 37,
         "texto": "—¡Compadre Alves! ¡No me niegue este favor!—clamó de nuevo, alzando la cabeza del suelo.—En el silencio de la selva no se oyó un sólo rumor. El hombre tuvo aún valor para llegar hasta su canoa, y la corriente, cogiéndola de nuevo, la llevó velozmente a la deriva.",
         "primaria": {
             "emocion": "Neutral",
@@ -798,7 +777,7 @@
         }
     },
     {
-        "id": 39,
+        "id": 38,
         "texto": "El Paraná corre allí en el fondo de una inmensa hoya, cuyas paredes, altas de cien metros, encajonan fúnebremente el río.",
         "primaria": {
             "emocion": "Neutral",
@@ -819,7 +798,7 @@
         }
     },
     {
-        "id": 40,
+        "id": 39,
         "texto": "Desde las orillas bordeadas de negros bloques de basalto, asciende el bosque, negro también.",
         "primaria": {
             "emocion": "Neutral",
@@ -840,7 +819,7 @@
         }
     },
     {
-        "id": 41,
+        "id": 40,
         "texto": "Adelante, a los costados, detrás, la eterna muralla lúgubre, en cuyo fondo el río arremolinado se precipita en incesantes borbollones de agua fangosa.",
         "primaria": {
             "emocion": "Neutral",
@@ -861,7 +840,7 @@
         }
     },
     {
-        "id": 42,
+        "id": 41,
         "texto": "El paisaje es agresivo, y reina en él un silencio de muerte.",
         "primaria": {
             "emocion": "Neutral",
@@ -882,7 +861,7 @@
         }
     },
     {
-        "id": 43,
+        "id": 42,
         "texto": "Al atardecer, sin embargo, su belleza sombría y calma cobra una majestad única.",
         "primaria": {
             "emocion": "Neutral",
@@ -903,7 +882,7 @@
         }
     },
     {
-        "id": 44,
+        "id": 43,
         "texto": "El sol había caído ya cuando el hombre, semi-tendido en el fondo de la canoa, tuvo un violento escalofrío.",
         "primaria": {
             "emocion": "Neutral",
@@ -924,7 +903,7 @@
         }
     },
     {
-        "id": 45,
+        "id": 44,
         "texto": "Y de pronto, con asombro, enderezó pesadamente la cabeza: se sentía mejor.",
         "primaria": {
             "emocion": "Neutral",
@@ -945,7 +924,7 @@
         }
     },
     {
-        "id": 46,
+        "id": 45,
         "texto": "La pierna le dolía apenas, la sed disminuía, y su pecho, libre ya, se abría en lenta inspiración.",
         "primaria": {
             "emocion": "Neutral",
@@ -966,7 +945,7 @@
         }
     },
     {
-        "id": 47,
+        "id": 46,
         "texto": "El veneno comenzaba a irse, no había duda.",
         "primaria": {
             "emocion": "Neutral",
@@ -987,7 +966,7 @@
         }
     },
     {
-        "id": 48,
+        "id": 47,
         "texto": "Se hallaba casi bien, y aunque no tenía fuerzas para mover la mano, contaba con la caída del rocio para reponerse del todo.",
         "primaria": {
             "emocion": "Neutral",
@@ -1008,7 +987,7 @@
         }
     },
     {
-        "id": 49,
+        "id": 48,
         "texto": "Calculó que antes de tres horas estaría en Tacurú-Pucú.",
         "primaria": {
             "emocion": "Neutral",
@@ -1029,7 +1008,7 @@
         }
     },
     {
-        "id": 50,
+        "id": 49,
         "texto": "El bienestar avanzaba, y con él una somnolencia llena de recuerdos.",
         "primaria": {
             "emocion": "Alegría",
@@ -1050,7 +1029,7 @@
         }
     },
     {
-        "id": 51,
+        "id": 50,
         "texto": "No sentía ya nada ni en la pierna ni en el vientre.",
         "primaria": {
             "emocion": "Neutral",
@@ -1071,7 +1050,7 @@
         }
     },
     {
-        "id": 52,
+        "id": 51,
         "texto": "¿Viviría aún su compadre Gaona en Tacurú-Pucú?",
         "primaria": {
             "emocion": "Neutral",
@@ -1092,7 +1071,7 @@
         }
     },
     {
-        "id": 53,
+        "id": 52,
         "texto": "Acaso viera también a su ex-patrón míster Dougald, y al recibidor del obraje.",
         "primaria": {
             "emocion": "Neutral",
@@ -1113,7 +1092,7 @@
         }
     },
     {
-        "id": 54,
+        "id": 53,
         "texto": "¿Llegaría pronto?",
         "primaria": {
             "emocion": "Neutral",
@@ -1134,7 +1113,7 @@
         }
     },
     {
-        "id": 55,
+        "id": 54,
         "texto": "El cielo, al poniente, se abría ahora en pantalla de oro, y el río se había coloreado también.",
         "primaria": {
             "emocion": "Neutral",
@@ -1155,7 +1134,7 @@
         }
     },
     {
-        "id": 56,
+        "id": 55,
         "texto": "Desde la costa paraguaya, ya entenebrecida, el monte dejaba caer sobre el río su frescura crepuscular, en penetrantes efluvios de azahar y miel silvestre.",
         "primaria": {
             "emocion": "Neutral",
@@ -1176,7 +1155,7 @@
         }
     },
     {
-        "id": 57,
+        "id": 56,
         "texto": "Una pareja de guacamayos cruzó muy alto y en silencio hacia el Paraguay.",
         "primaria": {
             "emocion": "Neutral",
@@ -1197,7 +1176,7 @@
         }
     },
     {
-        "id": 58,
+        "id": 57,
         "texto": "Allá abajo, sobre el río de oro, la canoa derivaba velozmente, girando a ratos sobre sí misma ante el borbollón de un remolino.",
         "primaria": {
             "emocion": "Neutral",
@@ -1218,7 +1197,7 @@
         }
     },
     {
-        "id": 59,
+        "id": 58,
         "texto": "El hombre que iba en ella se sentía cada vez mejor, y pensaba entretanto en el tiempo justo que había pasado sin ver a su ex-patrón Dougald.",
         "primaria": {
             "emocion": "Neutral",
@@ -1239,7 +1218,7 @@
         }
     },
     {
-        "id": 60,
+        "id": 59,
         "texto": "¿Tres años?",
         "primaria": {
             "emocion": "Sorpresa",
@@ -1260,7 +1239,7 @@
         }
     },
     {
-        "id": 61,
+        "id": 60,
         "texto": "Tal vez no, no tanto.",
         "primaria": {
             "emocion": "Neutral",
@@ -1281,7 +1260,7 @@
         }
     },
     {
-        "id": 62,
+        "id": 61,
         "texto": "¿Dos años y nueve meses?",
         "primaria": {
             "emocion": "Sorpresa",
@@ -1302,7 +1281,7 @@
         }
     },
     {
-        "id": 63,
+        "id": 62,
         "texto": "Acaso.",
         "primaria": {
             "emocion": "Neutral",
@@ -1323,7 +1302,7 @@
         }
     },
     {
-        "id": 64,
+        "id": 63,
         "texto": "¿Ocho meses y medio?",
         "primaria": {
             "emocion": "Neutral",
@@ -1344,7 +1323,7 @@
         }
     },
     {
-        "id": 65,
+        "id": 64,
         "texto": "Eso sí, seguramente.",
         "primaria": {
             "emocion": "Neutral",
@@ -1365,7 +1344,7 @@
         }
     },
     {
-        "id": 66,
+        "id": 65,
         "texto": "De pronto sintió que estaba helado hasta el pecho.",
         "primaria": {
             "emocion": "Neutral",
@@ -1386,7 +1365,7 @@
         }
     },
     {
-        "id": 67,
+        "id": 66,
         "texto": "¿Qué sería?",
         "primaria": {
             "emocion": "Neutral",
@@ -1407,7 +1386,7 @@
         }
     },
     {
-        "id": 68,
+        "id": 67,
         "texto": "Y la respiración también...",
         "primaria": {
             "emocion": "Neutral",
@@ -1428,7 +1407,7 @@
         }
     },
     {
-        "id": 69,
+        "id": 68,
         "texto": "Al recibidor de maderas de míster Dougald, Lorenzo Cubilla, lo había conocido en Puerto Deseado, un viernes santo...",
         "primaria": {
             "emocion": "Neutral",
@@ -1449,7 +1428,7 @@
         }
     },
     {
-        "id": 70,
+        "id": 69,
         "texto": "¿Viernes?",
         "primaria": {
             "emocion": "Neutral",
@@ -1470,7 +1449,7 @@
         }
     },
     {
-        "id": 71,
+        "id": 70,
         "texto": "Sí, o jueves...",
         "primaria": {
             "emocion": "Neutral",
@@ -1491,7 +1470,7 @@
         }
     },
     {
-        "id": 72,
+        "id": 71,
         "texto": "El hombre estiró lentamente los dedos de la mano.",
         "primaria": {
             "emocion": "Neutral",
@@ -1512,7 +1491,7 @@
         }
     },
     {
-        "id": 73,
+        "id": 72,
         "texto": "—Un jueves...",
         "primaria": {
             "emocion": "Neutral",
@@ -1533,7 +1512,7 @@
         }
     },
     {
-        "id": 74,
+        "id": 73,
         "texto": "Y cesó de respirar.",
         "primaria": {
             "emocion": "Neutral",

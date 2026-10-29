@@ -12,7 +12,9 @@
 
     Hay que limpiar esto antes de analizar (derivados van en `processed/`, no aquí).
 - `processed/`: salidas intermedias y datos derivados (formatos en [`docs/contrato.md`](../docs/contrato.md)).
+  - `quiroga_<cuento>_limpio.txt` y `quiroga_<cuento>_linea_temporal.json`: texto limpio (sin título, líneas unidas, diálogos con `—`) y salida de la Fase 1 de cada cuento (los genera `script.py`).
   - `ejemplo_linea_temporal.json`: línea temporal del capítulo de ejemplo, reconstruida desde `results/fase1_capitulo_prueba.txt` (solo trae las 2 emociones principales por oración).
-  - `etiquetas_manuales.csv`: oraciones etiquetadas a mano (datos supervisados); se llena con `src/evaluacion.py --plantilla`.
+  - `etiquetas_manuales.csv`: oraciones etiquetadas a mano (datos supervisados); hoy tiene las 83 oraciones de *El almohadón de pluma*. Plantilla vacía: `src/evaluacion.py --plantilla`.
+  - `libro.txt`: archivo vacío heredado del Hito 1; se puede borrar.
 
 Fuentes candidatas de textos y audios: ver la sección **Datos** del README principal.
