@@ -13,3 +13,6 @@ __pycache__/
 
 # Contexto local para asistentes de IA
 CLAUDE.md
+
+# Salida del flujo completo (script.py): se regenera y Piper es estocástico
+results/audios/pipeline/
