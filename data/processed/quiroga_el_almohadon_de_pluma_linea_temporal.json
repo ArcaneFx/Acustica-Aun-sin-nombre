@@ -1,27 +1,6 @@
 [
     {
         "id": 1,
-        "texto": "#EL ALMOHADON DE PLUMA#",
-        "primaria": {
-            "emocion": "Neutral",
-            "prob": 0.932
-        },
-        "secundaria": {
-            "emocion": "Alegría",
-            "prob": 0.052
-        },
-        "todas_las_probabilidades": {
-            "others": 0.932,
-            "joy": 0.052,
-            "sadness": 0.001,
-            "anger": 0.0,
-            "surprise": 0.014,
-            "disgust": 0.001,
-            "fear": 0.001
-        }
-    },
-    {
-        "id": 2,
         "texto": "Su luna de miel fué un largo escalofrío.",
         "primaria": {
             "emocion": "Tristeza",
@@ -42,7 +21,7 @@
         }
     },
     {
-        "id": 3,
+        "id": 2,
         "texto": "Rubia, angelical y tímida, el carácter duro de su marido heló sus soñadas niñerías de novia.",
         "primaria": {
             "emocion": "Neutral",
@@ -63,7 +42,7 @@
         }
     },
     {
-        "id": 4,
+        "id": 3,
         "texto": "Lo quería mucho, sin embargo, a veces con un ligero estremecimiento cuando volviendo de noche juntos por la calle, echaba una furtiva mirada a la alta estatura de Jordán, mudo desde hacía una hora.",
         "primaria": {
             "emocion": "Tristeza",
@@ -84,7 +63,7 @@
         }
     },
     {
-        "id": 5,
+        "id": 4,
         "texto": "El, por su parte, la amaba profundamente, sin darlo a conocer.",
         "primaria": {
             "emocion": "Neutral",
@@ -105,7 +84,7 @@
         }
     },
     {
-        "id": 6,
+        "id": 5,
         "texto": "Durante tres meses—se habían casado en abril—vivieron una dicha especial.",
         "primaria": {
             "emocion": "Neutral",
@@ -126,7 +105,7 @@
         }
     },
     {
-        "id": 7,
+        "id": 6,
         "texto": "Sin duda hubiera ella deseado menos severidad en ese rígido cielo de amor, más expansiva e incauta ternura; pero el impasible semblante de su marido la contenía en seguida.",
         "primaria": {
             "emocion": "Neutral",
@@ -147,7 +126,7 @@
         }
     },
     {
-        "id": 8,
+        "id": 7,
         "texto": "La casa en que vivían influía no poco en sus estremecimientos.",
         "primaria": {
             "emocion": "Neutral",
@@ -168,7 +147,7 @@
         }
     },
     {
-        "id": 9,
+        "id": 8,
         "texto": "La blancura del patio silencioso—frisos, columnas y estatuas de mármol—producía una otoñal impresión de palacio encantado.",
         "primaria": {
             "emocion": "Neutral",
@@ -189,7 +168,7 @@
         }
     },
     {
-        "id": 10,
+        "id": 9,
         "texto": "Dentro, el brillo glacial del estuco, sin el más leve rasguño en las altas paredes, afirmaba aquella sensación de desapacible frío.",
         "primaria": {
             "emocion": "Neutral",
@@ -210,7 +189,7 @@
         }
     },
     {
-        "id": 11,
+        "id": 10,
         "texto": "Al cruzar de una pieza a otra, los pasos hallaban eco en toda la casa, como si un largo abandono hubiera sensibilizado su resonancia.",
         "primaria": {
             "emocion": "Neutral",
@@ -231,7 +210,7 @@
         }
     },
     {
-        "id": 12,
+        "id": 11,
         "texto": "En ese extraño nido de amor, Alicia pasó todo el otoño.",
         "primaria": {
             "emocion": "Neutral",
@@ -252,7 +231,7 @@
         }
     },
     {
-        "id": 13,
+        "id": 12,
         "texto": "No obstante, había concluído por echar un velo sobre sus antiguos sueños, y aún vivía dormida en la casa hostil, sin querer pensar en nada hasta que llegaba su marido.",
         "primaria": {
             "emocion": "Neutral",
@@ -273,7 +252,7 @@
         }
     },
     {
-        "id": 14,
+        "id": 13,
         "texto": "No es raro que adelgazara.",
         "primaria": {
             "emocion": "Neutral",
@@ -294,7 +273,7 @@
         }
     },
     {
-        "id": 15,
+        "id": 14,
         "texto": "Tuvo un ligero ataque de influenza que se arrastró insidiosamente días y días; Alicia no se reponía nunca.",
         "primaria": {
             "emocion": "Neutral",
@@ -315,7 +294,7 @@
         }
     },
     {
-        "id": 16,
+        "id": 15,
         "texto": "Al fin, una tarde pudo salir al jardín apoyada en el brazo de él.",
         "primaria": {
             "emocion": "Alegría",
@@ -336,7 +315,7 @@
         }
     },
     {
-        "id": 17,
+        "id": 16,
         "texto": "Miraba indiferente a uno y otro lado.",
         "primaria": {
             "emocion": "Neutral",
@@ -357,7 +336,7 @@
         }
     },
     {
-        "id": 18,
+        "id": 17,
         "texto": "De pronto Jordán, con honda ternura, le pasó la mano por la cabeza, y Alicia rompió en seguida en sollozos, echándole los brazos al cuello.",
         "primaria": {
             "emocion": "Alegría",
@@ -378,7 +357,7 @@
         }
     },
     {
-        "id": 19,
+        "id": 18,
         "texto": "Lloró largamente todo su espanto callado, redoblando el llanto a la menor tentativa de caricia.",
         "primaria": {
             "emocion": "Tristeza",
@@ -399,7 +378,7 @@
         }
     },
     {
-        "id": 20,
+        "id": 19,
         "texto": "Luego los sollozos fueron retardándose, y aún quedó largo rato escondida en su cuello, sin moverse ni decir una palabra.",
         "primaria": {
             "emocion": "Neutral",
@@ -420,7 +399,7 @@
         }
     },
     {
-        "id": 21,
+        "id": 20,
         "texto": "Fué ese el último día que Alicia estuvo levantada.",
         "primaria": {
             "emocion": "Neutral",
@@ -441,7 +420,7 @@
         }
     },
     {
-        "id": 22,
+        "id": 21,
         "texto": "Al día siguiente amaneció desvanecida.",
         "primaria": {
             "emocion": "Tristeza",
@@ -462,7 +441,7 @@
         }
     },
     {
-        "id": 23,
+        "id": 22,
         "texto": "El médico de Jordán la examinó con suma detención, ordenándole calma y descanso absolutos.",
         "primaria": {
             "emocion": "Neutral",
@@ -483,7 +462,7 @@
         }
     },
     {
-        "id": 24,
+        "id": 23,
         "texto": "—No sé—le dijo a Jordán en la puerta de calle, con la voz todavía baja.—Tiene una gran debilidad que no me explico, y sin vómitos, nada... Si mañana se despierta como hoy, llámeme en seguida.",
         "primaria": {
             "emocion": "Neutral",
@@ -504,7 +483,7 @@
         }
     },
     {
-        "id": 25,
+        "id": 24,
         "texto": "Al otro día Alicia seguía peor.",
         "primaria": {
             "emocion": "Neutral",
@@ -525,7 +504,7 @@
         }
     },
     {
-        "id": 26,
+        "id": 25,
         "texto": "Hubo consulta.",
         "primaria": {
             "emocion": "Neutral",
@@ -546,7 +525,7 @@
         }
     },
     {
-        "id": 27,
+        "id": 26,
         "texto": "Constatóse una anemia de marcha agudísima, completamente inexplicable.",
         "primaria": {
             "emocion": "Sorpresa",
@@ -567,7 +546,7 @@
         }
     },
     {
-        "id": 28,
+        "id": 27,
         "texto": "Alicia no tuvo más desmayos, pero se iba visiblemente a la muerte.",
         "primaria": {
             "emocion": "Tristeza",
@@ -588,7 +567,7 @@
         }
     },
     {
-        "id": 29,
+        "id": 28,
         "texto": "Todo el día el dormitorio estaba con las luces prendidas y en pleno silencio.",
         "primaria": {
             "emocion": "Neutral",
@@ -609,7 +588,7 @@
         }
     },
     {
-        "id": 30,
+        "id": 29,
         "texto": "Pasábanse horas sin oir el menor ruido.",
         "primaria": {
             "emocion": "Neutral",
@@ -630,7 +609,7 @@
         }
     },
     {
-        "id": 31,
+        "id": 30,
         "texto": "Alicia dormitaba.",
         "primaria": {
             "emocion": "Neutral",
@@ -651,7 +630,7 @@
         }
     },
     {
-        "id": 32,
+        "id": 31,
         "texto": "Jordán vivía casi en la sala, también con toda la luz encendida.",
         "primaria": {
             "emocion": "Neutral",
@@ -672,7 +651,7 @@
         }
     },
     {
-        "id": 33,
+        "id": 32,
         "texto": "Paseábase sin cesar de un extremo a otro, con incansable obstinación.",
         "primaria": {
             "emocion": "Neutral",
@@ -693,7 +672,7 @@
         }
     },
     {
-        "id": 34,
+        "id": 33,
         "texto": "La alfombra ahogaba sus pasos.",
         "primaria": {
             "emocion": "Neutral",
@@ -714,7 +693,7 @@
         }
     },
     {
-        "id": 35,
+        "id": 34,
         "texto": "A ratos entraba en el dormitorio y proseguía su mudo vaivén a lo largo de la cama, mirando a su mujer cada vez que caminaba en su dirección.",
         "primaria": {
             "emocion": "Neutral",
@@ -735,7 +714,7 @@
         }
     },
     {
-        "id": 36,
+        "id": 35,
         "texto": "Pronto Alicia comenzó a tener alucinaciones, confusas y flotantes al principio, y que descendieron luego a ras del suelo.",
         "primaria": {
             "emocion": "Neutral",
@@ -756,7 +735,7 @@
         }
     },
     {
-        "id": 37,
+        "id": 36,
         "texto": "La joven, con los ojos desmesuradamente abiertos, no hacía sino mirar la alfombra a uno y otro lado del respaldo de la cama.",
         "primaria": {
             "emocion": "Neutral",
@@ -777,7 +756,7 @@
         }
     },
     {
-        "id": 38,
+        "id": 37,
         "texto": "Una noche se quedó de repente mirando fijamente.",
         "primaria": {
             "emocion": "Neutral",
@@ -798,7 +777,7 @@
         }
     },
     {
-        "id": 39,
+        "id": 38,
         "texto": "Al rato abrió la boca para gritar, y sus narices y labios se perlaron de sudor.",
         "primaria": {
             "emocion": "Neutral",
@@ -819,7 +798,7 @@
         }
     },
     {
-        "id": 40,
+        "id": 39,
         "texto": "—¡Jordán! ¡Jordán!—clamó, rígida de espanto, sin dejar de mirar la alfombra.",
         "primaria": {
             "emocion": "Sorpresa",
@@ -840,7 +819,7 @@
         }
     },
     {
-        "id": 41,
+        "id": 40,
         "texto": "Jordán corrió al dormitorio, y al verlo aparecer Alicia dió un alarido de horror.",
         "primaria": {
             "emocion": "Miedo",
@@ -861,7 +840,7 @@
         }
     },
     {
-        "id": 42,
+        "id": 41,
         "texto": "—¡Soy yo, Alicia, soy yo!",
         "primaria": {
             "emocion": "Alegría",
@@ -882,7 +861,7 @@
         }
     },
     {
-        "id": 43,
+        "id": 42,
         "texto": "Alicia lo miró con extravío, miró la alfombra, volvió a mirarlo, y después de largo rato de estupefacta confrontación, se serenó.",
         "primaria": {
             "emocion": "Neutral",
@@ -903,7 +882,7 @@
         }
     },
     {
-        "id": 44,
+        "id": 43,
         "texto": "Sonrió y tomó entre las suyas la mano de su marido, acariciándola temblando.",
         "primaria": {
             "emocion": "Neutral",
@@ -924,7 +903,7 @@
         }
     },
     {
-        "id": 45,
+        "id": 44,
         "texto": "Entre sus alucinaciones más porfiadas, hubo un antropoide, apoyado en la alfombra sobre los dedos, que tenía fijos en ella los ojos.",
         "primaria": {
             "emocion": "Sorpresa",
@@ -945,7 +924,7 @@
         }
     },
     {
-        "id": 46,
+        "id": 45,
         "texto": "Los médicos volvieron inútilmente.",
         "primaria": {
             "emocion": "Enojo",
@@ -966,7 +945,7 @@
         }
     },
     {
-        "id": 47,
+        "id": 46,
         "texto": "Había allí delante de ellos una vida que se acababa, desangrándose día a día, hora a hora, sin saber absolutamente cómo.",
         "primaria": {
             "emocion": "Tristeza",
@@ -987,7 +966,7 @@
         }
     },
     {
-        "id": 48,
+        "id": 47,
         "texto": "En la última consulta Alicia yacía en estupor mientras ellos la pulsaban, pasándose de uno a otro la muñeca inerte.",
         "primaria": {
             "emocion": "Neutral",
@@ -1008,7 +987,7 @@
         }
     },
     {
-        "id": 49,
+        "id": 48,
         "texto": "La observaron largo rato en silencio y pasaron al comedor.",
         "primaria": {
             "emocion": "Neutral",
@@ -1029,7 +1008,7 @@
         }
     },
     {
-        "id": 50,
+        "id": 49,
         "texto": "—Pst...—se encogió de hombros desalentado su médico.—Es un caso serio... poco hay que hacer...",
         "primaria": {
             "emocion": "Neutral",
@@ -1050,7 +1029,7 @@
         }
     },
     {
-        "id": 51,
+        "id": 50,
         "texto": "—¡Sólo eso me faltaba!—resopló Jordán. Y tamborileó bruscamente sobre la mesa.",
         "primaria": {
             "emocion": "Neutral",
@@ -1071,7 +1050,7 @@
         }
     },
     {
-        "id": 52,
+        "id": 51,
         "texto": "Alicia fué extinguiéndose en subdelirio de anemia, agravado de tarde, pero que remitía siempre en las primeras horas.",
         "primaria": {
             "emocion": "Neutral",
@@ -1092,7 +1071,7 @@
         }
     },
     {
-        "id": 53,
+        "id": 52,
         "texto": "Durante el día no avanzaba su enfermedad, pero cada mañana amanecía lívida, en síncope casi.",
         "primaria": {
             "emocion": "Neutral",
@@ -1113,7 +1092,7 @@
         }
     },
     {
-        "id": 54,
+        "id": 53,
         "texto": "Parecía que únicamente de noche se le fuera la vida en nuevas olas de sangre.",
         "primaria": {
             "emocion": "Neutral",
@@ -1134,7 +1113,7 @@
         }
     },
     {
-        "id": 55,
+        "id": 54,
         "texto": "Tenía siempre al despertar la sensación de estar desplomada en la cama con un millón de kilos encima.",
         "primaria": {
             "emocion": "Neutral",
@@ -1155,7 +1134,7 @@
         }
     },
     {
-        "id": 56,
+        "id": 55,
         "texto": "Desde el tercer día este hundimiento no la abandonó más.",
         "primaria": {
             "emocion": "Neutral",
@@ -1176,7 +1155,7 @@
         }
     },
     {
-        "id": 57,
+        "id": 56,
         "texto": "Apenas podía mover la cabeza.",
         "primaria": {
             "emocion": "Neutral",
@@ -1197,7 +1176,7 @@
         }
     },
     {
-        "id": 58,
+        "id": 57,
         "texto": "No quiso que le tocaran la cama, ni aún que le arreglaran el almohadón.",
         "primaria": {
             "emocion": "Neutral",
@@ -1218,7 +1197,7 @@
         }
     },
     {
-        "id": 59,
+        "id": 58,
         "texto": "Sus terrores crepusculares avanzaron en forma de monstruos que se arrastraban hasta la cama y trepaban dificultosamente por la colcha.",
         "primaria": {
             "emocion": "Neutral",
@@ -1239,7 +1218,7 @@
         }
     },
     {
-        "id": 60,
+        "id": 59,
         "texto": "Perdió, luego, el conocimiento.",
         "primaria": {
             "emocion": "Tristeza",
@@ -1260,7 +1239,7 @@
         }
     },
     {
-        "id": 61,
+        "id": 60,
         "texto": "Los dos días finales deliró sin cesar a media voz.",
         "primaria": {
             "emocion": "Neutral",
@@ -1281,7 +1260,7 @@
         }
     },
     {
-        "id": 62,
+        "id": 61,
         "texto": "Las luces continuaban fúnebremente encendidas en el dormitorio y la sala.",
         "primaria": {
             "emocion": "Neutral",
@@ -1302,7 +1281,7 @@
         }
     },
     {
-        "id": 63,
+        "id": 62,
         "texto": "En el silencio agónico de la casa, no se oía más que el delirio monótono que salía de la cama, y el rumor ahogado de los eternos pasos de Jordán.",
         "primaria": {
             "emocion": "Neutral",
@@ -1323,7 +1302,7 @@
         }
     },
     {
-        "id": 64,
+        "id": 63,
         "texto": "Murió, por fin.",
         "primaria": {
             "emocion": "Tristeza",
@@ -1344,7 +1323,7 @@
         }
     },
     {
-        "id": 65,
+        "id": 64,
         "texto": "La sirvienta, que entró después a deshacer la cama, sola ya, miró un rato extrañada el almohadón.",
         "primaria": {
             "emocion": "Neutral",
@@ -1365,7 +1344,7 @@
         }
     },
     {
-        "id": 66,
+        "id": 65,
         "texto": "—Señor—llamó a Jordán en voz baja.—En el almohadón hay manchas que parecen de sangre.",
         "primaria": {
             "emocion": "Neutral",
@@ -1386,7 +1365,7 @@
         }
     },
     {
-        "id": 67,
+        "id": 66,
         "texto": "Jordán se acercó rápidamente y se dobló a su vez.",
         "primaria": {
             "emocion": "Neutral",
@@ -1407,7 +1386,7 @@
         }
     },
     {
-        "id": 68,
+        "id": 67,
         "texto": "Efectivamente, sobre la funda, a ambos lados del hueco que había dejado la cabeza de Alicia, se veían manchas de sangre.",
         "primaria": {
             "emocion": "Neutral",
@@ -1428,7 +1407,7 @@
         }
     },
     {
-        "id": 69,
+        "id": 68,
         "texto": "—Parecen picaduras—murmuró la sirvienta después de un rato de inmóvil observación.",
         "primaria": {
             "emocion": "Neutral",
@@ -1449,7 +1428,7 @@
         }
     },
     {
-        "id": 70,
+        "id": 69,
         "texto": "—Levántelo a la luz—le dijo Jordán.",
         "primaria": {
             "emocion": "Neutral",
@@ -1470,7 +1449,7 @@
         }
     },
     {
-        "id": 71,
+        "id": 70,
         "texto": "La sirvienta lo levantó, pero en seguida lo dejó caer, y se quedó mirando a aquél, lívida y temblando.",
         "primaria": {
             "emocion": "Neutral",
@@ -1491,7 +1470,7 @@
         }
     },
     {
-        "id": 72,
+        "id": 71,
         "texto": "Sin saber por qué, Jordán sintió que los cabellos se le erizaban.",
         "primaria": {
             "emocion": "Neutral",
@@ -1512,7 +1491,7 @@
         }
     },
     {
-        "id": 73,
+        "id": 72,
         "texto": "—¿Qué hay?—murmuró con la voz ronca.",
         "primaria": {
             "emocion": "Neutral",
@@ -1533,7 +1512,7 @@
         }
     },
     {
-        "id": 74,
+        "id": 73,
         "texto": "—Pesa mucho—articuló la sirvienta, sin dejar de temblar.",
         "primaria": {
             "emocion": "Neutral",
@@ -1554,7 +1533,7 @@
         }
     },
     {
-        "id": 75,
+        "id": 74,
         "texto": "Jordán lo levantó; pesaba extraordinariamente.",
         "primaria": {
             "emocion": "Neutral",
@@ -1575,7 +1554,7 @@
         }
     },
     {
-        "id": 76,
+        "id": 75,
         "texto": "Salieron con él, y sobre la mesa del comedor Jordán cortó funda y envoltura de un tajo.",
         "primaria": {
             "emocion": "Neutral",
@@ -1596,7 +1575,7 @@
         }
     },
     {
-        "id": 77,
+        "id": 76,
         "texto": "Las plumas superiores volaron, y la sirvienta dió un grito de horror con toda la boca abierta, llevándose las manos crispadas a los bandós:—sobre el fondo, entre las plumas, moviendo lentamente las patas velludas, había un animal monstruoso, una bola viviente y viscosa.",
         "primaria": {
             "emocion": "Sorpresa",
@@ -1617,7 +1596,7 @@
         }
     },
     {
-        "id": 78,
+        "id": 77,
         "texto": "Estaba tan hinchado que apenas se le pronunciaba la boca.",
         "primaria": {
             "emocion": "Neutral",
@@ -1638,7 +1617,7 @@
         }
     },
     {
-        "id": 79,
+        "id": 78,
         "texto": "Noche a noche, desde que Alicia había caído en cama, había aplicado sigilosamente su boca—su trompa, mejor dicho—a las sientes de aquella, chupándole la sangre.",
         "primaria": {
             "emocion": "Neutral",
@@ -1659,7 +1638,7 @@
         }
     },
     {
-        "id": 80,
+        "id": 79,
         "texto": "La picadura era casi imperceptible.",
         "primaria": {
             "emocion": "Neutral",
@@ -1680,7 +1659,7 @@
         }
     },
     {
-        "id": 81,
+        "id": 80,
         "texto": "La remoción diaria del almohadón había impedido sin duda su desarrollo, pero desde que la joven no pudo moverse, la succión fué vertiginosa.",
         "primaria": {
             "emocion": "Neutral",
@@ -1701,7 +1680,7 @@
         }
     },
     {
-        "id": 82,
+        "id": 81,
         "texto": "En cinco días, en cinco noches, había vaciado a Alicia.",
         "primaria": {
             "emocion": "Neutral",
@@ -1722,7 +1701,7 @@
         }
     },
     {
-        "id": 83,
+        "id": 82,
         "texto": "Estos parásitos de las aves, diminutos en el medio habitual, llegan a adquirir en ciertas condiciones proporciones enormes.",
         "primaria": {
             "emocion": "Neutral",
@@ -1743,7 +1722,7 @@
         }
     },
     {
-        "id": 84,
+        "id": 83,
         "texto": "La sangre humana parece serles particularmente favorable, y no es raro hallarlos en los almohadones de pluma.",
         "primaria": {
             "emocion": "Neutral",
