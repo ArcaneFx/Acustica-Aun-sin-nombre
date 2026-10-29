@@ -243,6 +243,7 @@ afinar Piper con una voz expresiva (necesita horas de audio y GPU).
 | Mapeo emoción → parámetros de voz | Hecho (hipótesis sin calibrar) |
 | Narración con Piper | Hecho (prototipo, flujo completo en `script.py`) |
 | Prueba de escucha con oyentes | Pendiente |
+| Calibrar la tabla emoción → voz con lo que digan los oyentes | Pendiente |
 | Usar la emoción secundaria cuando la primaria es Neutral con baja confianza | Idea sin probar |
 | TTS de pago / clonación de voz / afinar Piper | Descartado por ahora |
 
@@ -283,15 +284,20 @@ de cada oración se detecta primero y después se usa para dirigir la voz.
 |------|--------------|------|
 | Hito 1 | fines de septiembre | Problema, datos, repositorio y prototipo de la Fase 1 |
 | Hito 2 | fines de octubre | Fase 1 sobre cuentos completos + Fase 2 concreta conectada a la Fase 1 (primer audio con emoción). **Cumplido a nivel de prototipo** |
-| Hito 3 | fines de noviembre | Cierre del proyecto (propuesta, por confirmar con el equipo): ver abajo |
+| Hito 3 | fines de noviembre | Cierre del proyecto: audio más natural, interfaz con el flujo completo y evaluación ampliada (ver abajo) |
 
-**Propuesta para el Hito 3**, en orden de prioridad:
+**Plan para el Hito 3** (el mismo de la presentación del Hito 2):
 
-1. Etiquetar a mano los otros dos cuentos y reevaluar (hoy solo hay un cuento y una persona).
-2. Prueba de escucha con oyentes: ¿se distingue la emoción? ¿`_base` contra modulado? ¿qué voz suena mejor?
-3. Segmentar mejor los diálogos largos y probar usar la emoción secundaria cuando la primaria es Neutral con baja confianza.
-4. Calibrar la tabla emoción → voz con lo que digan los oyentes.
-5. Si hay tiempo: probar clonación de voz en Colab. **Probablemente no se alcance.**
+- **Prioridades:** refinar la generación de audio y de texto para lograr más naturalidad, y construir una interfaz con el
+  flujo completo, con los botones «Analizar texto» y «Generar audio» y un diseño inicial.
+- **Pendientes:** autoevaluar el avance contra la pauta del Hito (la rúbrica del profesor) y ampliar la evaluación a más
+  oraciones y cuentos (hoy solo hay etiquetas de *El almohadón de pluma*).
+- **Qué no se alcanzará:** una app pulida de producción. El entregable del Hito 3 será un prototipo funcional de la
+  interfaz, no un producto final.
+
+La interfaz partiría de `script.py`, que ya une los pasos del flujo (limpieza, Fase 1, evaluación, gráfico y Fase 2). Los
+pendientes técnicos que ya conocemos (segmentar los diálogos largos, la prueba de escucha con oyentes y calibrar la tabla
+emoción → voz) figuran en la tabla de [Estado del pipeline](#estado-del-pipeline).
 
 ## Estructura del repositorio
 

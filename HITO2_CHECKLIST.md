@@ -76,7 +76,7 @@ Reglas para mantenerlo independiente:
 - [x] Lista de decisiones con la evidencia que las respalda (README, `docs/seccion_*.md`).
 - [x] Dificultades reales y cómo se enfrentaron (README, `docs/seccion_*.md`).
 - [x] Pipeline actualizado con estados: hecho · en desarrollo · descartado · pendiente (README).
-- [x] Plan al Hito 3 (README): prioridades, qué probablemente no se alcanzará. Es una **propuesta**: falta confirmarla con el equipo.
+- [x] Plan al Hito 3 (README y diapositiva 8): prioridades, pendientes y qué no se alcanzará (una app pulida de producción).
 
 ### 6. Repositorio, documentación y reproducibilidad (10%)
 - [ ] Repo = el mismo del Hito 1 (confirmar con el equipo; el dueño es `ArcaneFx/Acustica-Aun-sin-nombre`, y es el que usa el README).
