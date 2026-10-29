@@ -1,0 +1,46 @@
+Oraciones etiquetadas: 83 | encontradas en las predicciones: 83
+Acierto (emoción primaria):          61/83 = 73.5%
+Acierto (primaria o secundaria):     72/83 = 86.7%
+
+Matriz de confusión (filas = etiqueta manual, columnas = predicción del modelo)
+           Alegría Tristeza    Enojo    Miedo Sorpresa Disgusto  Neutral
+Alegría          3        0        0        0        0        0        1
+Tristeza         0        6        0        0        0        0        5
+Enojo            0        1        0        0        0        0        0
+Miedo            0        0        0        1        0        0        5
+Sorpresa         0        1        0        0        4        0        7
+Disgusto         0        0        0        0        0        0        1
+Neutral          0        0        1        0        0        0       47
+
+Emoción    Etiquetadas  Predichas  Precisión   Recall
+Alegría              4          3       100%      75%
+Tristeza            11          8        75%      55%
+Enojo                1          1         0%       0%
+Miedo                6          1       100%      17%
+Sorpresa            12          4       100%      33%
+Disgusto             1          0          -       0%
+Neutral             48         66        71%      98%
+
+Errores (para interpretar):
+- manual=Tristeza | modelo=Neutral 96% | Sin duda hubiera ella deseado menos severidad en ese rígido cielo de amor, más expansiva e incauta ternura; pero el impasible semblante de su marido la contenía en seguida.
+- manual=Tristeza | modelo=Neutral 92% | Luego los sollozos fueron retardándose, y aún quedó largo rato escondida en su cuello, sin moverse ni decir una palabra.
+- manual=Sorpresa | modelo=Neutral 98% | Fué ese el último día que Alicia estuvo levantada.
+- manual=Tristeza | modelo=Neutral 82% | Al otro día Alicia seguía peor.
+- manual=Miedo | modelo=Neutral 41% | Pronto Alicia comenzó a tener alucinaciones, confusas y flotantes al principio, y que descendieron luego a ras del suelo.
+- manual=Tristeza | modelo=Neutral 98% | La joven, con los ojos desmesuradamente abiertos, no hacía sino mirar la alfombra a uno y otro lado del respaldo de la cama.
+- manual=Sorpresa | modelo=Neutral 75% | Al rato abrió la boca para gritar, y sus narices y labios se perlaron de sudor.
+- manual=Alegría | modelo=Neutral 81% | Sonrió y tomó entre las suyas la mano de su marido, acariciándola temblando.
+- manual=Neutral | modelo=Enojo 90% | Los médicos volvieron inútilmente.
+- manual=Enojo | modelo=Tristeza 83% | Había allí delante de ellos una vida que se acababa, desangrándose día a día, hora a hora, sin saber absolutamente cómo.
+- manual=Sorpresa | modelo=Neutral 51% | —¡Sólo eso me faltaba!—resopló Jordán. Y tamborileó bruscamente sobre la mesa.
+- manual=Miedo | modelo=Neutral 61% | Sus terrores crepusculares avanzaron en forma de monstruos que se arrastraban hasta la cama y trepaban dificultosamente por la colcha.
+- manual=Sorpresa | modelo=Tristeza 86% | Perdió, luego, el conocimiento.
+- manual=Sorpresa | modelo=Neutral 94% | —Señor—llamó a Jordán en voz baja.—En el almohadón hay manchas que parecen de sangre.
+- manual=Sorpresa | modelo=Neutral 76% | —Parecen picaduras—murmuró la sirvienta después de un rato de inmóvil observación.
+- manual=Sorpresa | modelo=Neutral 85% | La sirvienta lo levantó, pero en seguida lo dejó caer, y se quedó mirando a aquél, lívida y temblando.
+- manual=Miedo | modelo=Neutral 90% | Sin saber por qué, Jordán sintió que los cabellos se le erizaban.
+- manual=Miedo | modelo=Neutral 88% | —¿Qué hay?—murmuró con la voz ronca.
+- manual=Miedo | modelo=Neutral 94% | —Pesa mucho—articuló la sirvienta, sin dejar de temblar.
+- manual=Sorpresa | modelo=Neutral 94% | Jordán lo levantó; pesaba extraordinariamente.
+- manual=Disgusto | modelo=Neutral 96% | Noche a noche, desde que Alicia había caído en cama, había aplicado sigilosamente su boca—su trompa, mejor dicho—a las sientes de aquella, chupándole la sangre.
+- manual=Tristeza | modelo=Neutral 81% | En cinco días, en cinco noches, había vaciado a Alicia.
